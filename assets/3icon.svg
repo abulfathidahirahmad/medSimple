@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <!-- Deep Midnight Background -->
+    <linearGradient id="sharpBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <!-- Vivid Sharp Accent -->
+    <linearGradient id="checkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+
+  <!-- Deep Obsidian Squircle -->
+  <rect width="512" height="512" rx="120" fill="url(#sharpBg)" />
+  <rect x="16" y="16" width="480" height="480" rx="104" stroke="#ffffff" stroke-opacity="0.12" stroke-width="4" />
+
+  <!-- ULTRA-CLEAN, RAZOR-SHARP MEDICAL CROSS & CHECKMARK MONOGRAM -->
+  <g transform="translate(136, 126)">
+
+    <!-- VERTICAL CROSS BAR -->
+    <rect x="96" y="0" width="48" height="260" rx="14" fill="#ffffff" />
+
+    <!-- HORIZONTAL CROSS BAR (LEFT ARM) -->
+    <rect x="0" y="96" width="120" height="48" rx="14" fill="#ffffff" />
+
+    <!-- RAZOR-SHARP EMBEDDED DYNAMIC CHECKMARK (RIGHT ARM & CHECK) -->
+    <path d="M 96 140 L 140 184 L 250 50" 
+          stroke="url(#checkGrad)" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 96 140 L 140 184 L 250 50" 
+          stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
+
+  </g>
+</svg>
