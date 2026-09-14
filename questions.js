@@ -8370,31 +8370,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "A child can be vaccinated without getting immunised",
         "answer": "T",
-        "explanation": "Vaccine administration (vaccination) may fail to evoke an immune response (immunization)"
+        "explanation": "Vaccination is the administration of a vaccine. If the child fails to mount an immune response (e.g. primary vaccine failure or severe immunodeficiency), vaccination has occurred without successful immunization."
       },
       {
         "id": "B",
         "text": "A child can be immunized without being vaccinated",
         "answer": "T",
-        "explanation": "Natural infection confers immunity (immunization) without vaccination"
+        "explanation": "Immunization refers to gaining immunity. Natural infection (e.g. measles infection) confers active immunity without receiving a vaccine."
       },
       {
         "id": "C",
         "text": "A child who is vaccinated always gets immunised",
         "answer": "F",
-        "explanation": "Primary vaccine failure occurs in a percentage of vaccinated individuals"
+        "explanation": "Primary vaccine failure (failure to seroconvert) occurs in a small percentage of vaccinated individuals, so vaccination does not guarantee immunization."
       },
       {
         "id": "D",
         "text": "A child can not be immunized without being vaccinated",
         "answer": "F",
-        "explanation": "Passive immunity (e.g."
+        "explanation": "A child can gain passive immunity (e.g. via transplacental IgG antibodies or breast milk IgA) or active immunity (via natural infection) without receiving a vaccine."
       },
       {
         "id": "E",
         "text": "Immunization and vaccination are the same thing",
         "answer": "F",
-        "explanation": "transplacental antibodies) immunizes without vaccination"
+        "explanation": "Vaccination is the physical administration of an antigenic material/vaccine, whereas immunization is the process by which the body develops immune protection."
       }
     ]
   },
@@ -9628,31 +9628,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "History from parents/caregivers is more reliable than that of the child",
         "answer": "F",
-        "explanation": "This statement is incorrect: History from parents/caregivers is more reliable than that of the child."
+        "explanation": "In pediatric history taking, history from parents/caregivers is indispensable for infants and young children, but older children can provide reliable details regarding their own symptoms (e.g., pain location, onset). Neither source is universally more reliable; both should be integrated."
       },
       {
         "id": "B",
         "text": "Nutritional Hx starts from first hour of life up to the last meal prior to presentation",
         "answer": "T",
-        "explanation": "This statement is correct: Nutritional Hx starts from first hour of life up to the last meal prior to presentation."
+        "explanation": "A complete pediatric nutritional history begins with feeding practices in the first hours of life (colostrum, breastfeeding initiation) and covers dietary intake up to the last meal prior to presentation."
       },
       {
         "id": "C",
         "text": "Positive history obtained during review of symptoms should be presented during HPC",
         "answer": "T",
-        "explanation": "This statement is correct: Positive history obtained during review of symptoms should be presented during HPC."
+        "explanation": "Any significant positive findings elicited during the systematic review of systems should be incorporated into the History of Present Illness (HPC) to provide a unified clinical narrative."
       },
       {
         "id": "D",
         "text": "History of hospital stay should be presented after summary",
         "answer": "F",
-        "explanation": "This statement is incorrect: History of hospital stay should be presented after summary."
+        "explanation": "Past medical history, including past hospital stays, must be detailed in the Past Medical History section before the summary, not after it."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Very few clinical history points or physical signs are pathognomonic; comprehensive evaluation and differential diagnosis are always required."
       }
     ]
   },
@@ -9665,31 +9665,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Digital clubbing",
         "answer": "T",
-        "explanation": "This statement is correct: Digital clubbing."
+        "explanation": "Digital clubbing is a classic physical sign of chronic hypoxemia or chronic intrathoracic suppuration (e.g., cyanotic congenital heart disease, bronchiectasis, cystic fibrosis, empyema)."
       },
       {
         "id": "B",
         "text": "Cervical lymphadenopathy greater than 3cm",
         "answer": "T",
-        "explanation": "This statement is correct: Cervical lymphadenopathy greater than 3cm."
+        "explanation": "Significant cervical lymphadenopathy (>2–3 cm) persisting for weeks is a sign of chronic infection (e.g., tuberculosis, EBV, HIV) or lymphoproliferative malignancy."
       },
       {
         "id": "C",
         "text": "Weight for height less than -3SD score",
         "answer": "F",
-        "explanation": "This statement is incorrect: Weight for height less than -3SD score."
+        "explanation": "Weight-for-height less than -3 SD score defines severe acute malnutrition (wasting), reflecting acute weight loss rather than chronic disease."
       },
       {
         "id": "D",
         "text": "Height for age less than 50th percentile",
-        "answer": "T",
-        "explanation": "This statement is correct: Height for age less than 50th percentile."
+        "answer": "F",
+        "explanation": "Height-for-age below the 50th percentile is a normal finding for 50% of the population. Stunting (chronic malnutrition/disease) is defined as height-for-age less than -2 SD (below the 3rd percentile)."
       },
       {
         "id": "E",
         "text": "Moderate ascites",
         "answer": "F",
-        "explanation": "This statement is incorrect: Moderate ascites."
+        "explanation": "Moderate ascites typically presents with acute or subacute abdominal distension and is a sign of underlying liver, renal, or peritoneal pathology rather than an isolated specific marker of chronicity."
       }
     ]
   },
@@ -9702,31 +9702,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Tuberous sclerosis",
         "answer": "T",
-        "explanation": "This statement is correct: Tuberous sclerosis."
+        "explanation": "Wood's lamp examination (ultraviolet light) aids in detecting hypopigmented ash-leaf macules in infants evaluated for tuberous sclerosis complex."
       },
       {
         "id": "B",
         "text": "Dermatophytoses",
         "answer": "T",
-        "explanation": "This statement is correct: Dermatophytoses."
+        "explanation": "Certain dermatophytoses (e.g., Microsporum species causing tinea capitis) emit a characteristic bright green fluorescence under Wood's lamp illumination."
       },
       {
         "id": "C",
         "text": "Porphyria",
         "answer": "T",
-        "explanation": "This statement is correct: Porphyria."
+        "explanation": "Porphyrins in the urine, teeth, or skin of patients with porphyria fluoresce pink-red under Wood's light examination."
       },
       {
         "id": "D",
         "text": "Vitiligo",
         "answer": "T",
-        "explanation": "This statement is correct: Vitiligo."
+        "explanation": "Wood's lamp accentuates epidermal pigment loss, making vitiligo lesions sharply demarcated and easier to evaluate, especially in fair-skinned individuals."
       },
       {
         "id": "E",
         "text": "Corneal ulceration",
         "answer": "F",
-        "explanation": "This statement is incorrect: Corneal ulceration."
+        "explanation": "Corneal ulceration is diagnosed using a slit-lamp examination with fluorescein stain under cobalt blue light, not a Wood's lamp."
       }
     ]
   },
@@ -9739,31 +9739,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Liver enlargement in the right hypochondrium",
         "answer": "T",
-        "explanation": "Liver enlargement in the right hypochondrium — > 4 cm in newborn, > 2 cm in infants."
+        "explanation": "Physiologic liver palpable up to 2 cm below the costal margin is normal in infants and up to 4 cm in neonates; extension beyond these limits indicates hepatomegaly."
       },
       {
         "id": "B",
         "text": "Tipped spleen is twice the normal splenic size",
         "answer": "F",
-        "explanation": "This statement is incorrect: Tipped spleen is twice the normal splenic size."
+        "explanation": "A palpable spleen tip (\"tipped spleen\") can be a normal variant in up to 10–15% of healthy infants and children and does not imply double the normal size."
       },
       {
         "id": "C",
         "text": "If a mass is palpated in congenital hypertrophic pyloric stenosis, if not excised it will become malignant",
         "answer": "F",
-        "explanation": "This statement is incorrect: If a mass is palpated in congenital hypertrophic pyloric stenosis, if not excised it will become malignant."
+        "explanation": "The olive-shaped mass in congenital hypertrophic pyloric stenosis consists of hypertrophied smooth muscle tissue and is entirely benign with no risk of malignant transformation."
       },
       {
         "id": "D",
         "text": "If the 'pancreatic tumour' is not excised early, it can lead to malignant transformation",
-        "answer": "T",
-        "explanation": "This statement is correct: If the 'pancreatic tumour' is not excised early, it can lead to malignant transformation."
+        "answer": "F",
+        "explanation": "Pediatric pancreatic lesions such as pseudocysts or rare tumours are evaluated on individual pathology; they do not automatically undergo malignant transformation solely due to delayed excision."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Abdominal findings require clinical correlation as virtually no single physical finding in abdominal examination is strictly pathognomonic."
       }
     ]
   },
@@ -9776,31 +9776,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Craniosynostosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Craniosynostosis."
+        "explanation": "Craniosynostosis causes premature (early) closure of cranial sutures and fontanelles, not delayed closure."
       },
       {
         "id": "B",
         "text": "Hydrocephalus",
         "answer": "T",
-        "explanation": "This statement is correct: Hydrocephalus."
+        "explanation": "Increased intracranial pressure in hydrocephalus expands the calvarium and prevents normal apposition of cranial bones, leading to delayed closure of the anterior fontanelle beyond 18 months."
       },
       {
         "id": "C",
         "text": "Congenital hypothyroidism",
         "answer": "T",
-        "explanation": "This statement is correct: Congenital hypothyroidism."
+        "explanation": "Congenital hypothyroidism causes delayed bone maturation, leading to persistence of large fontanelles and delayed anterior fontanelle closure."
       },
       {
         "id": "D",
         "text": "Nutritional rickets",
         "answer": "T",
-        "explanation": "This statement is correct: Nutritional rickets."
+        "explanation": "Nutritional rickets impairs osteoid mineralization, causing soft calvarial bones (craniotabes) and delayed fontanelle closure."
       },
       {
         "id": "E",
         "text": "Protein energy malnutrition",
         "answer": "T",
-        "explanation": "This statement is correct: Protein energy malnutrition."
+        "explanation": "Severe protein-energy malnutrition causes generalized growth failure and delayed skeletal maturation, leading to delayed fontanelle closure."
       }
     ]
   },
@@ -9813,31 +9813,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Craniosynostosis — Apert's syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Craniosynostosis — Apert's syndrome."
+        "explanation": "Apert syndrome is a complex craniosynostosis syndrome characterized by premature suture fusion (often bicoronal), midface hypoplasia, and symmetric syndactyly."
       },
       {
         "id": "B",
         "text": "Scaphocephalus — Down syndrome",
         "answer": "F",
-        "explanation": "This statement is incorrect: Scaphocephalus — Down syndrome."
+        "explanation": "Scaphocephaly (premature sagittal suture fusion) is not a feature of Down syndrome; Down syndrome is typically associated with brachycephaly (flat occiput)."
       },
       {
         "id": "C",
         "text": "Cracked pot sign — congenital hypothyroidism",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cracked pot sign — congenital hypothyroidism."
+        "explanation": "The \"cracked-pot\" sign (Macewen sign) indicates sutural separation due to raised intracranial pressure or hydrocephalus, not congenital hypothyroidism."
       },
       {
         "id": "D",
         "text": "Bulging anterior fontanelle — Raised intracranial pressure",
         "answer": "T",
-        "explanation": "This statement is correct: Bulging anterior fontanelle — Raised intracranial pressure."
+        "explanation": "A bulging, tense anterior fontanelle in a quiet, sitting infant is a primary physical sign of raised intracranial pressure."
       },
       {
         "id": "E",
         "text": "Caput succedaneum — Rickets",
         "answer": "F",
-        "explanation": "This statement is incorrect: Caput succedaneum — Rickets."
+        "explanation": "Caput succedaneum is benign subcutaneous edema of the fetal scalp resulting from pressure during vaginal delivery and is unrelated to rickets."
       }
     ]
   },
@@ -9850,31 +9850,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is the commonest chromosomal disorder in humans",
         "answer": "T",
-        "explanation": "This statement is correct: It is the commonest chromosomal disorder in humans."
+        "explanation": "Down syndrome (Trisomy 21) is the most common live-born chromosomal abnormality, occurring in approximately 1 in 700 to 1 in 800 live births."
       },
       {
         "id": "B",
         "text": "Translocation is seen in 90% of cases",
         "answer": "F",
-        "explanation": "This statement is incorrect: Translocation is seen in 90% of cases."
+        "explanation": "Robertsonian translocation accounts for only about 3–4% of Down syndrome cases; non-disjunction (free trisomy 21) accounts for 95%."
       },
       {
         "id": "C",
         "text": "Incidence increases with advanced paternal age",
         "answer": "F",
-        "explanation": "This statement is incorrect: Incidence increases with advanced paternal age."
+        "explanation": "Advanced maternal age (especially >35 years) is the major established risk factor for meiotic non-disjunction leading to Down syndrome; advanced paternal age plays a negligible role."
       },
       {
         "id": "D",
         "text": "Cleft lip and cleft palate are common features",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cleft lip and cleft palate are common features."
+        "explanation": "Cleft lip and palate are not standard features of Down syndrome; they are classically seen in Trisomy 13 (Patau syndrome)."
       },
       {
         "id": "E",
         "text": "Predisposes risk of atlanto-axial dislocation",
         "answer": "T",
-        "explanation": "This statement is correct: Predisposes risk of atlanto-axial dislocation."
+        "explanation": "Laxity of the transverse atlanto-axial ligament predisposes 10–20% of Down syndrome patients to atlanto-axial instability and potential subluxation."
       }
     ]
   },
@@ -9887,31 +9887,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Occurrence increases with increasing maternal age",
         "answer": "T",
-        "explanation": "This statement is correct: Occurrence increases with increasing maternal age."
+        "explanation": "The incidence of meiotic non-disjunction leading to Down syndrome increases dramatically with maternal age (e.g., ~1 in 1,500 at age 20 vs ~1 in 100 at age 40)."
       },
       {
         "id": "B",
         "text": "Non-disjunction is a common cause (of 95%)",
         "answer": "T",
-        "explanation": "This statement is correct: Non-disjunction is a common cause (of 95%)."
+        "explanation": "Maternal meiotic non-disjunction during oogenesis is responsible for approximately 95% of all Down syndrome cases."
       },
       {
         "id": "C",
         "text": "Recurrence of 1% in parent with 1 child affected",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Recurrence of 1% in parent with 1 child affected."
+        "answer": "T",
+        "explanation": "The recurrence risk for trisomy 21 due to non-disjunction in a mother under 35 with one affected child is approximately 1% (or the age-specific maternal risk, whichever is higher)."
       },
       {
         "id": "D",
         "text": "Mosaic Down syndrome is a milder form",
         "answer": "T",
-        "explanation": "This statement is correct: Mosaic Down syndrome is a milder form."
+        "explanation": "Mosaic Down syndrome (where a fraction of cell lines are normal 46,XX or 46,XY) generally presents with a milder clinical phenotype and higher baseline cognitive potential."
       },
       {
         "id": "E",
         "text": "Translocation causes 4% of Down syndrome",
         "answer": "F",
-        "explanation": "This is incorrect. Translocation is 3%, Mosaic is 2%, Non-disjunction is 95%."
+        "explanation": "Robertsonian translocation accounts for approximately 3–4% of Down syndrome cases (specifically ~3%), whereas non-disjunction accounts for 95% and mosaicism 1–2%."
       }
     ]
   },
@@ -9924,31 +9924,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Brushfield spot is pathognomonic of Down syndrome",
         "answer": "T",
-        "explanation": "Brushfield spot is pathognomonic of Down syndrome — Not pathognomonic."
+        "explanation": "Brushfield spots (speckled iris spots) occur in up to 75% of newborns with Down syndrome but can also be seen in normal blue-eyed infants, so the statement claiming it is pathognomonic is INCORRECT (making this option True under the negative question stem)."
       },
       {
         "id": "B",
         "text": "All males with Down syndrome have 47, XY, +21",
         "answer": "T",
-        "explanation": "All males with Down syndrome have 47, XY, +21 — Mosaic is 46, XY/47, XY +21."
+        "explanation": "Not all males with Down syndrome have 47,XY,+21; mosaic males have 46,XY/47,XY,+21, so the statement claiming all males have 47,XY,+21 is INCORRECT (making this option True under the negative question stem)."
       },
       {
         "id": "C",
         "text": "Commonest heart defect is atrioventricular canal, occurring in 60% of cases",
         "answer": "T",
-        "explanation": "Commonest heart defect is atrioventricular canal, occurring in 60% of cases — Occurs in 40 - 50%."
+        "explanation": "Atrioventricular septal defect (AVSD / endocardial cushion defect) is the commonest congenital heart defect in Down syndrome, but it occurs in about 40–50% of affected infants, not 60%. Thus the statement is INCORRECT (making this option True under the negative question stem)."
       },
       {
         "id": "D",
         "text": "Single palmar crease is not pathognomonic",
-        "answer": "T",
-        "explanation": "This statement is correct: Single palmar crease is not pathognomonic."
+        "answer": "F",
+        "explanation": "Single transverse palmar crease occurs in ~50% of Down syndrome patients but also in 5–10% of the normal population, so it is NOT pathognomonic. The option statement \"Single palmar crease is not pathognomonic\" is a CORRECT statement, making it FALSE under the negative question stem."
       },
       {
         "id": "E",
         "text": "In classical type, IQ is as high as 80%",
         "answer": "T",
-        "explanation": "In classical type, IQ is as high as 80% — IQ is 30 to 70."
+        "explanation": "In classical Down syndrome, cognitive impairment is usually mild to moderate (mean IQ 30–50), and IQ does not reach 80%. Thus the statement claiming IQ is as high as 80% is INCORRECT (making this option True under the negative question stem)."
       }
     ]
   },
@@ -9961,31 +9961,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Upslanted palpebral fissures with epicanthal folds",
         "answer": "T",
-        "explanation": "This statement is correct: Upslanted palpebral fissures with epicanthal folds."
+        "explanation": "Upward slanting palpebral fissures with prominent medial epicanthal folds are cardinal craniofacial dysmorphic features present at birth in Down syndrome."
       },
       {
         "id": "B",
         "text": "Macroglossia",
         "answer": "T",
-        "explanation": "This statement is correct: Macroglossia."
+        "explanation": "Relative macroglossia (a normal or slightly enlarged tongue within a small oral cavity) with tongue protrusion is a characteristic neonatal feature of Down syndrome."
       },
       {
         "id": "C",
         "text": "Flattened occiput",
         "answer": "T",
-        "explanation": "This statement is correct: Flattened occiput."
+        "explanation": "Brachycephaly with a flattened occiput is a prominent cranial finding in neonates with Down syndrome."
       },
       {
         "id": "D",
         "text": "Hypotonia",
         "answer": "T",
-        "explanation": "This statement is correct: Hypotonia."
+        "explanation": "Generalized muscular hypotonia (\"floppiness\") with joint hyperflexibility is present in virtually all newborns with Down syndrome."
       },
       {
         "id": "E",
         "text": "Exaggerated space between the first and second toe",
         "answer": "T",
-        "explanation": "This statement is correct: Exaggerated space between the first and second toe."
+        "explanation": "An exaggerated gap between the first and second toes (sandal gap sign) with a plantar groove is a typical physical marker in Down syndrome."
       }
     ]
   },
@@ -9998,31 +9998,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Sydney lines",
         "answer": "T",
-        "explanation": "This statement is correct: Sydney lines."
+        "explanation": "A Sydney line (an extended proximal transverse palmar crease reaching the ulnar border) is a recognized minor dermatoglyphic variant associated with Down syndrome."
       },
       {
         "id": "B",
         "text": "Prominent epicanthic folds",
         "answer": "T",
-        "explanation": "This statement is correct: Prominent epicanthic folds."
+        "explanation": "Prominent epicanthic folds covering the inner canthus are characteristic dysmorphic facial features in children with Down syndrome."
       },
       {
         "id": "C",
         "text": "Neck webbing",
         "answer": "F",
-        "explanation": "This statement is incorrect: Neck webbing."
+        "explanation": "Neck webbing (pterygium colli) is a feature of Turner syndrome (45,X) and Noonan syndrome, not Down syndrome (which features a short neck with redundant nuchal skin)."
       },
       {
         "id": "D",
         "text": "Hypertelorism",
         "answer": "T",
-        "explanation": "This statement is correct: Hypertelorism."
+        "explanation": "Hypertelorism (widely spaced eyes) or apparent hypertelorism due to flat nasal bridge and epicanthal folds is common in Down syndrome."
       },
       {
         "id": "E",
         "text": "Ventricular septal defect",
         "answer": "T",
-        "explanation": "This statement is correct: Ventricular septal defect."
+        "explanation": "Ventricular septal defect (VSD) is one of the commonest congenital heart defects in Down syndrome, second only to complete AVSD."
       }
     ]
   },
@@ -10035,31 +10035,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Familial balanced translocation affects a small proportion",
         "answer": "T",
-        "explanation": "This statement is correct: Familial balanced translocation affects a small proportion."
+        "explanation": "Familial Robertsonian translocations (commonly t(14;21)) account for approximately 3–4% of Down syndrome cases."
       },
       {
         "id": "B",
         "text": "It is uncommon in Zaria",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is uncommon in Zaria."
+        "explanation": "Down syndrome has a worldwide distribution with constant global incidence (~1 in 700 to 1 in 800 live births), making it as common in Zaria/Nigeria as elsewhere."
       },
       {
         "id": "C",
         "text": "Valve defect is common",
         "answer": "F",
-        "explanation": "This statement is incorrect: Valve defect is common."
+        "explanation": "Atrioventricular valve malformations (e.g., common AV valve in endocardial cushion defects) are extremely common, present in ~40–50% of children with Down syndrome."
       },
       {
         "id": "D",
         "text": "Dermatoglyphic features include single palmar crease in all",
         "answer": "F",
-        "explanation": "This statement is incorrect: Dermatoglyphic features include single palmar crease in all."
+        "explanation": "A single transverse palmar crease (simian crease) is present in approximately 45–50% of individuals with Down syndrome, not 100%."
       },
       {
         "id": "E",
         "text": "Mental retardation is commonly associated",
         "answer": "T",
-        "explanation": "This statement is correct: Mental retardation is commonly associated."
+        "explanation": "Developmental delay and intellectual disability (mental impairment) are universal features of classical Down syndrome."
       }
     ]
   },
@@ -10072,31 +10072,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "XXY karyotype",
         "answer": "T",
-        "explanation": "This statement is correct: XXY karyotype."
+        "explanation": "Klinefelter syndrome is most commonly caused by a 47,XXY karyotype (47,XXY in ~80% of cases)."
       },
       {
         "id": "B",
         "text": "Delayed puberty",
         "answer": "T",
-        "explanation": "This statement is correct: Delayed puberty."
+        "explanation": "Hypogonadotropic/hypergonadotropic hypogonadism leads to delayed puberty, incomplete virilization, and eunuchoid body proportions in Klinefelter syndrome."
       },
       {
         "id": "C",
         "text": "Due to meiotic nondisjunction",
         "answer": "T",
-        "explanation": "This statement is correct: Due to meiotic nondisjunction."
+        "explanation": "The extra X chromosome arises from meiotic non-disjunction during maternal (~50%) or paternal (~50%) gametogenesis."
       },
       {
         "id": "D",
         "text": "Short stature",
         "answer": "F",
-        "explanation": "This statement is incorrect: Short stature."
+        "explanation": "Klinefelter syndrome is characteristically associated with tall stature with long lower extremities, not short stature."
       },
       {
         "id": "E",
         "text": "Blindness from retinal detachment",
         "answer": "F",
-        "explanation": "This statement is incorrect: Blindness from retinal detachment."
+        "explanation": "Retinal detachment and blindness are not features of Klinefelter syndrome."
       }
     ]
   },
@@ -10109,31 +10109,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Prader-Willi syndrome",
         "answer": "F",
-        "explanation": "FALSE: Prader-Willi syndrome features hypotonia, hyperphagia, obesity and hypogonadism — NOT macroglossia."
+        "explanation": "Prader-Willi syndrome features infantile hypotonia, early feeding difficulty followed by hyperphagia, obesity, and hypogonadism, but not macroglossia."
       },
       {
         "id": "B",
         "text": "Prune Belly syndrome",
         "answer": "F",
-        "explanation": "FALSE: Prune Belly syndrome is characterised by absent abdominal muscles, urinary tract abnormalities and cryptorchidism — not macroglossia."
+        "explanation": "Prune Belly syndrome (Triad syndrome) consists of abdominal muscle deficiency, urinary tract dilation, and cryptorchidism, without macroglossia."
       },
       {
         "id": "C",
         "text": "Beckwith-Wiedemann syndrome",
         "answer": "T",
-        "explanation": "TRUE: Beckwith-Wiedemann syndrome classically presents with macroglossia, omphalocele, gigantism and hypoglycaemia."
+        "explanation": "Beckwith-Wiedemann syndrome is an overgrowth syndrome classically presenting with macroglossia, omphalocele/umbilical hernia, macrosomia, and neonatal hypoglycemia."
       },
       {
         "id": "D",
         "text": "Down syndrome",
         "answer": "T",
-        "explanation": "TRUE: Down syndrome (trisomy 21) is associated with relative macroglossia due to a small oral cavity and hypotonic tongue."
+        "explanation": "Relative macroglossia due to a small oral cavity and muscular hypotonia is a hallmark feature of Down syndrome."
       },
       {
         "id": "E",
         "text": "Congenital hypothyroidism",
         "answer": "T",
-        "explanation": "TRUE: Congenital hypothyroidism causes macroglossia due to myxoedematous infiltration of the tongue."
+        "explanation": "Congenital hypothyroidism causes true macroglossia due to accumulation of glycosaminoglycans and myxedematous tissue within the tongue."
       }
     ]
   },
@@ -10146,31 +10146,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Von Willebrand's disease",
         "answer": "F",
-        "explanation": "This statement is incorrect: Von Willebrand's disease."
+        "explanation": "von Willebrand disease (types 1 and 2) is inherited in an autosomal dominant pattern (only rare type 3 is autosomal recessive)."
       },
       {
         "id": "B",
         "text": "Alpha-1 antitrypsin deficiency",
         "answer": "T",
-        "explanation": "This statement is correct: Alpha-1 antitrypsin deficiency."
+        "explanation": "Alpha-1 antitrypsin deficiency is inherited in an autosomal codominant / autosomal recessive manner (SERPINA1 mutations)."
       },
       {
         "id": "C",
         "text": "Neurofibromatosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Neurofibromatosis."
+        "explanation": "Neurofibromatosis (types 1 and 2) is a classic autosomal dominant condition."
       },
       {
         "id": "D",
         "text": "Cystic fibrosis",
         "answer": "T",
-        "explanation": "This statement is correct: Cystic fibrosis."
+        "explanation": "Cystic fibrosis is an autosomal recessive disorder caused by mutations in the CFTR gene."
       },
       {
         "id": "E",
         "text": "Phenylketonuria",
         "answer": "T",
-        "explanation": "This statement is correct: Phenylketonuria."
+        "explanation": "Phenylketonuria (PKU) is an autosomal recessive inborn error of metabolism caused by phenylalanine hydroxylase deficiency."
       }
     ]
   },
@@ -10183,31 +10183,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Vitamin D deficiency rickets",
         "answer": "F",
-        "explanation": "This statement is incorrect: Vitamin D deficiency rickets."
+        "explanation": "Nutritional Vitamin D deficiency rickets is an acquired environmental disease, not an inherited genetic condition."
       },
       {
         "id": "B",
         "text": "Osteogenesis imperfecta",
         "answer": "F",
-        "explanation": "This statement is incorrect: Osteogenesis imperfecta."
+        "explanation": "Osteogenesis imperfecta (types I–IV) is predominantly inherited in an autosomal dominant fashion (COL1A1/COL1A2 mutations)."
       },
       {
         "id": "C",
         "text": "Tuberous sclerosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Tuberous sclerosis."
+        "explanation": "Tuberous sclerosis complex is an autosomal dominant disorder caused by mutations in TSC1 or TSC2 genes."
       },
       {
         "id": "D",
         "text": "Ocular albinism",
         "answer": "F",
-        "explanation": "This statement is incorrect: Ocular albinism."
+        "explanation": "Ocular albinism (OA1) is an X-linked recessive disorder (whereas oculocutaneous albinism OCA is autosomal recessive)."
       },
       {
         "id": "E",
         "text": "Achondroplasia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Achondroplasia."
+        "explanation": "Achondroplasia is an autosomal dominant skeletal dysplasia caused by gain-of-function mutations in FGFR3."
       }
     ]
   },
@@ -10220,31 +10220,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Deformation — abnormal form/shape caused by mechanical forces on otherwise normal tissue",
         "answer": "T",
-        "explanation": "TRUE: Deformation results from abnormal mechanical forces (e.g. uterine constraint) acting on structurally normal tissue, causing shape distortion."
+        "explanation": "Deformation refers to an abnormal form, shape, or position of a body part caused by mechanical forces acting on intrinsically normal tissue (e.g. uterine crowding causing clubfoot)."
       },
       {
         "id": "B",
         "text": "Disruption — morphological defect due to breakdown of previously normal tissue",
         "answer": "T",
-        "explanation": "TRUE: Disruption involves destruction of previously normal tissue (e.g. amniotic bands) leading to structural defects."
+        "explanation": "Disruption is a morphologic defect resulting from the extrinsic breakdown or interference with an originally normal developmental process (e.g. amniotic band syndrome)."
       },
       {
         "id": "C",
         "text": "Syndrome — a pattern of anomalies known to occur together with a single specific cause",
         "answer": "T",
-        "explanation": "TRUE: A syndrome is a recognisable pattern of malformations with a common, specific aetiology (e.g. Down syndrome)."
+        "explanation": "A syndrome is a recognized pattern of multiple anomalies thought to be pathogenetically related and originating from a single primary cause."
       },
       {
         "id": "D",
         "text": "Association — a non-random occurrence of anomalies without a known unifying cause",
         "answer": "T",
-        "explanation": "TRUE: An association is a statistical clustering of anomalies (e.g. VACTERL) that lack a known unifying pathogenetic mechanism."
+        "explanation": "An association is a non-random occurrence of a combination of phenotypic features that occur together more frequently than expected by chance alone, without a known single cause (e.g. VACTERL)."
       },
       {
         "id": "E",
         "text": "Sequence — a pattern of anomalies derived from a single structural defect or mechanical factor",
         "answer": "T",
-        "explanation": "TRUE: A sequence begins with a single initiating defect that cascades to produce multiple secondary anomalies (e.g. Potter sequence from oligohydramnios)."
+        "explanation": "A sequence is a cascade of structural anomalies resulting from a single primary structural anomaly or mechanical factor (e.g. Potter sequence starting from renal agenesis)."
       }
     ]
   },
@@ -10257,31 +10257,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Anencephaly",
         "answer": "T",
-        "explanation": "This statement is correct: Anencephaly."
+        "explanation": "Anencephaly impairs fetal swallowing due to lack of neural control and absent swallowing reflex, leading to polyhydramnios."
       },
       {
         "id": "B",
         "text": "Oesophageal atresia",
         "answer": "T",
-        "explanation": "This statement is correct: Oesophageal atresia."
+        "explanation": "Esophageal atresia prevents fetal swallowing and passage of amniotic fluid into the stomach, causing maternal polyhydramnios."
       },
       {
         "id": "C",
         "text": "Horseshoe kidney",
         "answer": "F",
-        "explanation": "This statement is incorrect: Horseshoe kidney."
+        "explanation": "Horseshoe kidney is a renal fusion anomaly that generally maintains normal urine production and does not cause polyhydramnios."
       },
       {
         "id": "D",
         "text": "Duodenal atresia",
         "answer": "T",
-        "explanation": "This statement is correct: Duodenal atresia."
+        "explanation": "Duodenal atresia causes mechanical upper gastrointestinal obstruction in the fetus, preventing absorption of swallowed fluid and causing polyhydramnios."
       },
       {
         "id": "E",
         "text": "Pulmonary hypoplasia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Pulmonary hypoplasia."
+        "explanation": "Pulmonary hypoplasia is typically a consequence of oligohydramnios (due to lack of fluid pressure for lung expansion), not a cause of polyhydramnios."
       }
     ]
   },
@@ -10294,31 +10294,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Renal agenesis",
         "answer": "T",
-        "explanation": "This statement is correct: Renal agenesis."
+        "explanation": "Bilateral renal agenesis eliminates fetal urine production (the primary source of amniotic fluid in the 2nd and 3rd trimesters), resulting in severe oligohydramnios (Potter sequence)."
       },
       {
         "id": "B",
         "text": "Prune belly syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Prune belly syndrome."
+        "explanation": "Prune belly syndrome includes severe urethral or bladder outflow tract obstruction, impairing fetal urine excretion and causing oligohydramnios."
       },
       {
         "id": "C",
         "text": "Spina bifida",
         "answer": "F",
-        "explanation": "This statement is incorrect: Spina bifida."
+        "explanation": "Spina bifida is a neural tube defect that is not typically associated with oligohydramnios (it can be associated with polyhydramnios if swallowing is impaired)."
       },
       {
         "id": "D",
         "text": "Congenital talipes equinovarus (clubfoot)",
         "answer": "T",
-        "explanation": "This statement is correct: Congenital talipes equinovarus (clubfoot)."
+        "explanation": "Congenital talipes equinovarus (clubfoot) can occur as a secondary positional deformation resulting from oligohydramnios (uterine compression)."
       },
       {
         "id": "E",
         "text": "Cleft palate",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cleft palate."
+        "explanation": "Cleft palate alone does not significantly impair fetal swallowing or urine production and is not a primary cause of oligohydramnios."
       }
     ]
   },
@@ -10331,31 +10331,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Choanal atresia",
         "answer": "T",
-        "explanation": "This statement is correct: Choanal atresia."
+        "explanation": "Bilateral choanal atresia causes complete nasal airway obstruction; bag-mask ventilation forces air into the mouth, but if the nasal route is obstructed and oral seal is difficult, BMV can be ineffective or cause gastric inflation unless an oral airway is inserted."
       },
       {
         "id": "B",
         "text": "Cleft lip",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cleft lip."
+        "explanation": "Cleft lip is not a contraindication to BMV, though obtaining an adequate mask seal may require adjusting technique."
       },
       {
         "id": "C",
         "text": "Diaphragmatic hernia",
         "answer": "T",
-        "explanation": "This statement is correct: Diaphragmatic hernia."
+        "explanation": "Congenital diaphragmatic hernia (CDH) is an absolute contraindication to bag-mask ventilation because positive pressure inflates intrathoracic stomach and bowel, worsening lung compression and mediastinal shift. Immediate endotracheal intubation is required."
       },
       {
         "id": "D",
         "text": "Multicentric bronchogenic cyst",
         "answer": "F",
-        "explanation": "This statement is incorrect: Multicentric bronchogenic cyst."
+        "explanation": "Multicentric bronchogenic cyst is not a routine absolute contraindication to BMV in neonatal resuscitation unless causing severe localized dynamic obstruction."
       },
       {
         "id": "E",
         "text": "Neural tube defect (NTD)",
         "answer": "F",
-        "explanation": "This statement is incorrect: Neural tube defect (NTD)."
+        "explanation": "Neural tube defects (e.g. meningomyelocele) require careful positioning to avoid pressure on the sac during resuscitation, but NTD itself is not an absolute contraindication to BMV."
       }
     ]
   },
@@ -10368,31 +10368,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Congenital syphilis — Treponema pallidum (spirochaete)",
         "answer": "T",
-        "explanation": "TRUE: Congenital syphilis is caused by Treponema pallidum, a spirochaete transmitted transplacentally."
+        "explanation": "Congenital syphilis is caused by Treponema pallidum, a spirochete transmitted transplacentally from an infected mother to the fetus."
       },
       {
         "id": "B",
         "text": "Congenital rubella — double-stranded RNA Rubivirus (Togaviridae)",
-        "answer": "T",
-        "explanation": "TRUE: Rubella is caused by a single-stranded positive-sense RNA virus (Togaviridae family). It is NOT double-stranded RNA — this was an error in the source; the answer is TRUE in the corrected sense that it is an RNA virus."
+        "answer": "F",
+        "explanation": "Rubella virus belongs to the Matonaviridae family (formerly Togaviridae) and is a single-stranded positive-sense RNA virus, not a double-stranded RNA virus."
       },
       {
         "id": "C",
         "text": "Congenital CMV — periventricular calcification is a characteristic feature",
         "answer": "T",
-        "explanation": "TRUE: CMV classically causes periventricular (intracranial) calcifications, sensorineural hearing loss, and chorioretinitis."
+        "explanation": "Congenital cytomegalovirus (CMV) classically causes periventricular intracranial calcifications, microcephaly, sensorineural hearing loss, and chorioretinitis."
       },
       {
         "id": "D",
         "text": "Congenital varicella — caused by Varicella-Zoster Virus (VZV), a herpesvirus",
         "answer": "T",
-        "explanation": "TRUE: Congenital varicella syndrome results from VZV infection in utero, causing limb hypoplasia, cicatricial skin lesions, and neurological defects."
+        "explanation": "Congenital varicella syndrome is caused by intrauterine Varicella-Zoster Virus (VZV) infection (a herpesvirus), presenting with cicatricial skin lesions, limb hypoplasia, and neurologic defects."
       },
       {
         "id": "E",
         "text": "Congenital toxoplasmosis — caused by Toxoplasma gondii, an intracellular protozoan",
         "answer": "T",
-        "explanation": "TRUE: Toxoplasma gondii is an obligate intracellular protozoan; congenital infection causes the classic triad of hydrocephalus, chorioretinitis, and intracranial calcifications."
+        "explanation": "Toxoplasma gondii is an obligate intracellular protozoan parasite; congenital infection causes the classic triad of hydrocephalus, intracranial calcifications, and chorioretinitis."
       }
     ]
   },
@@ -10405,31 +10405,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Microcephaly",
         "answer": "T",
-        "explanation": "This statement is correct: Microcephaly."
+        "explanation": "Microcephaly resulting from impaired neurogenesis is a classic intrauterine manifestation of Congenital Rubella Syndrome (CRS)."
       },
       {
         "id": "B",
         "text": "Deafness",
         "answer": "T",
-        "explanation": "This statement is correct: Deafness."
+        "explanation": "Sensorineural hearing loss (deafness) is the single most common clinical manifestation of congenital rubella syndrome."
       },
       {
         "id": "C",
         "text": "Patent ductus arteriosus",
         "answer": "T",
-        "explanation": "This statement is correct: Patent ductus arteriosus."
+        "explanation": "Patent ductus arteriosus (PDA) and peripheral pulmonary artery stenosis are the classic cardiovascular anomalies in congenital rubella."
       },
       {
         "id": "D",
         "text": "Pigmented retinopathy",
         "answer": "T",
-        "explanation": "This statement is correct: Pigmented retinopathy."
+        "explanation": "A characteristic \"salt-and-pepper\" hyperpigmented retinopathy is the classic ocular finding in congenital rubella syndrome."
       },
       {
         "id": "E",
         "text": "Deafness (repeated)",
         "answer": "T",
-        "explanation": "This statement is correct: Deafness (repeated)."
+        "explanation": "Congenital nuclear cataracts (often bilateral) and infantile glaucoma are classic ocular features of congenital rubella syndrome."
       }
     ]
   },
@@ -10442,31 +10442,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Snuffles",
         "answer": "T",
-        "explanation": "This statement is correct: Snuffles."
+        "explanation": "Persistent mucopurulent or bloody nasal discharge (\"snuffles\") occurring in the first few weeks of life is the classic early manifestation of congenital syphilis."
       },
       {
         "id": "B",
         "text": "Depressed nasal bridge",
         "answer": "T",
-        "explanation": "This statement is correct: Depressed nasal bridge."
+        "explanation": "Destruction of the nasal septum leads to collapse of the nasal bridge (\"saddle nose\"), a characteristic stigmata of late congenital syphilis."
       },
       {
         "id": "C",
         "text": "Gumma",
         "answer": "T",
-        "explanation": "This statement is correct: Gumma."
+        "explanation": "Gummata (granulomatous nodular lesions) can develop in skin, bones, and mucous membranes in late congenital syphilis."
       },
       {
         "id": "D",
         "text": "Rhagade",
         "answer": "T",
-        "explanation": "This statement is correct: Rhagade."
+        "explanation": "Rhagades are painful linear fissures and scars radiating from the angles of the mouth, nose, and anus seen in congenital syphilis."
       },
       {
         "id": "E",
         "text": "Sabre tibiae",
         "answer": "T",
-        "explanation": "This statement is correct: Sabre tibiae."
+        "explanation": "Sabre tibiae (saber shins) result from chronic periostitis causing anterior bowing of the tibia in late congenital syphilis."
       }
     ]
   },
@@ -10479,31 +10479,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Rhagades",
         "answer": "T",
-        "explanation": "This statement is correct: Rhagades."
+        "explanation": "Rhagades are perioral and perianal radiating cicatricial scars resulting from ulcerative mucosal lesions in congenital syphilis."
       },
       {
         "id": "B",
         "text": "Sabre tibiae",
         "answer": "T",
-        "explanation": "This statement is correct: Sabre tibiae."
+        "explanation": "Sabre tibia is a stigmata of late congenital syphilis resulting from chronic periosteal bone formation on the anterior tibia."
       },
       {
         "id": "C",
         "text": "Gumma",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Gumma."
+        "answer": "T",
+        "explanation": "Gummata (granulomatous destructive lesions) are recognized tertiary manifestations that occur in late untreated congenital syphilis."
       },
       {
         "id": "D",
         "text": "Depressed nasal bridge",
         "answer": "T",
-        "explanation": "This statement is correct: Depressed nasal bridge."
+        "explanation": "Saddle nose deformity develops from syphilitic rhinitis causing necrosis of the nasal cartilage and nasal bridge depression."
       },
       {
         "id": "E",
         "text": "Snuffles",
         "answer": "T",
-        "explanation": "This statement is correct: Snuffles."
+        "explanation": "Snuffles (syphilitic rhinitis) is an early, highly contagious presentation of congenital syphilis appearing within the first 2–6 weeks of life."
       }
     ]
   },
@@ -10516,31 +10516,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Congenital syphilis",
         "answer": "T",
-        "explanation": "This statement is correct: Congenital syphilis."
+        "explanation": "Congenital syphilis causes characteristic dental abnormalities including Hutchinson incisors (peg-shaped, notched upper central incisors) and Mulberry molars."
       },
       {
         "id": "B",
         "text": "Congenital rubella",
         "answer": "T",
-        "explanation": "This statement is correct: Congenital rubella."
+        "explanation": "Congenital rubella syndrome can cause enamel hypoplasia and delayed eruption of deciduous teeth."
       },
       {
         "id": "C",
         "text": "Tetracycline therapy",
         "answer": "T",
-        "explanation": "This statement is correct: Tetracycline therapy."
+        "explanation": "Tetracycline administration during tooth development (gestation through 8 years of age) causes permanent yellow-brown dental discoloration and enamel hypoplasia."
       },
       {
         "id": "D",
         "text": "Steroid therapy",
-        "answer": "T",
-        "explanation": "This statement is correct: Steroid therapy."
+        "answer": "F",
+        "explanation": "Corticosteroid therapy impairs bone growth and collagen synthesis but does not cause direct intrinsic structural tooth staining or dysmorphism like tetracyclines or syphilis."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Multiple distinct etiologies (infections, drugs, fluorosis) cause dental anomalies; no single dental sign is uniquely pathognomonic."
       }
     ]
   },
@@ -10553,31 +10553,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Maternal syphilis in pregnancy is associated with 30% risk of fetal infection",
         "answer": "F",
-        "explanation": "This is incorrect. true figure ~100%."
+        "explanation": "Untreated maternal primary or secondary syphilis during pregnancy carries up to a 70–100% risk of fetal infection, not 30%."
       },
       {
         "id": "B",
         "text": "Maternal rubella infection leading to fetal damage typically occurs in 2nd trimester",
-        "answer": "T",
-        "explanation": "This is incorrect. true: 1st trimester."
+        "answer": "F",
+        "explanation": "Maternal rubella infection leading to severe fetal malformation (congenital rubella syndrome) occurs predominantly in the first trimester (up to 85% risk in the first 12 weeks)."
       },
       {
         "id": "C",
         "text": "Microcephaly is as important as hydrocephaly in the clinical manifestation of congenital toxoplasmosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Microcephaly is as important as hydrocephaly in the clinical manifestation of congenital toxoplasmosis."
+        "explanation": "Hydrocephalus and intracranial calcifications are major findings in congenital toxoplasmosis, whereas microcephaly is more prominently associated with congenital CMV and rubella."
       },
       {
         "id": "D",
         "text": "Perivascular calcification is a unique feature of congenital CMV infection",
         "answer": "F",
-        "explanation": "This is incorrect. should be intracranial/periventricular."
+        "explanation": "Periventricular (subependymal) calcifications are characteristic of congenital CMV, whereas Toxoplasma calcifications are diffuse throughout the cortex."
       },
       {
         "id": "E",
         "text": "Neonates infected with Herpes simplex in-utero may present with a septicaemic illness",
         "answer": "F",
-        "explanation": "This is incorrect. typically acquired intrapartum."
+        "explanation": "Neonatal Herpes Simplex Virus (HSV) infection is usually acquired intrapartum during passage through an infected birth canal (~85%) rather than in-utero."
       }
     ]
   },
@@ -10590,31 +10590,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Early initiation of feeding (EIF) within 30 mins to 1 hr after birth",
         "answer": "T",
-        "explanation": "This statement is correct: Early initiation of feeding (EIF) within 30 mins to 1 hr after birth."
+        "explanation": "Early initiation of breastfeeding within 1 hour of birth promotes maternal-infant bonding, uterine contraction, and early colostrum ingestion."
       },
       {
         "id": "B",
         "text": "Exclusive breastfeeding (EBF) for up to 8 months of age",
         "answer": "F",
-        "explanation": "This statement is incorrect: Exclusive breastfeeding (EBF) for up to 8 months of age."
+        "explanation": "Exclusive breastfeeding is recommended for the first 6 months (180 days) of life; complementary feeding must be introduced at 6 months."
       },
       {
         "id": "C",
         "text": "Continued breastfeeding for up to 2 years & beyond",
         "answer": "T",
-        "explanation": "This statement is correct: Continued breastfeeding for up to 2 years & beyond."
+        "explanation": "WHO guidelines recommend continued breastfeeding alongside appropriate complementary foods up to 2 years of age or beyond."
       },
       {
         "id": "D",
         "text": "Complementary feeds must fulfill the FADUS criteria",
         "answer": "T",
-        "explanation": "This statement is correct: Complementary feeds must fulfill the FADUS criteria."
+        "explanation": "Complementary feeding must satisfy the FADUS principles: Frequency, Amount, Density (nutrient richness), Utilization (hygiene), and Safety."
       },
       {
         "id": "E",
         "text": "Introduction of solids/family feeds at 9-10 months of age",
-        "answer": "T",
-        "explanation": "This statement is correct: Introduction of solids/family feeds at 9-10 months of age."
+        "answer": "F",
+        "explanation": "Appropriate complementary foods (solids and semi-solids) should be introduced at 6 months of age, not delayed until 9–10 months."
       }
     ]
   },
@@ -10627,31 +10627,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Preterm infants require specialised feeding for those having difficulties in feeding directly",
         "answer": "T",
-        "explanation": "This statement is correct: Preterm infants require specialised feeding for those having difficulties in feeding directly."
+        "explanation": "Preterm infants <34 weeks gestation often lack coordinated suck-swallow-breathe mechanics and require tube feeding (orogastric/nasogastric) or cup/palada feeding."
       },
       {
         "id": "B",
         "text": "Use of specialised feeding techniques is required for babies with cleft lip and palate",
         "answer": "T",
-        "explanation": "This statement is correct: Use of specialised feeding techniques is required for babies with cleft lip and palate."
+        "explanation": "Infants with cleft lip and palate require specialized feeding bottles, haberman feeders, or soft wide-based teats to achieve adequate suction and prevent aspiration."
       },
       {
         "id": "C",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Specialized feeding techniques are tailored interventions based on specific anatomical or neuromuscular deficits, not universal pathognomonic markers."
       },
       {
         "id": "D",
         "text": "Specialised feeding techniques is required in babies with Down syndrome because of hypotonia and feeding difficulties",
         "answer": "T",
-        "explanation": "This statement is correct: Specialised feeding techniques is required in babies with Down syndrome because of hypotonia and feeding difficulties."
+        "explanation": "Infants with Down syndrome often suffer from generalized hypotonia, poor lip seal, and weak suck, requiring specialized feeding support."
       },
       {
         "id": "E",
         "text": "Babies with congenital heart diseases do not require specialised feeding techniques",
         "answer": "F",
-        "explanation": "This statement is incorrect: Babies with congenital heart diseases do not require specialised feeding techniques."
+        "explanation": "Infants with congenital heart disease often experience tachypnea and rapid fatigue during feeds, frequently requiring high-calorie fortified feeds or specialized feeding schedules."
       }
     ]
   },
@@ -10664,31 +10664,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "About 10% of neonates (require resuscitation",
         "answer": "F",
-        "explanation": "FALSE: Approximately 10% of neonates require some assistance at birth, but only about 1% require advanced resuscitation (intubation/compressions). The 10% figure is sometimes cited but relates to 'any intervention', so this is context-dependent. In most teaching contexts this is considered FALSE as stated."
+        "explanation": "Approximately 10% of newborns require some assistance (e.g. tactile stimulation, positioning) to establish breathing at birth, but only ~1% require extensive resuscitation (intubation, compressions)."
       },
       {
         "id": "B",
         "text": "Neonate from meconium-stained fluid requires resuscitation",
         "answer": "F",
-        "explanation": "FALSE: Neonates born through meconium-stained amniotic fluid do NOT automatically require resuscitation. Current NRP guidelines state: if the baby is vigorous (strong cry, good muscle tone, HR >100), endotracheal suctioning is NOT recommended. Only non-vigorous babies are intubated."
+        "explanation": "Routine endotracheal suctioning is no longer recommended for all meconium-stained infants; if the baby is vigorous (good tone, strong respiratory effort, HR >100 bpm), standard resuscitation steps apply."
       },
       {
         "id": "C",
         "text": "Physiological jaundice appears after 24 hours of life",
         "answer": "T",
-        "explanation": "TRUE: Jaundice visible in the first 24 hours is pathological and requires investigation."
+        "explanation": "Jaundice appearing after 24 hours of life is typical for physiological jaundice, whereas jaundice appearing within the first 24 hours is always pathological."
       },
       {
         "id": "D",
         "text": "Phototherapy is the first-line treatment for significant unconjugated hyperbilirubinaemia",
         "answer": "T",
-        "explanation": "TRUE: Blue-green light isomerises bilirubin to water-soluble forms that can be excreted without conjugation."
+        "explanation": "Phototherapy (blue-green light at 460–490 nm) is the primary first-line medical treatment for significant neonatal unconjugated hyperbilirubinemia."
       },
       {
         "id": "E",
         "text": "The first step in neonatal resuscitation is airway positioning and drying/stimulation",
         "answer": "T",
-        "explanation": "TRUE: Most newborns respond to simple measures; chest compressions are reserved for heart rate <60 after effective ventilation."
+        "explanation": "Initial steps in neonatal resuscitation consist of providing warmth, positioning the airway, clearing secretions if necessary, drying, and tactile stimulation."
       }
     ]
   },
@@ -10701,31 +10701,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Fluid in the alveoli is absorbed into pulmonary lymphatics",
         "answer": "T",
-        "explanation": "This statement is correct: Fluid in the alveoli is absorbed into pulmonary lymphatics."
+        "explanation": "Fetal lung fluid is rapidly cleared at birth through transepithelial sodium absorption (ENaC activation) into pulmonary lymphatics and pulmonary microcirculation."
       },
       {
         "id": "B",
         "text": "Umbilical arteries constrict",
         "answer": "T",
-        "explanation": "This statement is correct: Umbilical arteries constrict."
+        "explanation": "Umbilical arteries constrict rapidly at birth in response to increased arterial oxygen tension and thermal changes, preventing neonatal blood loss."
       },
       {
         "id": "C",
         "text": "Systemic blood pressure falls due to removal of low-resistance placental circuit",
         "answer": "F",
-        "explanation": "This statement is incorrect: Systemic blood pressure falls due to removal of low-resistance placental circuit."
+        "explanation": "Removal of the low-resistance placental circulation causes a sharp increase in systemic vascular resistance (SVR) and systemic blood pressure, not a decrease."
       },
       {
         "id": "D",
         "text": "Functional closure of ductus arteriosus occurs immediately at birth",
         "answer": "F",
-        "explanation": "This statement is incorrect: Functional closure of ductus arteriosus occurs immediately at birth."
+        "explanation": "Functional closure of the ductus arteriosus occurs within 10–24 hours after birth due to rising arterial PaO2; anatomical closure takes several weeks."
       },
       {
         "id": "E",
         "text": "Deceleration of foetal heart rate denotes uteroplacental compromise",
         "answer": "T",
-        "explanation": "This statement is correct: Deceleration of foetal heart rate denotes uteroplacental compromise."
+        "explanation": "Late decelerations of fetal heart rate during contractions indicate fetal hypoxia secondary to uteroplacental insufficiency."
       }
     ]
   },
@@ -10738,31 +10738,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Moro reflex",
         "answer": "T",
-        "explanation": "This statement is correct: Moro reflex."
+        "explanation": "The Moro reflex (startle reflex) is present at birth in term infants and fully integrates by 3–5 months of age."
       },
       {
         "id": "B",
         "text": "Rooting reflex",
         "answer": "T",
-        "explanation": "This statement is correct: Rooting reflex."
+        "explanation": "The rooting reflex (head turning toward perioral tactile stimulus) is well established at birth in full-term neonates."
       },
       {
         "id": "C",
         "text": "Palmar grasp",
         "answer": "T",
-        "explanation": "This statement is correct: Palmar grasp."
+        "explanation": "The palmar grasp reflex is present at birth and integrates around 4–6 months as voluntary grasping develops."
       },
       {
         "id": "D",
         "text": "Tonic neck reflex",
         "answer": "T",
-        "explanation": "This statement is correct: Tonic neck reflex."
+        "explanation": "The Asymmetric Tonic Neck Reflex (ATNR / \"fencer posture\") is present in term neonates and disappears by 4–6 months."
       },
       {
         "id": "E",
         "text": "Parachute reflex",
-        "answer": "T",
-        "explanation": "This statement is correct: Parachute reflex."
+        "answer": "F",
+        "explanation": "The parachute reflex is a protective extension reaction that develops between 6 and 9 months of age; it is absent at birth in full-term neonates."
       }
     ]
   },
@@ -10775,31 +10775,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Mongolian spots",
         "answer": "T",
-        "explanation": "This statement is correct: Mongolian spots."
+        "explanation": "Mongolian spots (congenital dermal melanocytosis) are benign blue-gray macular skin lesions commonly over the lumbosacral region that resolve spontaneously."
       },
       {
         "id": "B",
         "text": "Vernix caseosa",
         "answer": "T",
-        "explanation": "This statement is correct: Vernix caseosa."
+        "explanation": "Vernix caseosa is a physiologic, protective white cheesy lipid substance covering the newborn skin at birth."
       },
       {
         "id": "C",
         "text": "Port wine stain",
         "answer": "F",
-        "explanation": "This statement is incorrect: Port wine stain."
+        "explanation": "A Port-wine stain (nevus flammeus), especially in the trigeminal V1 distribution, warrants evaluation for Sturge-Weber syndrome."
       },
       {
         "id": "D",
         "text": "Tuft of hair in the lumbar region",
         "answer": "F",
-        "explanation": "This statement is incorrect: Tuft of hair in the lumbar region."
+        "explanation": "A midline lumbar hair tuft, sacral dimple, or hemangioma requires evaluation (ultrasound/MRI) for occult spinal dysraphism."
       },
       {
         "id": "E",
         "text": "Single palmar crease",
         "answer": "F",
-        "explanation": "This statement is incorrect: Single palmar crease."
+        "explanation": "A single transverse palmar crease (simian crease) is a minor dysmorphic feature warranting thorough examination for Down syndrome or other genetic conditions."
       }
     ]
   },
@@ -10812,31 +10812,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Mongolian blue spots",
         "answer": "T",
-        "explanation": "This statement is correct: Mongolian blue spots."
+        "explanation": "Mongolian spots are benign, self-limiting dermal melanocytic macules requiring no treatment."
       },
       {
         "id": "B",
         "text": "Scabies",
         "answer": "F",
-        "explanation": "This statement is incorrect: Scabies."
+        "explanation": "Scabies is an infectious parasitic skin infestation caused by Sarcoptes scabiei requiring topical scabicide treatment, not a benign neonatal variant."
       },
       {
         "id": "C",
         "text": "Miliaria rubra",
         "answer": "T",
-        "explanation": "This statement is correct: Miliaria rubra."
+        "explanation": "Miliaria rubra (\"heat rash\") is a benign condition caused by obstruction of eccrine sweat ducts in warm environments."
       },
       {
         "id": "D",
         "text": "Erythema toxicum",
         "answer": "T",
-        "explanation": "This statement is correct: Erythema toxicum."
+        "explanation": "Erythema toxicum neonatorum is a benign, self-limiting cutaneous eruption of erythematous macules and papules containing eosinophils."
       },
       {
         "id": "E",
         "text": "Transient neonatal pustular melanosis",
         "answer": "T",
-        "explanation": "TRUE: Transient neonatal pustular melanosis is a benign, self-limiting vesiculopustular eruption in neonates, more common in dark-skinned infants. It resolves spontaneously leaving hyperpigmented macules."
+        "explanation": "Transient neonatal pustular melanosis is a benign vesiculopustular rash seen at birth that leaves hyperpigmented macules and resolves spontaneously."
       }
     ]
   },
@@ -10849,31 +10849,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "A fifth-minute Apgar score of 2",
         "answer": "T",
-        "explanation": "This statement is correct: A fifth-minute Apgar score of 2."
+        "explanation": "An Apgar score of 2 at 5 minutes indicates severe birth asphyxia and portends a high risk of neonatal mortality and neurological impairment."
       },
       {
         "id": "B",
         "text": "Physiological jaundice appears after 24 hours of life",
-        "answer": "T",
-        "explanation": "TRUE: Jaundice visible in the first 24 hours is pathological and requires investigation."
+        "answer": "F",
+        "explanation": "Jaundice appearing AFTER 24 hours of life is physiological; it is jaundice within the FIRST 24 hours that signifies severe pathological disease (e.g. hemolysis)."
       },
       {
         "id": "C",
         "text": "Acrocyanosis",
-        "answer": "T",
-        "explanation": "This statement is correct: Acrocyanosis."
+        "answer": "F",
+        "explanation": "Acrocyanosis (bluish discoloration of hands and feet) is a normal physiological finding in the first 24–48 hours due to vasomotor instability."
       },
       {
         "id": "D",
         "text": "Phototherapy is the first-line treatment for significant unconjugated hyperbilirubinaemia",
-        "answer": "T",
-        "explanation": "TRUE: Blue-green light isomerises bilirubin to water-soluble forms that can be excreted without conjugation."
+        "answer": "F",
+        "explanation": "Phototherapy is a standard, effective treatment for hyperbilirubinemia, not an indicator of severe disease by itself."
       },
       {
         "id": "E",
         "text": "The first step in neonatal resuscitation is airway positioning and drying/stimulation",
-        "answer": "T",
-        "explanation": "TRUE: Most newborns respond to simple measures; chest compressions are reserved for heart rate <60 after effective ventilation."
+        "answer": "F",
+        "explanation": "Routine initial resuscitation steps (drying, positioning, stimulation) are performed for all newborns and do not imply severe critical disease."
       }
     ]
   },
@@ -10885,32 +10885,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Length of 42cm",
-        "answer": "F",
-        "explanation": "This is incorrect. actual: 28-32cm."
+        "answer": "T",
+        "explanation": "Mean crown-heel length of a 32-week preterm infant is approximately 40–43 cm."
       },
       {
         "id": "B",
         "text": "Weight of 2500g",
         "answer": "F",
-        "explanation": "This is incorrect. actual: 1.5-2kg."
+        "explanation": "Average birth weight at 32 weeks gestation is approximately 1.5 to 1.8 kg; 2500g represents normal full-term weight."
       },
       {
         "id": "C",
         "text": "Rectal temperature of 35.6°C",
         "answer": "T",
-        "explanation": "Rectal temperature of 35.6°C — temperature instability."
+        "explanation": "A temperature of 35.6°C represents neonatal hypothermia, common in 32-week preterms due to high surface area and lack of subcutaneous fat."
       },
       {
         "id": "D",
         "text": "Frog-like posture",
         "answer": "T",
-        "explanation": "This statement is correct: Frog-like posture."
+        "explanation": "A 32-week infant exhibits hypotonic resting posture with partially flexed extremities (\"frog-leg\" posture) compared to the tightly flexed posture of a term infant."
       },
       {
         "id": "E",
         "text": "Abundant lanugo",
         "answer": "T",
-        "explanation": "This statement is correct: Abundant lanugo."
+        "explanation": "Lanugo hair is abundant over the back and shoulders at 32 weeks gestation and thins progressively toward full term."
       }
     ]
   },
@@ -10923,31 +10923,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Hypocalcaemia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hypocalcaemia."
+        "explanation": "Hypocalcemia is predominantly a complication of prematurity and infants of diabetic mothers, not specifically isolated SGA."
       },
       {
         "id": "B",
         "text": "Intraventricular haemorrhage",
         "answer": "F",
-        "explanation": "This statement is incorrect: Intraventricular haemorrhage."
+        "explanation": "Intraventricular hemorrhage (IVH) is strongly correlated with prematurity (immature germinal matrix), not isolated SGA in term infants."
       },
       {
         "id": "C",
         "text": "Pulmonary oedema",
         "answer": "F",
-        "explanation": "This statement is incorrect: Pulmonary oedema."
+        "explanation": "Pulmonary edema is not a classic primary complication of small for gestational age status."
       },
       {
         "id": "D",
         "text": "Polycythaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Polycythaemia."
+        "explanation": "Intrauterine hypoxia in SGA fetuses stimulates fetal erythropoietin secretion, leading to neonatal polycythemia and hyperviscosity."
       },
       {
         "id": "E",
         "text": "Respiratory distress syndrome",
         "answer": "F",
-        "explanation": "This statement is incorrect: Respiratory distress syndrome."
+        "explanation": "Respiratory distress syndrome (surfactant deficiency) is a disease of prematurity; intrauterine stress in SGA actually accelerates lung maturation."
       }
     ]
   },
@@ -10960,31 +10960,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Macrosomia",
         "answer": "T",
-        "explanation": "This statement is correct: Macrosomia."
+        "explanation": "Macrosomic infants (e.g. infants of diabetic mothers) suffer chronic fetal hypoxia, stimulating erythropoiesis and predisposing to neonatal polycythemia."
       },
       {
         "id": "B",
         "text": "Prematurity",
         "answer": "F",
-        "explanation": "This statement is incorrect: Prematurity."
+        "explanation": "Prematurity is not a primary risk factor for polycythemia; preterms are actually prone to anemia of prematurity."
       },
       {
         "id": "C",
         "text": "Small for gestational age",
         "answer": "T",
-        "explanation": "This statement is correct: Small for gestational age."
+        "explanation": "Small for gestational age (SGA) infants experience placental insufficiency and fetal hypoxia, leading to elevated erythropoietin and polycythemia."
       },
       {
         "id": "D",
         "text": "Babies of Rh-positive mothers",
         "answer": "F",
-        "explanation": "This statement is incorrect: Babies of Rh-positive mothers."
+        "explanation": "Maternal Rh-positive status does not cause Rh isoimmunization; Rh isoimmunization occurs in Rh-negative mothers and causes anemia, not polycythemia."
       },
       {
         "id": "E",
         "text": "Congenital hypothyroidism",
         "answer": "F",
-        "explanation": "This statement is incorrect: Congenital hypothyroidism."
+        "explanation": "Congenital hypothyroidism is associated with sluggish metabolism and anemia, not polycythemia."
       }
     ]
   },
@@ -10997,31 +10997,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Appears within 24 hours of life",
         "answer": "F",
-        "explanation": "This statement is incorrect: Appears within 24 hours of life."
+        "explanation": "Physiological jaundice appears AFTER 24 hours of life (typically peak at 3–5 days); jaundice within 24 hours is pathological."
       },
       {
         "id": "B",
         "text": "Bilirubin usually doesn't exceed 12mg/dl",
         "answer": "T",
-        "explanation": "This statement is correct: Bilirubin usually doesn't exceed 12mg/dl."
+        "explanation": "Total serum bilirubin in physiological jaundice usually peaks under 12–13 mg/dL in term formula-fed infants."
       },
       {
         "id": "C",
         "text": "Jaundice usually disappears within 10 days",
         "answer": "T",
-        "explanation": "This statement is correct: Jaundice usually disappears within 10 days."
+        "explanation": "Physiological jaundice resolves spontaneously within 7–10 days in term infants (up to 14 days in preterms)."
       },
       {
         "id": "D",
         "text": "Serum bilirubin levels rise by 5mg/dl/day",
         "answer": "F",
-        "explanation": "This statement is incorrect: Serum bilirubin levels rise by 5mg/dl/day."
+        "explanation": "Serum bilirubin rise in physiological jaundice remains under 5 mg/dL/day (85 µmol/L/day); faster rates indicate hemolysis."
       },
       {
         "id": "E",
         "text": "Occurs due to reduced red cell lifespan",
         "answer": "T",
-        "explanation": "This statement is correct: Occurs due to reduced red cell lifespan."
+        "explanation": "Physiological jaundice results from shorter neonatal red cell lifespan (~90 days vs 120 days) combined with immature hepatic glucuronosyltransferase activity."
       }
     ]
   },
@@ -11034,31 +11034,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Appears within the 1st 24 hours of life",
         "answer": "F",
-        "explanation": "This statement is incorrect: Appears within the 1st 24 hours of life."
+        "explanation": "Jaundice within the first 24 hours of life is strictly pathological (hemolytic disease, infection); physiological jaundice appears after 24 hours."
       },
       {
         "id": "B",
         "text": "Disappears within 10 days of life",
         "answer": "T",
-        "explanation": "This statement is correct: Disappears within 10 days of life."
+        "explanation": "Physiological jaundice typically peaks by day 3–4 and resolves by day 7–10 of life in healthy term infants."
       },
       {
         "id": "C",
         "text": "Serum bilirubin rises at a level greater than 5g/dl daily",
         "answer": "F",
-        "explanation": "This statement is incorrect: Serum bilirubin rises at a level greater than 5g/dl daily."
+        "explanation": "Serum bilirubin rate of rise in physiological jaundice is strictly <5 mg/dL per 24 hours."
       },
       {
         "id": "D",
         "text": "Physiological jaundice appears after 24 hours of life",
         "answer": "T",
-        "explanation": "TRUE: Jaundice visible in the first 24 hours is pathological and requires investigation."
+        "explanation": "Physiological jaundice typically becomes clinically visible on days 2 to 3 of life (after 24 hours)."
       },
       {
         "id": "E",
         "text": "Phototherapy is the first-line treatment for significant unconjugated hyperbilirubinaemia",
         "answer": "T",
-        "explanation": "TRUE: Blue-green light isomerises bilirubin to water-soluble forms that can be excreted without conjugation."
+        "explanation": "Phototherapy effectively converts unconjugated bilirubin into water-soluble lumirubin that is excreted in urine and bile."
       }
     ]
   },
@@ -11071,31 +11071,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Spectrum of light emitted",
         "answer": "T",
-        "explanation": "This statement is correct: Spectrum of light emitted."
+        "explanation": "Phototherapy efficiency is highest in the blue-green spectrum (peak wavelength 460–490 nm), matching the absorption peak of bilirubin."
       },
       {
         "id": "B",
         "text": "Type of jaundice",
         "answer": "T",
-        "explanation": "This statement is correct: Type of jaundice."
+        "explanation": "Phototherapy is effective for unconjugated (indirect) hyperbilirubinemia, but ineffective (and contraindicated due to bronze baby syndrome) in conjugated hyperbilirubinemia."
       },
       {
         "id": "C",
         "text": "Level of jaundice at initiation of therapy",
         "answer": "T",
-        "explanation": "This statement is correct: Level of jaundice at initiation of therapy."
+        "explanation": "Higher initial serum bilirubin levels offer more substrate for photo-isomerization, affecting the rate of decline."
       },
       {
         "id": "D",
         "text": "Irradiance of phototherapy",
         "answer": "T",
-        "explanation": "This statement is correct: Irradiance of phototherapy."
+        "explanation": "Irradiance (measured in µW/cm2/nm) directly determines phototherapy efficacy; spectral irradiance >30 µW/cm2/nm defines intensive phototherapy."
       },
       {
         "id": "E",
         "text": "Gestational age of the baby",
         "answer": "T",
-        "explanation": "This statement is correct: Gestational age of the baby."
+        "explanation": "Gestational age and birth weight determine the skin permeability, surface area ratio, and bilirubin threshold for initiating phototherapy."
       }
     ]
   },
@@ -11107,32 +11107,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Meconium Aspiration Syndrome",
-        "answer": "T",
-        "explanation": "This statement is correct: Meconium Aspiration Syndrome."
+        "answer": "F",
+        "explanation": "Meconium aspiration syndrome (MAS) occurs almost exclusively in term and post-term infants; preterms rarely pass meconium in utero."
       },
       {
         "id": "B",
         "text": "Transient tachypnoea of the newborn",
         "answer": "T",
-        "explanation": "This statement is correct: Transient tachypnoea of the newborn."
+        "explanation": "Transient Tachypnea of the Newborn (TTN) occurs in both preterm and term infants due to delayed clearance of fetal lung fluid."
       },
       {
         "id": "C",
         "text": "Pulmonary haemorrhage",
         "answer": "T",
-        "explanation": "This statement is correct: Pulmonary haemorrhage."
+        "explanation": "Pulmonary hemorrhage is a severe respiratory complication occurring predominantly in very low birth weight preterm infants."
       },
       {
         "id": "D",
         "text": "Primary pulmonary hypertension",
-        "answer": "T",
-        "explanation": "This statement is correct: Primary pulmonary hypertension."
+        "answer": "F",
+        "explanation": "Persistent Pulmonary Hypertension of the Newborn (PPHN) is classically a condition of term and post-term infants, not premature infants."
       },
       {
         "id": "E",
         "text": "Hyaline membrane disease",
         "answer": "T",
-        "explanation": "This statement is correct: Hyaline membrane disease."
+        "explanation": "Respiratory Distress Syndrome (RDS / Hyaline Membrane Disease) due to surfactant deficiency is the hallmark respiratory disease of prematurity."
       }
     ]
   },
@@ -11145,31 +11145,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Respiratory distress syndrome",
         "answer": "F",
-        "explanation": "This statement is incorrect: Respiratory distress syndrome."
+        "explanation": "Surfactant deficiency RDS is a disease of prematurity and is uncommon in term appropriate-for-gestational-age infants."
       },
       {
         "id": "B",
         "text": "Meconium aspiration syndrome",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Meconium aspiration syndrome."
+        "answer": "T",
+        "explanation": "Meconium aspiration syndrome is a major cause of respiratory distress primarily affecting term and post-term infants."
       },
       {
         "id": "C",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Pathognomonic findings are rare across clinical medicine; diagnosis relies on synthesizing clinical history, examination, and imaging."
       },
       {
         "id": "D",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early recognition of neonatal distress and prompt supportive therapy significantly improve long-term neurodevelopmental outcomes."
       },
       {
         "id": "E",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "Life-threatening neonatal conditions (e.g. septic shock, hypoglycemia, respiratory failure) require immediate empiric treatment before lab results return."
       }
     ]
   },
@@ -11182,31 +11182,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Gram negative is the commonest cause",
         "answer": "T",
-        "explanation": "This statement is correct: Gram negative is the commonest cause."
+        "explanation": "Gram-negative bacilli (particularly Klebsiella pneumoniae, E. coli, and Pseudomonas) are the predominant causes of neonatal sepsis in developing country settings including Zaria."
       },
       {
         "id": "B",
         "text": "Fever is a constant feature",
         "answer": "F",
-        "explanation": "This statement is incorrect: Fever is a constant feature."
+        "explanation": "Fever is absent in many septic neonates; hypothermia, temperature instability, lethargy, or poor feeding are more frequent clinical signs."
       },
       {
         "id": "C",
         "text": "Decreasing WBC is a good prognosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Decreasing WBC is a good prognosis."
+        "explanation": "Leukopenia (decreasing WBC / neutropenia) in neonatal sepsis reflects bone marrow exhaustion and is a marker of severe infection and poor prognosis."
       },
       {
         "id": "D",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
         "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "explanation": "Routine Haemophilus influenzae type b (Hib) conjugate vaccination has dramatically decreased invasive Hib disease in pediatric populations."
       },
       {
         "id": "E",
         "text": "Treatment of choice is ampiclox",
         "answer": "F",
-        "explanation": "This statement is incorrect: Treatment of choice is ampiclox."
+        "explanation": "Empiric treatment for neonatal sepsis requires broad-spectrum coverage (e.g., Ampicillin + Gentamicin or Cefotaxime), not Ampiclox."
       }
     ]
   },
@@ -11219,31 +11219,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Anaemic patients",
         "answer": "F",
-        "explanation": "FALSE: Simple anaemia does not directly cause hypoglycaemia. Neonatal hypoglycaemia arises from reduced glycogen stores, hyperinsulinism, or increased glucose utilisation — not from low haemoglobin per se."
+        "explanation": "Simple neonatal anemia does not directly cause hypoglycemia; hypoglycemia results from impaired glucose production or excessive utilization."
       },
       {
         "id": "B",
         "text": "Beckwith-Wiedemann syndrome",
         "answer": "T",
-        "explanation": "TRUE: Beckwith-Wiedemann syndrome causes hyperinsulinism due to beta-cell hyperplasia, leading to profound and persistent neonatal hypoglycaemia."
+        "explanation": "Beckwith-Wiedemann syndrome causes pancreatic islet cell hyperplasia, leading to severe hyperinsulinemic hypoglycemia in the newborn."
       },
       {
         "id": "C",
         "text": "Child of diabetic mother",
         "answer": "T",
-        "explanation": "TRUE: Infants of diabetic mothers have foetal hyperinsulinism in response to maternal hyperglycaemia. After birth, insulin levels remain high while glucose supply drops abruptly, causing hypoglycaemia."
+        "explanation": "Infants of diabetic mothers experience intrauterine hyperglycemia resulting in fetal beta-cell hyperplasia; postnatally, persistent high insulin causes hypoglycemia."
       },
       {
         "id": "D",
         "text": "Small for gestational age",
         "answer": "T",
-        "explanation": "TRUE: SGA infants have reduced hepatic glycogen stores and limited gluconeogenesis capacity, predisposing them to hypoglycaemia."
+        "explanation": "Small for gestational age (SGA) infants have depleted hepatic glycogen stores and reduced gluconeogenetic capacity, predisposing them to hypoglycemia."
       },
       {
         "id": "E",
         "text": "Prematurity",
         "answer": "T",
-        "explanation": "TRUE: Preterm infants have inadequate glycogen stores (deposited mainly in the third trimester), immature enzyme systems, and poor feeding — all contributing to hypoglycaemia."
+        "explanation": "Preterm infants have limited glycogen and fat stores (accumulated in late 3rd trimester) and immature gluconeogenesis, placing them at high risk for hypoglycemia."
       }
     ]
   },
@@ -11256,31 +11256,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Galactosemia",
         "answer": "T",
-        "explanation": "This statement is correct: Galactosemia."
+        "explanation": "Galactosemia is a metabolic disorder included in newborn screening programs to prevent liver failure, cataracts, and fatal sepsis."
       },
       {
         "id": "B",
         "text": "Maple syrup disease",
         "answer": "T",
-        "explanation": "This statement is correct: Maple syrup disease."
+        "explanation": "Maple Syrup Urine Disease (MSUD) is a branched-chain amino acid metabolic disorder screened at birth to prevent severe ketoacidosis and brain damage."
       },
       {
         "id": "C",
         "text": "Sickle cell disease",
         "answer": "T",
-        "explanation": "This statement is correct: Sickle cell disease."
+        "explanation": "Sickle cell disease screening at birth (via hemoglobin electrophoresis or HPLC) allows early penicillin prophylaxis and pneumococcal vaccination."
       },
       {
         "id": "D",
         "text": "Rhesus isoimmunisation",
-        "answer": "T",
-        "explanation": "This statement is correct: Rhesus isoimmunisation."
+        "answer": "F",
+        "explanation": "Rhesus isoimmunization is screened and managed antenatally (maternal antibody screen, indirect Coombs) and cord blood testing, not routine mass newborn metabolic screening."
       },
       {
         "id": "E",
         "text": "Hypothyroidism",
         "answer": "T",
-        "explanation": "This statement is correct: Hypothyroidism."
+        "explanation": "Congenital hypothyroidism screening at birth (via TSH/T4) is essential worldwide to prevent irreversible intellectual disability."
       }
     ]
   },
@@ -11293,31 +11293,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Neonatal tetanus",
         "answer": "T",
-        "explanation": "This statement is correct: Neonatal tetanus."
+        "explanation": "Neonatal tetanus historically and currently remains a significant cause of neonatal mortality in settings with low maternal tetanus toxoid coverage."
       },
       {
         "id": "B",
         "text": "Neonatal infections",
         "answer": "T",
-        "explanation": "This statement is correct: Neonatal infections."
+        "explanation": "Neonatal infections (sepsis, pneumonia, meningitis) are leading causes of neonatal mortality in Nigeria."
       },
       {
         "id": "C",
         "text": "Neonatal kidney and urinary tract disease",
-        "answer": "T",
-        "explanation": "This statement is correct: Neonatal kidney and urinary tract disease."
+        "answer": "F",
+        "explanation": "Congenital kidney and urinary tract anomalies are uncommon causes of overall neonatal mortality compared to sepsis, asphyxia, and prematurity."
       },
       {
         "id": "D",
         "text": "Physiological jaundice appears after 24 hours of life",
         "answer": "T",
-        "explanation": "TRUE: Jaundice visible in the first 24 hours is pathological and requires investigation."
+        "explanation": "Physiological jaundice characteristically appears after 24 hours of life; onset within 24 hours indicates pathological hemolysis or infection."
       },
       {
         "id": "E",
         "text": "Phototherapy is the first-line treatment for significant unconjugated hyperbilirubinaemia",
         "answer": "T",
-        "explanation": "TRUE: Blue-green light isomerises bilirubin to water-soluble forms that can be excreted without conjugation."
+        "explanation": "Phototherapy is the established first-line non-invasive therapy for severe unconjugated hyperbilirubinemia in neonates."
       }
     ]
   },
@@ -11330,31 +11330,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Caused by gram negative rod",
         "answer": "F",
-        "explanation": "This statement is incorrect: Caused by gram negative rod."
+        "explanation": "Clostridium tetani is an obligate anaerobic Gram-positive spore-forming bacillus, not a Gram-negative rod."
       },
       {
         "id": "B",
         "text": "Severity is inversely proportional to inoculation",
         "answer": "F",
-        "explanation": "This statement is incorrect: Severity is inversely proportional to inoculation."
+        "explanation": "Severity of neonatal tetanus is inversely proportional to the incubation period (shorter incubation period = more severe disease and higher mortality)."
       },
       {
         "id": "C",
         "text": "Trismus is the 1st symptom",
         "answer": "T",
-        "explanation": "This statement is correct: Trismus is the 1st symptom."
+        "explanation": "Trismus (spasm of the masticatory muscles causing lockjaw) and inability to suck are the classic initial symptoms of neonatal tetanus."
       },
       {
         "id": "D",
         "text": "Physiological jaundice appears after 24 hours of life",
         "answer": "T",
-        "explanation": "TRUE: Jaundice visible in the first 24 hours is pathological and requires investigation."
+        "explanation": "Physiological jaundice appears after 24 hours of life, peaking on days 3–5 in term infants."
       },
       {
         "id": "E",
         "text": "Phototherapy is the first-line treatment for significant unconjugated hyperbilirubinaemia",
         "answer": "T",
-        "explanation": "TRUE: Blue-green light isomerises bilirubin to water-soluble forms that can be excreted without conjugation."
+        "explanation": "Phototherapy is the primary treatment modality for significant unconjugated hyperbilirubinemia in neonates."
       }
     ]
   },
@@ -11367,31 +11367,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "First sign is inability to suck",
         "answer": "F",
-        "explanation": "This statement is incorrect: First sign is inability to suck."
+        "explanation": "Inability to suck is the characteristic initial presenting sign of neonatal tetanus."
       },
       {
         "id": "B",
         "text": "Hyperpyrexia is a poor prognosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hyperpyrexia is a poor prognosis."
+        "explanation": "Hyperpyrexia indicates severe autonomic nervous system dysfunction and carries a poor prognosis."
       },
       {
         "id": "C",
         "text": "Physiological jaundice appears after 24 hours of life",
-        "answer": "T",
-        "explanation": "TRUE: Jaundice visible in the first 24 hours is pathological and requires investigation."
+        "answer": "F",
+        "explanation": "Physiological jaundice appears after 24 hours of life, whereas neonatal tetanus manifests in the first 1–2 weeks."
       },
       {
         "id": "D",
         "text": "Incubation period does not correspond to prognosis",
-        "answer": "T",
-        "explanation": "This statement is correct: Incubation period does not correspond to prognosis."
+        "answer": "F",
+        "explanation": "Incubation period correlates strongly with prognosis; a short incubation period (<7 days) carries high mortality."
       },
       {
         "id": "E",
         "text": "Commoner in females",
-        "answer": "T",
-        "explanation": "This statement is correct: Commoner in females."
+        "answer": "F",
+        "explanation": "Neonatal tetanus affects male and female infants equally based on unhygienic cord care practices."
       }
     ]
   },
@@ -11404,31 +11404,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is usually caused by gram negative anaerobes",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is usually caused by gram negative anaerobes."
+        "explanation": "Clostridium tetani is a Gram-positive anaerobic spore-forming rod."
       },
       {
         "id": "B",
         "text": "Natural tetanus infection provides lifelong immunity",
         "answer": "F",
-        "explanation": "This statement is incorrect: Natural tetanus infection provides lifelong immunity."
+        "explanation": "Natural tetanus infection does NOT confer immunity because the lethal dose of tetanospasmin toxin is far lower than the dose required to stimulate an immune response."
       },
       {
         "id": "C",
         "text": "Severity correlates inversely with the length of incubation period",
         "answer": "T",
-        "explanation": "This statement is correct: Severity correlates inversely with the length of incubation period."
+        "explanation": "Disease severity in neonatal tetanus correlates inversely with the incubation period (shorter incubation = higher toxin load and worse prognosis)."
       },
       {
         "id": "D",
         "text": "Trismus is usually the first sign",
         "answer": "T",
-        "explanation": "This statement is correct: Trismus is usually the first sign."
+        "explanation": "Trismus (jaw stiffness preventing sucking) is usually the first clinical sign observed in neonatal tetanus."
       },
       {
         "id": "E",
         "text": "Physiological jaundice appears after 24 hours of life",
         "answer": "T",
-        "explanation": "TRUE: Jaundice visible in the first 24 hours is pathological and requires investigation."
+        "explanation": "Physiological jaundice typically appears after the first 24 hours of life."
       }
     ]
   },
@@ -11441,31 +11441,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Asymmetrical tonic neck reflex gone by 3 months",
         "answer": "F",
-        "explanation": "This statement is incorrect: Asymmetrical tonic neck reflex gone by 3 months."
+        "explanation": "The Asymmetric Tonic Neck Reflex (ATNR) normally integrates and disappears by 4–6 months of age, not 3 months."
       },
       {
         "id": "B",
         "text": "Rolls back on stomach by 6.5 months",
         "answer": "T",
-        "explanation": "This statement is correct: Rolls back on stomach by 6.5 months."
+        "explanation": "Rolling from back to stomach (supine to prone) is typically achieved by infants between 5.5 and 6.5 months of age."
       },
       {
         "id": "C",
         "text": "Points at objects by 10 months",
         "answer": "T",
-        "explanation": "This statement is correct: Points at objects by 10 months."
+        "explanation": "Index finger pointing to express interest or request objects typically emerges around 9–10 months of age."
       },
       {
         "id": "D",
         "text": "Speaks 4-6 words by 1 year",
         "answer": "F",
-        "explanation": "This statement is incorrect: Speaks 4-6 words by 1 year."
+        "explanation": "Speaking 4–6 words with meaning is achieved by 15–18 months; at 12 months, a child typically speaks 1–3 specific words (e.g. \"mama\", \"dada\")."
       },
       {
         "id": "E",
         "text": "Uncovering of toy on seeing after hiding by 8 months",
         "answer": "T",
-        "explanation": "This statement is correct: Uncovering of toy on seeing after hiding by 8 months."
+        "explanation": "Uncovering a hidden toy (object permanence) develops around 8–9 months of age."
       }
     ]
   },
@@ -11477,32 +11477,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Weight of 9kg",
-        "answer": "T",
-        "explanation": "This statement is correct: Weight of 9kg."
+        "answer": "F",
+        "explanation": "Primary dentition begins with the eruption of the lower central incisors at approximately 6 months of age, not 8 months."
       },
       {
         "id": "B",
         "text": "Height of 65cm",
         "answer": "F",
-        "explanation": "This statement is incorrect: Height of 65cm."
+        "explanation": "Primary dentition consists of 20 teeth and is typically complete by 24–30 months (2.5 years) of age, not 10 months."
       },
       {
         "id": "C",
         "text": "OFC of 42cm",
-        "answer": "F",
-        "explanation": "This statement is incorrect: OFC of 42cm."
+        "answer": "T",
+        "explanation": "Primary canine teeth erupt between 16 and 20 months, whereas primary second molars erupt between 20 and 30 months; thus the canine erupts before the second molar."
       },
       {
         "id": "D",
         "text": "OFC/CC ratio less than one",
         "answer": "F",
-        "explanation": "This statement is incorrect: OFC/CC ratio less than one."
+        "explanation": "Exfoliation (shedding) of primary central incisors begins at 6–7 years of age, not 6–7.5 months."
       },
       {
         "id": "E",
         "text": "Can flip pages",
         "answer": "F",
-        "explanation": "This statement is incorrect: Can flip pages."
+        "explanation": "Exfoliation of primary molars occurs between 9 and 12 years of age, not 11–12 months."
       }
     ]
   },
@@ -11514,32 +11514,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Can climb stairs at 15 months",
-        "answer": "T",
-        "explanation": "This statement is correct: Can climb stairs at 15 months."
+        "answer": "F",
+        "explanation": "Primary dentition eruption begins at ~6 months of age (lower central incisors)."
       },
       {
         "id": "B",
         "text": "Can open and close doors at 2 years",
         "answer": "F",
-        "explanation": "This statement is incorrect: Can open and close doors at 2 years."
+        "explanation": "Deciduous dentition is fully complete by 2.5 to 3 years of age, not 10 years."
       },
       {
         "id": "C",
         "text": "Can stand on one foot at 2 years",
         "answer": "F",
-        "explanation": "This statement is incorrect: Can stand on one foot at 2 years."
+        "explanation": "Primary canines (16–20 months) erupt before the primary second molars (20–30 months), making the statement that canines erupt after second molars false."
       },
       {
         "id": "D",
         "text": "Can hop on one foot at 3 years",
-        "answer": "T",
-        "explanation": "This statement is correct: Can hop on one foot at 3 years."
+        "answer": "F",
+        "explanation": "Primary canine teeth shed between 9 and 12 years of age, not 6–7.5 years."
       },
       {
         "id": "E",
         "text": "Can cut with scissors at 4 years",
         "answer": "T",
-        "explanation": "This statement is correct: Can cut with scissors at 4 years."
+        "explanation": "The primary second molars are shed between 10 and 12 years of age to make room for permanent premolars."
       }
     ]
   },
@@ -11551,32 +11551,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Open doors at 2 years",
-        "answer": "T",
-        "explanation": "This statement is correct: Open doors at 2 years."
+        "answer": "F",
+        "explanation": "Delayed eruption is defined as the absence of any erupting deciduous teeth by 12–13 months of age (not 6 months)."
       },
       {
         "id": "B",
         "text": "Stands on one foot at 2 years",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Stands on one foot at 2 years."
+        "answer": "T",
+        "explanation": "Early exfoliation of primary teeth (prior to 5 years) is abnormal and associated with conditions such as hypophosphatasia, histiocytosis, or severe periodontitis."
       },
       {
         "id": "C",
         "text": "Hop on one foot at 3 years",
         "answer": "T",
-        "explanation": "This statement is correct: Hop on one foot at 3 years."
+        "explanation": "Primary canines typically shed around 10–12 years of age."
       },
       {
         "id": "D",
         "text": "Use scissors to cut a circle at 4 years",
-        "answer": "T",
-        "explanation": "This statement is correct: Use scissors to cut a circle at 4 years."
+        "answer": "F",
+        "explanation": "Upper primary second molars are shed around 10–12 years of age (replaced by second premolars); permanent upper second molars erupt around age 12."
       },
       {
         "id": "E",
         "text": "Persistence of the Moro reflex beyond 6 months is abnormal",
-        "answer": "T",
-        "explanation": "TRUE: The Moro reflex should disappear by 4–6 months; persistence suggests neurological dysfunction."
+        "answer": "F",
+        "explanation": "Lower third molars (wisdom teeth) erupt between 17 and 25 years of age; they are permanent teeth and are not shed."
       }
     ]
   },
@@ -11589,31 +11589,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Reach out for objects at 4 months",
         "answer": "T",
-        "explanation": "This statement is correct: Reach out for objects at 4 months."
+        "explanation": "Genetics (polygenic inheritance and parental height) is a primary determinant of growth potential and developmental trajectory."
       },
       {
         "id": "B",
         "text": "Turn pages of book at 1 year",
         "answer": "T",
-        "explanation": "This statement is correct: Turn pages of book at 1 year."
+        "explanation": "Environmental factors (climate, exposure to toxins, psychosocial stimulation) significantly impact childhood growth and development."
       },
       {
         "id": "C",
         "text": "Can recognise familiar from unfamiliar faces at 7 months",
         "answer": "T",
-        "explanation": "This statement is correct: Can recognise familiar from unfamiliar faces at 7 months."
+        "explanation": "Socioeconomic status directly influences access to healthcare, housing quality, parental education, and overall child growth outcomes."
       },
       {
         "id": "D",
         "text": "Palmar grasp gone at 4 months",
         "answer": "T",
-        "explanation": "This statement is correct: Palmar grasp gone at 4 months."
+        "explanation": "Nutrition (adequate protein, energy, and micronutrients) is the single most critical extrinsic determinant of physical growth in infants and children."
       },
       {
         "id": "E",
         "text": "Persistence of the Moro reflex beyond 6 months is abnormal",
-        "answer": "T",
-        "explanation": "TRUE: The Moro reflex should disappear by 4–6 months; persistence suggests neurological dysfunction."
+        "answer": "F",
+        "explanation": "Multiple intrinsic and extrinsic factors (genetics, nutrition, environment, hormones) interact to dictate growth."
       }
     ]
   },
@@ -11626,31 +11626,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Should be able to transfer object from one hand to another",
         "answer": "T",
-        "explanation": "This statement is correct: Should be able to transfer object from one hand to another."
+        "explanation": "Growth hormone deficiency (GHD) characteristically presents with severe short stature and subnormal growth velocity."
       },
       {
         "id": "B",
         "text": "Should have palmar grasp",
         "answer": "F",
-        "explanation": "This statement is incorrect: Should have palmar grasp."
+        "explanation": "Growth hormone is a counter-regulatory hormone that increases blood glucose; GHD predisposes to hypoglycemia (especially in infants), not hyperglycemia."
       },
       {
         "id": "C",
         "text": "Should be able to briefly look for objects when dropped",
         "answer": "T",
-        "explanation": "This statement is correct: Should be able to briefly look for objects when dropped."
+        "explanation": "Neonatal GHD combined with ACTH deficiency can present with prolonged conjugated hyperbilirubinemia (neonatal cholestasis)."
       },
       {
         "id": "D",
         "text": "Should have an OFC of 39cm to 42cm",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Should have an OFC of 39cm to 42cm."
+        "answer": "T",
+        "explanation": "Congenital GHD in male infants often presents with micropenis (penile length <2.5 cm at term) due to concomitant gonadotropin deficiency."
       },
       {
         "id": "E",
         "text": "Should be able to distinguish familiar from unfamiliar faces",
         "answer": "T",
-        "explanation": "This statement is correct: Should be able to distinguish familiar from unfamiliar faces."
+        "explanation": "Children with GHD often have increased relative subcutaneous fat (truncal obesity/chubby appearance) despite growth failure."
       }
     ]
   },
@@ -11663,31 +11663,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Crawl",
         "answer": "T",
-        "explanation": "This statement is correct: Crawl."
+        "explanation": "Growth hormone deficiency is a rare endocrine cause, accounting for <5–10% of all pediatric short stature evaluations."
       },
       {
         "id": "B",
         "text": "Smile socially",
         "answer": "T",
-        "explanation": "This statement is correct: Smile socially."
+        "explanation": "Micropenis is a well-recognized neonatal feature of congenital hypopituitarism / GHD in male infants."
       },
       {
         "id": "C",
         "text": "Have good sphincteric bladder control",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Have good sphincteric bladder control."
+        "answer": "T",
+        "explanation": "Children with GHD progressive fall below the 3rd percentile on standardized growth charts for age and sex."
       },
       {
         "id": "D",
         "text": "Sit unsupported",
         "answer": "T",
-        "explanation": "This statement is correct: Sit unsupported."
+        "explanation": "Diagnosis of GHD requires demonstrating failure of serum GH levels to rise above 10 ng/mL following at least two provocative stimulation tests (e.g. clonidine, arginine, glucagon)."
       },
       {
         "id": "E",
         "text": "Raise head when lying prone",
-        "answer": "T",
-        "explanation": "This statement is correct: Raise head when lying prone."
+        "answer": "F",
+        "explanation": "In GHD, the growth curve falls markedly BELOW the 3rd percentile with flat or severely depressed height velocity."
       }
     ]
   },
@@ -11700,31 +11700,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Newborns have a preference for human faces",
         "answer": "T",
-        "explanation": "TRUE: Neonates show preferential visual attention to face-like stimuli from birth, a phenomenon demonstrated by Robert Fantz and confirmed repeatedly in developmental research."
+        "explanation": "Familial (genetic) tall stature is the commonest cause of tall stature in children, with normal growth velocity and mid-parental target height."
       },
       {
         "id": "B",
         "text": "At about 4-6 months has significantly shorter sleep cycle than adults",
         "answer": "T",
-        "explanation": "TRUE: At approximately 4-6 months, the infant sleep cycle is significantly shorter (about 50 minutes) compared to adults (90 minutes), with more frequent REM cycles."
+        "explanation": "Marfan syndrome (FBN1 gene mutation) causes tall stature, arachnodactyly, joint hypermobility, ectopia lentis, and aortic root dilation."
       },
       {
         "id": "C",
         "text": "Gains approximately 30 grams per day for the first month of life",
         "answer": "T",
-        "explanation": "TRUE: During the first month of life, infants gain approximately 25-30 grams per day, doubling birth weight by about 5 months."
+        "explanation": "Homocystinuria presents with a Marfanoid tall habitus, intellectual disability, downward lens dislocation, and thromboembolism."
       },
       {
         "id": "D",
         "text": "Should be sitting unsupported at 7 months",
         "answer": "T",
-        "explanation": "TRUE: Sitting without support is a gross motor milestone typically achieved by 6-8 months (classically 7 months)."
+        "explanation": "Klinefelter syndrome (47,XXY) presents with tall stature, disproportionately long legs, hypogonadism, and gynecomastia."
       },
       {
         "id": "E",
         "text": "Pincer grasp should be achieved by 9th month",
-        "answer": "T",
-        "explanation": "TRUE: Pincer grasp (inferior) develops around 9 months, with a mature pincer grasp by 10-12 months."
+        "answer": "F",
+        "explanation": "Achondroplasia is the most common cause of disproportionate short stature (short-limbed dwarfism), not tall stature."
       }
     ]
   },
@@ -11736,32 +11736,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Weight of 10kg",
-        "answer": "T",
-        "explanation": "This statement is correct: Weight of 10kg."
+        "answer": "F",
+        "explanation": "Failure to thrive (FTT) is defined primarily by weight parameters (weight < 3rd percentile, or weight-for-height < 3rd percentile, or weight deceleration across 2 major percentiles), not height alone."
       },
       {
         "id": "B",
         "text": "Height/length 75cm",
-        "answer": "T",
-        "explanation": "This statement is correct: Height/length 75cm."
+        "answer": "F",
+        "explanation": "Mid-parental height is used to assess target height, but an individual child's height is not simply a strict average of parental heights."
       },
       {
         "id": "C",
         "text": "Occipitofrontal circumference 40cm",
         "answer": "F",
-        "explanation": "This statement is incorrect: Occipitofrontal circumference 40cm."
+        "explanation": "Non-organic (psychosocial/environmental) causes account for 70–80% of FTT cases in pediatric populations, not <20%."
       },
       {
         "id": "D",
         "text": "Chest circumference 42cm",
-        "answer": "T",
-        "explanation": "This statement is correct: Chest circumference 42cm."
+        "answer": "F",
+        "explanation": "Organic (underlying medical disease) causes account for only 10–20% of FTT cases in general pediatric cohorts."
       },
       {
         "id": "E",
         "text": "6 erupted teeth",
-        "answer": "T",
-        "explanation": "This statement is correct: 6 erupted teeth."
+        "answer": "F",
+        "explanation": "FTT is a clinical sign of undernutrition, not a single disease entity with pathognomonic signs."
       }
     ]
   },
@@ -11774,31 +11774,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "The first primary molar erupts at 12-16 months",
         "answer": "T",
-        "explanation": "TRUE: The first deciduous molar erupts at approximately 12-16 months of age."
+        "explanation": "Short height accompanied by excess weight gain / obesity points toward endocrine etiologies like Cushing syndrome, hypothyroidism, or hypothalamic/pituitary lesions."
       },
       {
         "id": "B",
         "text": "Central incisor erupts by 6-7 months",
-        "answer": "T",
-        "explanation": "TRUE: The lower central incisor is typically the first tooth to erupt, appearing at 6-7 months of age."
+        "answer": "F",
+        "explanation": "Constitutional delay of growth and puberty is characterized by late growth spurt and delayed bone age, with eventual normal adult height attainment."
       },
       {
         "id": "C",
         "text": "Delayed eruption if after 10 months",
         "answer": "F",
-        "explanation": "FALSE: Delayed eruption is defined as absence of the first tooth beyond 13 months (not 10 months). Some sources use 12-15 months as the threshold."
+        "explanation": "Chronic renal disease causes proportionate short stature (due to metabolic acidosis, osteodystrophy, and GH resistance), not disproportionate short stature."
       },
       {
         "id": "D",
         "text": "Canine erupts by 16-20 months",
         "answer": "T",
-        "explanation": "TRUE: The deciduous canine erupts between 16-20 months of age."
+        "explanation": "Chronic systemic diseases (e.g. celiac disease, inflammatory bowel disease, cyanotic heart disease) are common causes of impaired growth."
       },
       {
         "id": "E",
         "text": "Shedding of canine by 7-8 years",
-        "answer": "F",
-        "explanation": "FALSE: Primary canines are shed at 9-12 years of age, not 7-8 years (which corresponds more to the shedding of central and lateral incisors)."
+        "answer": "T",
+        "explanation": "Severe short stature is defined as height or length less than -3 SD below the mean for age and sex."
       }
     ]
   },
@@ -11810,32 +11810,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Dentition starts at 8 months",
-        "answer": "F",
-        "explanation": "FALSE: Primary dentition typically begins at 6-7 months (lower central incisors first), not 8 months."
+        "answer": "T",
+        "explanation": "Colostrum and mature breast milk contain abundant viable macrophages (up to 80% of leukocytes in colostrum) capable of phagocytosis and cytokine secretion."
       },
       {
         "id": "B",
         "text": "All 20 primary teeth are complete by 10 months",
-        "answer": "F",
-        "explanation": "FALSE: All 20 primary teeth are usually complete by approximately 24-30 months of age, not 10 months."
+        "answer": "T",
+        "explanation": "Lactoferrin is a major whey protein that tightly chelates ferric iron, depriving iron-dependent gut pathogens (such as E. coli) of essential iron."
       },
       {
         "id": "C",
         "text": "The primary canine erupts before the second primary molar",
         "answer": "T",
-        "explanation": "TRUE: The primary canine erupts at 16-20 months while the second primary molar erupts at 20-30 months — so the canine precedes the second molar."
+        "explanation": "Human milk oligosaccharides promote colonization by Bifidobacterium infantis and Lactobacillus, producing lactic acid that lowers gut pH and inhibits pathogens."
       },
       {
         "id": "D",
         "text": "Shedding of central incisors begins at 6-7 years",
-        "answer": "F",
-        "explanation": "FALSE: Primary central incisors typically shed at around 6-7 years — this is actually TRUE. If the source says 'before 6 years' it would be false. Accepting as TRUE based on standard milestone."
+        "answer": "T",
+        "explanation": "Secretory IgA (sIgA) is the predominant immunoglobulin in human milk, providing mucosal immune protection by agglutinating and neutralizing pathogens without triggering inflammation."
       },
       {
         "id": "E",
         "text": "There are 32 deciduous teeth in total",
-        "answer": "F",
-        "explanation": "FALSE: There are 20 deciduous (primary) teeth, not 32. Thirty-two is the count for permanent teeth."
+        "answer": "T",
+        "explanation": "Lysozyme is an enzyme abundant in human milk that degrades peptidoglycan walls of Gram-positive bacteria, acting synergistically with lactoferrin."
       }
     ]
   },
@@ -11848,31 +11848,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Dentition starts at 8 months",
         "answer": "F",
-        "explanation": "This statement is incorrect: Dentition starts at 8 months."
+        "explanation": "Primary dentition eruption begins at ~6 months of age with the lower central incisors."
       },
       {
         "id": "B",
         "text": "Complete at 10 months",
         "answer": "F",
-        "explanation": "This statement is incorrect: Complete at 10 months."
+        "explanation": "Primary dentition (20 teeth) is completed by 24–30 months (2.5 years) of age, not 10 months."
       },
       {
         "id": "C",
         "text": "First canine erupts before the second molar",
         "answer": "T",
-        "explanation": "This statement is correct: First canine erupts before the second molar."
+        "explanation": "Primary canines (16–20 months) erupt before primary second molars (20–30 months)."
       },
       {
         "id": "D",
         "text": "Shedding of central incisors begins from 6 to 7.5 months",
         "answer": "F",
-        "explanation": "This is incorrect. correct: years."
+        "explanation": "Exfoliation of primary central incisors begins at 6–7.5 years of age, not months."
       },
       {
         "id": "E",
         "text": "Shedding of molars begins from 11 to 12 months",
         "answer": "F",
-        "explanation": "This is incorrect. correct: years."
+        "explanation": "Exfoliation of primary molars occurs between 9 and 12 years of age, not months."
       }
     ]
   },
@@ -11885,31 +11885,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Starts by 8/12",
         "answer": "F",
-        "explanation": "This statement is incorrect: Starts by 8/12."
+        "explanation": "Primary dentition begins at ~6 months of age."
       },
       {
         "id": "B",
         "text": "Complete by 10 years",
         "answer": "F",
-        "explanation": "This statement is incorrect: Complete by 10 years."
+        "explanation": "Primary dentition is completed by 2.5–3 years of age, not 10 years."
       },
       {
         "id": "C",
         "text": "Canine erupts before molar",
         "answer": "F",
-        "explanation": "This statement is incorrect: Canine erupts before molar."
+        "explanation": "Primary canines erupt BEFORE primary second molars."
       },
       {
         "id": "D",
         "text": "Shedding of canine by 6-7.5 years",
         "answer": "F",
-        "explanation": "This statement is incorrect: Shedding of canine by 6-7.5 years."
+        "explanation": "Primary canine teeth shed between 9 and 12 years of age, not 6–7.5 years."
       },
       {
         "id": "E",
         "text": "Shedding of second molar by 11-12 years",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Shedding of second molar by 11-12 years."
+        "answer": "T",
+        "explanation": "Primary second molars shed between 10 and 12 years of age to allow eruption of permanent premolars."
       }
     ]
   },
@@ -11922,31 +11922,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Delayed eruption is failure of eruption after 6 months",
         "answer": "F",
-        "explanation": "This statement is incorrect: Delayed eruption is failure of eruption after 6 months."
+        "explanation": "Delayed eruption is defined as absence of any erupting deciduous teeth by 12–13 months of age."
       },
       {
         "id": "B",
         "text": "Early exfoliation is when it occurs before 5th birthday",
         "answer": "T",
-        "explanation": "This statement is correct: Early exfoliation is when it occurs before 5th birthday."
+        "explanation": "Early exfoliation of primary teeth (prior to age 5) is abnormal and associated with hypophosphatasia or severe periodontitis."
       },
       {
         "id": "C",
         "text": "Canine shed at 10 years",
         "answer": "T",
-        "explanation": "This statement is correct: Canine shed at 10 years."
+        "explanation": "Primary canines are shed between 9 and 12 years of age (around 10 years)."
       },
       {
         "id": "D",
         "text": "Upper second molars shed at 14",
         "answer": "F",
-        "explanation": "This statement is incorrect: Upper second molars shed at 14."
+        "explanation": "Primary upper second molars are shed around 10–12 years of age."
       },
       {
         "id": "E",
         "text": "Lower third molars shed at 23",
         "answer": "F",
-        "explanation": "This statement is incorrect: Lower third molars shed at 23."
+        "explanation": "Permanent lower third molars erupt between 17 and 25 years of age and are not shed."
       }
     ]
   },
@@ -11959,31 +11959,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Genetics",
         "answer": "T",
-        "explanation": "This statement is correct: Genetics."
+        "explanation": "Genetic potential is a primary intrinsic determinant of physical growth and maturation."
       },
       {
         "id": "B",
         "text": "Environment",
         "answer": "T",
-        "explanation": "This statement is correct: Environment."
+        "explanation": "Environmental factors (housing, sanitation, stimulation) directly influence pediatric growth."
       },
       {
         "id": "C",
         "text": "Socioeconomic status",
         "answer": "T",
-        "explanation": "This statement is correct: Socioeconomic status."
+        "explanation": "Socioeconomic status determines food security, healthcare access, and living conditions."
       },
       {
         "id": "D",
         "text": "Nutrition",
         "answer": "T",
-        "explanation": "This statement is correct: Nutrition."
+        "explanation": "Adequate nutrition is the single most critical extrinsic factor for infant and child growth."
       },
       {
         "id": "E",
         "text": "None of the above",
         "answer": "F",
-        "explanation": "This statement is incorrect: None of the above."
+        "explanation": "Genetics, environment, nutrition, and hormones all determine growth and development."
       }
     ]
   },
@@ -11996,31 +11996,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Growth failure",
         "answer": "T",
-        "explanation": "This statement is correct: Growth failure."
+        "explanation": "Growth Hormone Deficiency (GHD) characteristically presents with severe short stature and subnormal growth velocity."
       },
       {
         "id": "B",
         "text": "Hyperglycaemia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hyperglycaemia."
+        "explanation": "Growth hormone is counter-regulatory to insulin; GHD predisposes to hypoglycemia, not hyperglycemia."
       },
       {
         "id": "C",
         "text": "Persistent jaundice",
         "answer": "T",
-        "explanation": "This statement is correct: Persistent jaundice."
+        "explanation": "Neonatal GHD combined with ACTH deficiency can present with prolonged conjugated hyperbilirubinemia."
       },
       {
         "id": "D",
         "text": "Micropenis",
         "answer": "T",
-        "explanation": "This statement is correct: Micropenis."
+        "explanation": "Congenital GHD in male infants often presents with micropenis due to associated gonadotropin deficiency."
       },
       {
         "id": "E",
         "text": "Increased weight",
         "answer": "T",
-        "explanation": "This statement is correct: Increased weight."
+        "explanation": "Children with GHD often have increased relative subcutaneous fat (truncal obesity)."
       }
     ]
   },
@@ -12033,31 +12033,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Accounts for less than 20% in children with short stature",
         "answer": "T",
-        "explanation": "This statement is correct: Accounts for less than 20% in children with short stature."
+        "explanation": "GHD is a rare endocrine cause, accounting for <10% of pediatric short stature evaluations."
       },
       {
         "id": "B",
         "text": "Micropenis is common",
         "answer": "T",
-        "explanation": "This statement is correct: Micropenis is common."
+        "explanation": "Micropenis is a well-recognized neonatal feature of congenital hypopituitarism in male infants."
       },
       {
         "id": "C",
         "text": "They are usually short compared to children of the same age",
         "answer": "T",
-        "explanation": "This statement is correct: They are usually short compared to children of the same age."
+        "explanation": "Children with GHD are short compared to age-matched peers and fall progressively below the 3rd percentile."
       },
       {
         "id": "D",
         "text": "Diagnosis demonstrates low level growth hormone with response to stimulation test",
         "answer": "T",
-        "explanation": "This statement is correct: Diagnosis demonstrates low level growth hormone with response to stimulation test."
+        "explanation": "Diagnosis requires demonstrating failure of GH to rise above 10 ng/mL on two provocative stimulation tests."
       },
       {
         "id": "E",
         "text": "Growth curve usually above 3rd percentile or shows slow growth curve over a long period of time",
         "answer": "F",
-        "explanation": "This statement is incorrect: Growth curve usually above 3rd percentile or shows slow growth curve over a long period of time."
+        "explanation": "In GHD, the growth curve falls markedly BELOW the 3rd percentile with depressed height velocity."
       }
     ]
   },
@@ -12107,31 +12107,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Height less than 3rd and 5th percentile",
         "answer": "F",
-        "explanation": "This statement is incorrect: Height less than 3rd and 5th percentile."
+        "explanation": "Failure to thrive (FTT) is defined primarily by weight parameters (weight <3rd percentile or crossing 2 major percentiles), not height alone."
       },
       {
         "id": "B",
         "text": "The patient's height is an average of the parents' height",
         "answer": "F",
-        "explanation": "This statement is incorrect: The patient's height is an average of the parents' height."
+        "explanation": "Mid-parental height assesses target genetic height, but individual height is not a strict average of parental heights."
       },
       {
         "id": "C",
         "text": "Non-organic accounts for less than 20% of cases",
         "answer": "F",
-        "explanation": "This statement is incorrect: Non-organic accounts for less than 20% of cases."
+        "explanation": "Non-organic (psychosocial/environmental) causes account for 70–80% of FTT cases in pediatric populations."
       },
       {
         "id": "D",
         "text": "Organic accounts for over 70% of cases",
         "answer": "F",
-        "explanation": "This statement is incorrect: Organic accounts for over 70% of cases."
+        "explanation": "Organic medical causes account for only 10–20% of FTT cases in general pediatric cohorts."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "FTT is a clinical sign of undernutrition, not a single disease entity."
       }
     ]
   },
@@ -12144,31 +12144,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Short height & weight gain may be of pituitary lesion",
         "answer": "T",
-        "explanation": "This statement is correct: Short height & weight gain may be of pituitary lesion."
+        "explanation": "Short stature accompanied by excess weight gain points toward endocrine etiologies like Cushing syndrome, hypothyroidism, or hypothalamic/pituitary lesions."
       },
       {
         "id": "B",
         "text": "Constitutional short height catches up with adult height later in life",
         "answer": "F",
-        "explanation": "This statement is incorrect: Constitutional short height catches up with adult height later in life."
+        "explanation": "Constitutional delay of growth and puberty is characterized by late growth spurt and delayed bone age, with eventual normal adult height attainment."
       },
       {
         "id": "C",
         "text": "Chronic renal disease is a common cause of disproportionate short height",
         "answer": "F",
-        "explanation": "This statement is incorrect: Chronic renal disease is a common cause of disproportionate short height."
+        "explanation": "Chronic kidney disease causes proportionate short stature, not disproportionate short stature."
       },
       {
         "id": "D",
         "text": "Chronic diseases are a cause of short height",
         "answer": "T",
-        "explanation": "This statement is correct: Chronic diseases are a cause of short height."
+        "explanation": "Chronic systemic diseases (celiac disease, IBD, cyanotic heart disease) are major causes of growth failure."
       },
       {
         "id": "E",
         "text": "Short height is height or length less than 3 SD for specific age",
         "answer": "T",
-        "explanation": "This statement is correct: Short height is height or length less than 3 SD for specific age."
+        "explanation": "Severe short stature is defined as height or length less than -3 SD below the mean for age and sex."
       }
     ]
   },
@@ -12218,31 +12218,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Lactogenesis starts during pregnancy",
         "answer": "T",
-        "explanation": "This statement is correct: Lactogenesis starts during pregnancy."
+        "explanation": "Lactogenesis I (enzymatic and structural breast differentiation for milk synthesis) begins during mid-pregnancy under the influence of estrogen, progesterone, and prolactin."
       },
       {
         "id": "B",
         "text": "Small and large breasts have the same glandular tissue",
         "answer": "T",
-        "explanation": "This statement is correct: Small and large breasts have the same glandular tissue."
+        "explanation": "Breast size is primarily determined by adipose tissue volume; small and large breasts contain equivalent amounts of milk-producing glandular lobuloalveolar tissue."
       },
       {
         "id": "C",
         "text": "Breast is not fully developed until telarche",
         "answer": "T",
-        "explanation": "This statement is correct: Breast is not fully developed until telarche."
+        "explanation": "Mammary gland growth accelerates at thearche (pubertal breast budding), but full functional differentiation of alveoli is only completed during pregnancy."
       },
       {
         "id": "D",
         "text": "Breast milk contains sufficient micro- and macro-nutrients",
         "answer": "T",
-        "explanation": "This statement is correct: Breast milk contains sufficient micro- and macro-nutrients."
+        "explanation": "Breast milk contains all essential macronutrients, vitamins, and minerals required for the first 6 months of life (with Vitamin D supplementation as recommended)."
       },
       {
         "id": "E",
         "text": "Exclusive breastfeeding is recommended for the first 6 months",
         "answer": "T",
-        "explanation": "TRUE: WHO recommends exclusive breastfeeding for 6 months followed by continued breastfeeding with complementary foods."
+        "explanation": "WHO recommends exclusive breastfeeding for the first 6 months of life, followed by nutritionally adequate complementary feeding with continued breastfeeding up to 2 years or beyond."
       }
     ]
   },
@@ -12255,31 +12255,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "BCG — Intradermal",
         "answer": "T",
-        "explanation": "This statement is correct: BCG — Intradermal."
+        "explanation": "BCG vaccine (Bacille Calmette-Guérin) is administered strictly intradermally over the deltoid muscle."
       },
       {
         "id": "B",
         "text": "HBV — Subcutaneous",
         "answer": "F",
-        "explanation": "This statement is incorrect: HBV — Subcutaneous."
+        "explanation": "Hepatitis B vaccine (HepB) is administered intramuscularly (anterolateral thigh in infants, deltoid in older children)."
       },
       {
         "id": "C",
         "text": "Measles — Intradermal",
         "answer": "F",
-        "explanation": "This statement is incorrect: Measles — Intradermal."
+        "explanation": "Measles / MMR vaccine is administered subcutaneously in the outer triceps area or anterolateral thigh."
       },
       {
         "id": "D",
         "text": "Yellow fever — Subcutaneous",
         "answer": "T",
-        "explanation": "This statement is correct: Yellow fever — Subcutaneous."
+        "explanation": "Yellow fever vaccine (live attenuated strain 17D) is administered subcutaneously."
       },
       {
         "id": "E",
         "text": "PENTA — Intramuscular",
         "answer": "T",
-        "explanation": "This statement is correct: PENTA — Intramuscular."
+        "explanation": "Pentavalent vaccine (DTP-HepB-Hib) is administered intramuscularly in the anterolateral mid-thigh."
       }
     ]
   },
@@ -12292,31 +12292,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Herd immunity protects those that cannot be vaccinated",
         "answer": "T",
-        "explanation": "This statement is correct: Herd immunity protects those that cannot be vaccinated."
+        "explanation": "Herd immunity (community protection) protects vulnerable individuals who cannot be safely vaccinated (e.g. infants, severely immunocompromised patients)."
       },
       {
         "id": "B",
         "text": "Herd immunity requires most people in the community to be vaccinated",
         "answer": "T",
-        "explanation": "This statement is correct: Herd immunity requires most people in the community to be vaccinated."
+        "explanation": "Achieving herd immunity depends on maintaining a high proportion (threshold coverage, e.g. 80–95%) of immune individuals in the population."
       },
       {
         "id": "C",
         "text": "Herd immunity provides protection against all diseases, even those without vaccine",
         "answer": "F",
-        "explanation": "This statement is incorrect: Herd immunity provides protection against all diseases, even those without vaccine."
+        "explanation": "Herd immunity is pathogen-specific and applies only to infectious diseases transmitted person-to-person for which effective vaccines or natural immunity exist."
       },
       {
         "id": "D",
         "text": "Vaccinating children contribute to herd immunity",
         "answer": "T",
-        "explanation": "This statement is correct: Vaccinating children contribute to herd immunity."
+        "explanation": "Vaccinating pediatric age groups reduces community transmission reservoirs, directly contributing to herd immunity."
       },
       {
         "id": "E",
         "text": "Herd immunity prevents disease outbreaks",
         "answer": "T",
-        "explanation": "This statement is correct: Herd immunity prevents disease outbreaks."
+        "explanation": "High herd immunity thresholds prevent sustained chain of transmission, effectively preventing epidemic disease outbreaks."
       }
     ]
   },
@@ -12329,31 +12329,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Recombinant DNA/subunit vaccine",
         "answer": "T",
-        "explanation": "TRUE: Recombinant DNA/subunit vaccines are well-established — e.g. Hepatitis B vaccine uses recombinant HBsAg."
+        "explanation": "Recombinant subunit vaccines use genetic engineering to produce specific antigens (e.g. Hepatitis B HBsAg, HPV L1 capsid)."
       },
       {
         "id": "B",
         "text": "mRNA vaccine",
         "answer": "T",
-        "explanation": "TRUE: mRNA vaccines are an established platform — e.g. Pfizer-BioNTech and Moderna COVID-19 vaccines."
+        "explanation": "mRNA vaccines utilize lipid nanoparticle-encapsulated mRNA encoding target viral proteins (e.g. Pfizer-BioNTech and Moderna COVID-19 vaccines)."
       },
       {
         "id": "C",
         "text": "Naked DNA plasmid vaccine (licensed product)",
-        "answer": "T",
-        "explanation": "FALSE (EXCEPT): While naked DNA vaccines are investigated in research, no licensed DNA vaccine for humans exists. This makes it the 'exception' among fully established vaccine types."
+        "answer": "F",
+        "explanation": "Naked DNA plasmid vaccines remain experimental or restricted in routine human pediatric EPI programs compared to established subunit, mRNA, polysaccharide, and killed vaccines."
       },
       {
         "id": "D",
         "text": "Polysaccharide vaccine",
         "answer": "T",
-        "explanation": "TRUE: Polysaccharide vaccines (e.g. meningococcal, pneumococcal) are widely used, though conjugate forms are preferred in young children."
+        "explanation": "Capsular polysaccharide vaccines (e.g. pure 23-valent pneumococcal PPV23) trigger T-cell independent B-cell responses."
       },
       {
         "id": "E",
         "text": "Killed (inactivated) whole-organism vaccine",
         "answer": "T",
-        "explanation": "TRUE: Killed/inactivated vaccines — e.g. IPV (polio), whole-cell pertussis — are among the oldest and most established vaccine types."
+        "explanation": "Inactivated whole-organism vaccines (e.g. IPV, inactivated hepatitis A, whole-cell pertussis) contain killed pathogens that cannot replicate."
       }
     ]
   },
@@ -12366,31 +12366,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Previous hypersensitivity reaction to antigen",
         "answer": "T",
-        "explanation": "This statement is correct: Previous hypersensitivity reaction to antigen."
+        "explanation": "Anaphylaxis or severe systemic hypersensitivity reaction following a previous vaccine dose or component is a universal absolute contraindication to re-administration."
       },
       {
         "id": "B",
         "text": "HIV infection",
         "answer": "F",
-        "explanation": "This statement is incorrect: HIV infection."
+        "explanation": "HIV infection is not an absolute contraindication to all vaccines; inactivated vaccines are safe, and live vaccines (e.g. Measles) are given unless severe immunosuppression is present."
       },
       {
         "id": "C",
         "text": "Severe prematurity",
         "answer": "F",
-        "explanation": "This statement is incorrect: Severe prematurity."
+        "explanation": "Prematurity is not a contraindication to routine immunization; preterms should receive vaccines according to their chronological age."
       },
       {
         "id": "D",
         "text": "Fever",
         "answer": "F",
-        "explanation": "This statement is incorrect: Fever."
+        "explanation": "Mild acute illness with or without low-grade fever is not a valid contraindication to vaccination."
       },
       {
         "id": "E",
         "text": "Serious current illness",
         "answer": "T",
-        "explanation": "This statement is correct: Serious current illness."
+        "explanation": "Moderate or severe acute illness (with or without fever) is a temporary precaution/contraindication until the acute condition resolves."
       }
     ]
   },
@@ -12403,31 +12403,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "A SCA child with functional asplenia",
         "answer": "F",
-        "explanation": "This statement is incorrect: A SCA child with functional asplenia."
+        "explanation": "Asplenic children (e.g. Sickle Cell Anemia) are at high risk for encapsulated bacterial sepsis and require aggressive vaccination (pneumococcal, meningococcal, Hib)."
       },
       {
         "id": "B",
         "text": "A child in maintenance phase for leukaemia",
         "answer": "T",
-        "explanation": "This statement is correct: A child in maintenance phase for leukaemia."
+        "explanation": "Children undergoing active chemotherapy or maintenance therapy for leukemia have severe immunosuppression; live attenuated vaccines are strictly contraindicated."
       },
       {
         "id": "C",
         "text": "A HIV-infected child who is yet to start anti-retroviral therapy",
         "answer": "T",
-        "explanation": "This statement is correct: A HIV-infected child who is yet to start anti-retroviral therapy."
+        "explanation": "Live vaccines (e.g. BCG, Yellow fever, Varicella) are contraindicated in HIV-infected children with severe immunosuppression until immune status is stabilized."
       },
       {
         "id": "D",
         "text": "A recipient of bone marrow stem cell transplant",
         "answer": "T",
-        "explanation": "This statement is correct: A recipient of bone marrow stem cell transplant."
+        "explanation": "Recipients of hematopoietic stem cell transplants lose immune memory; live vaccines are contraindicated until complete immune reconstitution occurs (typically >2 years post-transplant)."
       },
       {
         "id": "E",
         "text": "A child diagnosed with severe combined immunodeficiency",
         "answer": "T",
-        "explanation": "This statement is correct: A child diagnosed with severe combined immunodeficiency."
+        "explanation": "Severe Combined Immunodeficiency (SCID) is an absolute contraindication to all live attenuated vaccines (BCG, OPV, Rotavirus, Measles) due to risk of fatal vaccine strain infection."
       }
     ]
   },
@@ -12440,31 +12440,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Herd immunity can be achieved by vaccinating a small proportion of the population",
         "answer": "F",
-        "explanation": "This statement is incorrect: Herd immunity can be achieved by vaccinating a small proportion of the population."
+        "explanation": "Herd immunity requires a high threshold of immune individuals in the population (e.g. 80–95% for measles), not a small proportion."
       },
       {
         "id": "B",
         "text": "Live vaccines cannot cause herd immunity",
         "answer": "F",
-        "explanation": "This statement is incorrect: Live vaccines cannot cause herd immunity."
+        "explanation": "Live attenuated vaccines (e.g. OPV, Measles) induce strong mucosal and systemic immunity and can shed to unvaccinated contacts, actively contributing to herd immunity."
       },
       {
         "id": "C",
         "text": "Transplacental transfer of IgG is a form of vaccination",
         "answer": "F",
-        "explanation": "This statement is incorrect: Transplacental transfer of IgG is a form of vaccination."
+        "explanation": "Transplacental transfer of maternal IgG provides passive temporary immunity, which is distinct from active immunization via vaccination."
       },
       {
         "id": "D",
         "text": "Vaccination always leads to immunisation",
         "answer": "F",
-        "explanation": "This statement is incorrect: Vaccination always leads to immunisation."
+        "explanation": "Vaccination (vaccine administration) does not guarantee immunization if primary vaccine failure or improper storage (cold chain break) occurs."
       },
       {
         "id": "E",
         "text": "Vaccine hesitancy can prevent achievement of herd immunity",
         "answer": "T",
-        "explanation": "This statement is correct: Vaccine hesitancy can prevent achievement of herd immunity."
+        "explanation": "Vaccine hesitancy reduces population coverage below critical herd immunity thresholds, triggering resurgences of vaccine-preventable outbreaks."
       }
     ]
   },
@@ -12477,31 +12477,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Malnutrition",
         "answer": "F",
-        "explanation": "This statement is incorrect: Malnutrition."
+        "explanation": "Malnourished children are at elevated risk for severe vaccine-preventable infections and should be routinely vaccinated."
       },
       {
         "id": "B",
         "text": "Prematurity",
         "answer": "F",
-        "explanation": "This statement is incorrect: Prematurity."
+        "explanation": "Premature infants should be vaccinated according to their full chronological age without dose reduction."
       },
       {
         "id": "C",
         "text": "HIV exposure",
         "answer": "F",
-        "explanation": "This statement is incorrect: HIV exposure."
+        "explanation": "Infants born to HIV-positive mothers (HIV-exposed) should receive all routine childhood immunizations per EPI guidelines."
       },
       {
         "id": "D",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Standard clinical procedures rely on clear evidence-based guidelines rather than isolated pathognomonic assumptions."
       },
       {
         "id": "E",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Timely administration of childhood vaccines provides essential early protection against high-morbidity pediatric infections."
       }
     ]
   },
@@ -12514,31 +12514,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Advocacy",
         "answer": "T",
-        "explanation": "This statement is correct: Advocacy."
+        "explanation": "Pediatricians play a vital role in child health advocacy, promoting policies for immunization, clean water, child nutrition, and injury prevention."
       },
       {
         "id": "B",
         "text": "Research",
         "answer": "T",
-        "explanation": "This statement is correct: Research."
+        "explanation": "Conducting clinical and epidemiological research provides the evidence base for effective preventive child health interventions."
       },
       {
         "id": "C",
         "text": "Health education",
         "answer": "T",
-        "explanation": "This statement is correct: Health education."
+        "explanation": "Health education for parents and communities regarding hygiene, nutrition, and child safety is a core component of preventive pediatrics."
       },
       {
         "id": "D",
         "text": "Financing",
         "answer": "F",
-        "explanation": "This statement is incorrect: Financing."
+        "explanation": "Direct macroeconomic financing of health systems is the responsibility of government ministries and health economics bodies, not individual pediatricians."
       },
       {
         "id": "E",
         "text": "Collaboration",
         "answer": "T",
-        "explanation": "This statement is correct: Collaboration."
+        "explanation": "Collaborating with public health authorities, community leaders, and multidisciplinary healthcare teams is essential for preventive pediatric strategies."
       }
     ]
   },
@@ -12551,31 +12551,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is caused by a gram +ve organism",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is caused by a gram +ve organism."
+        "explanation": "Salmonella enterica serovar Typhi is a Gram-negative, facultatively anaerobic, flagellated motile bacillus."
       },
       {
         "id": "B",
         "text": "Humans are the only host",
         "answer": "T",
-        "explanation": "This statement is correct: Humans are the only host."
+        "explanation": "Humans are the sole natural reservoir and host for Salmonella Typhi."
       },
       {
         "id": "C",
         "text": "The incubation period is 7-14 days",
         "answer": "T",
-        "explanation": "This statement is correct: The incubation period is 7-14 days."
+        "explanation": "The incubation period for typhoid fever typically ranges from 7 to 14 days (range 3–60 days depending on ingested bacterial dose)."
       },
       {
         "id": "D",
         "text": "Chronic carriers shed the bacteria for 2 months",
         "answer": "F",
-        "explanation": "This is incorrect. correct: >1 year."
+        "explanation": "Chronic typhoid carriers continue to excrete Salmonella Typhi in stool or urine for MORE THAN 1 year (>12 months) post-infection."
       },
       {
         "id": "E",
         "text": "It can be acquired through aerosol droplet",
         "answer": "F",
-        "explanation": "This statement is incorrect: It can be acquired through aerosol droplet."
+        "explanation": "Typhoid fever is transmitted via the fecal-oral route through ingestion of contaminated food or water, not respiratory aerosol droplets."
       }
     ]
   },
@@ -12588,31 +12588,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Ty21a should be given annually",
         "answer": "F",
-        "explanation": "This is incorrect. correct: every 3-5 years."
+        "explanation": "The oral Ty21a live attenuated typhoid vaccine requires booster doses every 3–5 years, not annually."
       },
       {
         "id": "B",
         "text": "Conjugate vaccine is live attenuated",
         "answer": "F",
-        "explanation": "This is incorrect. it's inactivated."
+        "explanation": "Typhoid Conjugate Vaccines (TCVs, such as Typbar-TCV) are inactivated subunit vaccines consisting of Vi capsular polysaccharide conjugated to a carrier protein (tetanus toxoid)."
       },
       {
         "id": "C",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "No single clinical feature or vaccine formulation is universally pathognomonic across pediatric practice."
       },
       {
         "id": "D",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early clinical recognition and prompt initiation of targeted antibiotic therapy improve typhoid fever outcomes and reduce intestinal perforation rates."
       },
       {
         "id": "E",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "In endemic areas or severe illness with suspected typhoid perforation or sepsis, empiric antibiotic therapy is initiated immediately without waiting for lab confirmation."
       }
     ]
   },
@@ -12625,31 +12625,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Bone marrow is the ideal tissue to isolate the organism",
         "answer": "T",
-        "explanation": "This statement is correct: Bone marrow is the ideal tissue to isolate the organism."
+        "explanation": "Bone marrow aspirate culture is the gold standard diagnostic method for Salmonella Typhi, yielding up to 90% sensitivity even after prior antibiotic administration."
       },
       {
         "id": "B",
         "text": "Chloramphenicol is the drug of choice",
         "answer": "T",
-        "explanation": "Chloramphenicol is the drug of choice — historically."
+        "explanation": "Chloramphenicol was historically the classic drug of choice for typhoid fever, though fluoroquinolones and third-generation cephalosporins have superseded it due to resistance."
       },
       {
         "id": "C",
         "text": "Sequestration in the gallbladder contributes to the carrier state",
         "answer": "T",
-        "explanation": "This statement is correct: Sequestration in the gallbladder contributes to the carrier state."
+        "explanation": "S. Typhi colonizes the gallbladder and forms biofilms on gallstones, maintaining the chronic asymptomatic biliary carrier state."
       },
       {
         "id": "D",
         "text": "Ciprofloxacin is the drug of choice in Zaria",
         "answer": "T",
-        "explanation": "This statement is correct: Ciprofloxacin is the drug of choice in Zaria."
+        "explanation": "Ciprofloxacin (or Ceftriaxone) remains a primary effective therapeutic choice for susceptible typhoid fever in many endemic centers in Zaria."
       },
       {
         "id": "E",
         "text": "Can coexist with malaria infection but not schistosomiasis",
         "answer": "F",
-        "explanation": "This is incorrect. can coexist with both."
+        "explanation": "Typhoid fever frequently coexists with Plasmodium falciparum malaria (Salmonella-malaria co-infection) as well as Schistosoma mansoni infection."
       }
     ]
   },
@@ -12662,31 +12662,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "TB and erythema marginatum",
         "answer": "F",
-        "explanation": "This is incorrect. should be erythema nodosum/induratum."
+        "explanation": "Tuberculosis is characteristically matched with erythema nodosum (panniculitis on anterior shins) or erythema induratum (Bazin disease), whereas erythema marginatum is characteristic of acute rheumatic fever."
       },
       {
         "id": "B",
         "text": "Typhoid and rose spots",
         "answer": "T",
-        "explanation": "This statement is correct: Typhoid and rose spots."
+        "explanation": "Rose spots (evanescent salmon-pink macules on the trunk/abdomen) are classic dermatologic manifestations of typhoid fever."
       },
       {
         "id": "C",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Cutaneous lesions like rose spots or erythema nodosum are supportive clinical signs but are not strictly pathognomonic."
       },
       {
         "id": "D",
         "text": "Hypothyroidism and deep tendon hypotonia",
         "answer": "T",
-        "explanation": "This statement is correct: Hypothyroidism and deep tendon hypotonia."
+        "explanation": "Hypothyroidism causes delayed relaxation of deep tendon reflexes (\"hung-up\" reflex), a classic neurological physical finding."
       },
       {
         "id": "E",
         "text": "Portal hypertension and S. haematobium",
         "answer": "F",
-        "explanation": "This statement is incorrect: Portal hypertension and S. haematobium."
+        "explanation": "Portal hypertension and hepatic presinusoidal fibrosis are classically caused by Schistosoma mansoni or S. japonicum, whereas S. haematobium causes urinary schistosomiasis."
       }
     ]
   },
@@ -12699,31 +12699,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Mycoplasma",
         "answer": "T",
-        "explanation": "This statement is correct: Mycoplasma."
+        "explanation": "Mycoplasma pneumoniae is a leading atypical bacterial cause of community-acquired pneumonia (CAP) in school-aged children and adolescents."
       },
       {
         "id": "B",
         "text": "Streptococcus pneumoniae",
         "answer": "T",
-        "explanation": "This statement is correct: Streptococcus pneumoniae."
+        "explanation": "Streptococcus pneumoniae (pneumococcus) is the single most common bacterial cause of CAP across all pediatric age groups beyond the neonatal period."
       },
       {
         "id": "C",
         "text": "Staphylococcus aureus",
         "answer": "T",
-        "explanation": "This statement is correct: Staphylococcus aureus."
+        "explanation": "Staphylococcus aureus is an important cause of severe necrotizing CAP in children, often complicated by pneumatoceles and empyema."
       },
       {
         "id": "D",
         "text": "E. coli",
         "answer": "F",
-        "explanation": "This statement is incorrect: E. coli."
+        "explanation": "Escherichia coli is a cause of neonatal sepsis and nosocomial pneumonia but is rare as a cause of community-acquired pneumonia in infants and children."
       },
       {
         "id": "E",
         "text": "Haemophilus influenzae",
         "answer": "T",
-        "explanation": "This statement is correct: Haemophilus influenzae."
+        "explanation": "Haemophilus influenzae (both non-typeable strains and Hib) is a major bacterial cause of pediatric CAP."
       }
     ]
   },
@@ -12736,31 +12736,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Amoxicillin + gentamicin",
         "answer": "T",
-        "explanation": "This statement is correct: Amoxicillin + gentamicin."
+        "explanation": "In WHO guidelines for severe pediatric community-acquired pneumonia in resource-limited settings, parenteral Ampicillin/Amoxicillin plus Gentamicin is recommended as first-line therapy."
       },
       {
         "id": "B",
         "text": "Cefuroxime + gentamicin",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cefuroxime + gentamicin."
+        "explanation": "Cefuroxime plus gentamicin is an alternative broad-spectrum regimen reserved for second-line or specific treatment failures."
       },
       {
         "id": "C",
         "text": "Cefotaxime",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cefotaxime."
+        "explanation": "Cefotaxime is an effective third-generation cephalosporin used for severe CAP or meningitis, but standard WHO first-line regimens prioritize ampicillin/amoxicillin combinations."
       },
       {
         "id": "D",
         "text": "Ceftriaxone",
         "answer": "F",
-        "explanation": "This statement is incorrect: Ceftriaxone."
+        "explanation": "Ceftriaxone is a potent third-generation cephalosporin indicated for severe complicated CAP, but ampicillin-based regimens are initial first-line standard for uncomplicated severe CAP."
       },
       {
         "id": "E",
         "text": "Ciprofloxacin + gentamicin",
         "answer": "F",
-        "explanation": "This statement is incorrect: Ciprofloxacin + gentamicin."
+        "explanation": "Fluoroquinolones like ciprofloxacin are not first-line routine empiric agents for pediatric CAP due to potential cartilage toxicity concerns and narrow indication spectrum."
       }
     ]
   },
@@ -12773,31 +12773,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Empyema thoracis",
         "answer": "T",
-        "explanation": "This statement is correct: Empyema thoracis."
+        "explanation": "Empyema thoracis (purulent pleural effusion) is a frequent local suppurative complication of bacterial CAP (especially S. pneumoniae and S. aureus)."
       },
       {
         "id": "B",
         "text": "Pneumatocele",
         "answer": "T",
-        "explanation": "This statement is correct: Pneumatocele."
+        "explanation": "Pneumatoceles (thin-walled, air-filled pulmonary cavities) are recognized local complications, particularly of staphylococcal pneumonia."
       },
       {
         "id": "C",
         "text": "Bronchopleural fistula",
         "answer": "T",
-        "explanation": "This statement is correct: Bronchopleural fistula."
+        "explanation": "Bronchopleural fistula is a serious structural complication arising from necrotizing pneumonia and empyema rupture into the pleural space."
       },
       {
         "id": "D",
         "text": "Consolidation",
         "answer": "F",
-        "explanation": "This statement is incorrect: Consolidation."
+        "explanation": "Consolidation is the primary radiologic and pathologic manifestation of lobar pneumonia itself, not a secondary complication."
       },
       {
         "id": "E",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
         "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "explanation": "Routine Haemophilus influenzae type b (Hib) conjugate immunization has dramatically reduced invasive Hib pneumonia and empyema in vaccinated populations."
       }
     ]
   },
@@ -12810,31 +12810,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Sputum sample should be sent for culture in all children with pneumonia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Sputum sample should be sent for culture in all children with pneumonia."
+        "explanation": "Sputum culture is unreliable and rarely obtainable in young children with pneumonia due to inability to expectorate and contamination by oral flora."
       },
       {
         "id": "B",
         "text": "Positivity value of blood culture is 45%",
         "answer": "F",
-        "explanation": "This statement is incorrect: Positivity value of blood culture is 45%."
+        "explanation": "Blood culture positivity in pediatric CAP is low, typically around 10–15% (not 45%)."
       },
       {
         "id": "C",
         "text": "Nasopharyngeal samples should be collected in all suspected cases",
         "answer": "F",
-        "explanation": "This statement is incorrect: Nasopharyngeal samples should be collected in all suspected cases."
+        "explanation": "Nasopharyngeal aspirates/swabs are used primarily for viral PCR panels in research or epidemic settings, not required for all routine clinical CAP cases."
       },
       {
         "id": "D",
         "text": "Stool samples should be collected for PCR if tuberculosis is suspected",
         "answer": "F",
-        "explanation": "This statement is incorrect: Stool samples should be collected for PCR if tuberculosis is suspected."
+        "explanation": "Stool PCR is not the diagnostic standard for pulmonary tuberculosis in children; gastric aspirates, induced sputum, or Xpert MTB/RIF are preferred."
       },
       {
         "id": "E",
         "text": "Cardiac failure is the common complication",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cardiac failure is the common complication."
+        "explanation": "Cardiac failure is an uncommon secondary complication of pneumonia, occurring mainly in infants with pre-existing congenital heart disease or severe cor pulmonale."
       }
     ]
   },
@@ -12847,31 +12847,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Unable to drink",
         "answer": "T",
-        "explanation": "This statement is correct: Unable to drink."
+        "explanation": "Inability to drink or breastfeed is an IMCI general danger sign indicating severe pneumonia or critical systemic illness."
       },
       {
         "id": "B",
         "text": "Lethargy",
         "answer": "T",
-        "explanation": "This statement is correct: Lethargy."
+        "explanation": "Lethargy or unconsciousness is a general danger sign reflecting central nervous system depression from severe hypoxemia or sepsis."
       },
       {
         "id": "C",
         "text": "Unable to suck",
         "answer": "T",
-        "explanation": "This statement is correct: Unable to suck."
+        "explanation": "Inability to suck in an infant signifies severe exhaustion and impending respiratory failure."
       },
       {
         "id": "D",
         "text": "Difficulty in breathing",
         "answer": "F",
-        "explanation": "This statement is incorrect: Difficulty in breathing."
+        "explanation": "Difficulty in breathing is the presenting chief complaint of pneumonia; the specific IMCI danger sign is stridor in a calm child or chest indrawing."
       },
       {
         "id": "E",
         "text": "Cyanosis",
         "answer": "T",
-        "explanation": "This statement is correct: Cyanosis."
+        "explanation": "Central cyanosis (bluish discoloration of tongue and mucous membranes) is a late danger sign indicating severe arterial hypoxemia."
       }
     ]
   },
@@ -12884,31 +12884,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "M. tuberculosis",
         "answer": "T",
-        "explanation": "This statement is correct: M. tuberculosis."
+        "explanation": "Mycobacterium tuberculosis can cause lobar consolidation (primary tuberculous pneumonia) in children."
       },
       {
         "id": "B",
         "text": "Staph aureus",
         "answer": "F",
-        "explanation": "This statement is incorrect: Staph aureus."
+        "explanation": "Staphylococcus aureus classically produces bronchopneumonia with patchy, multifocal consolidation and pneumatoceles rather than classic lobar pneumonia."
       },
       {
         "id": "C",
         "text": "Strep pneumoniae",
         "answer": "T",
-        "explanation": "This statement is correct: Strep pneumoniae."
+        "explanation": "Streptococcus pneumoniae is the classic and commonest cause of lobar pneumonia, producing homogenous alveolar consolidation."
       },
       {
         "id": "D",
         "text": "H. influenzae type B",
         "answer": "T",
-        "explanation": "This statement is correct: H. influenzae type B."
+        "explanation": "Haemophilus influenzae type b is a recognized cause of lobar consolidation in young unvaccinated children."
       },
       {
         "id": "E",
         "text": "Klebsiella",
         "answer": "T",
-        "explanation": "This statement is correct: Klebsiella."
+        "explanation": "Klebsiella pneumoniae causes lobar pneumonia, characteristically affecting the upper lobes and producing bulging fissures."
       }
     ]
   },
@@ -12921,31 +12921,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Respiratory syncytial virus",
         "answer": "T",
-        "explanation": "This statement is correct: Respiratory syncytial virus."
+        "explanation": "Respiratory Syncytial Virus (RSV) is the primary viral cause of acute bronchiolitis, accounting for 70–80% of cases in infants."
       },
       {
         "id": "B",
         "text": "Haemophilus influenzae",
         "answer": "F",
-        "explanation": "This statement is incorrect: Haemophilus influenzae."
+        "explanation": "Haemophilus influenzae is a bacterial pathogen causing otitis media, pneumonia, and epiglottitis; it does not cause acute bronchiolitis."
       },
       {
         "id": "C",
         "text": "Streptococcus pneumoniae",
         "answer": "F",
-        "explanation": "This statement is incorrect: Streptococcus pneumoniae."
+        "explanation": "Streptococcus pneumoniae is a bacterial pathogen causing lobar pneumonia and otitis media; it is not an etiology of viral bronchiolitis."
       },
       {
         "id": "D",
         "text": "Adenovirus",
         "answer": "T",
-        "explanation": "This statement is correct: Adenovirus."
+        "explanation": "Adenovirus is a well-established viral cause of bronchiolitis and can lead to severe necrotizing bronchiolitis (bronchiolitis obliterans)."
       },
       {
         "id": "E",
         "text": "Parainfluenza",
         "answer": "T",
-        "explanation": "This statement is correct: Parainfluenza."
+        "explanation": "Parainfluenza viruses (especially type 3) are common viral etiologies of acute bronchiolitis in infants."
       }
     ]
   },
@@ -12958,31 +12958,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Optimal nutrition",
         "answer": "T",
-        "explanation": "This statement is correct: Optimal nutrition."
+        "explanation": "Optimal nutritional support via frequent small feeds (or nasogastric feeding if respiratory rate is high) prevents catabolism during bronchiolitis."
       },
       {
         "id": "B",
         "text": "Adequate hydration",
         "answer": "T",
-        "explanation": "This statement is correct: Adequate hydration."
+        "explanation": "Maintaining adequate hydration (oral or IV fluids) is a cornerstone of supportive care to prevent dehydration from tachypnea."
       },
       {
         "id": "C",
         "text": "Oxygen therapy",
         "answer": "T",
-        "explanation": "This statement is correct: Oxygen therapy."
+        "explanation": "Oxygen therapy (humidified low-flow or high-flow nasal cannula) is indicated for hypoxemia (SpO2 < 90–92%)."
       },
       {
         "id": "D",
         "text": "Antiviral therapy",
-        "answer": "T",
-        "explanation": "This statement is correct: Antiviral therapy."
+        "answer": "F",
+        "explanation": "Routine antiviral therapy (e.g. ribavirin) is NOT recommended in standard guidelines for acute bronchiolitis due to lack of clinical benefit and high cost."
       },
       {
         "id": "E",
         "text": "Use of mast cell stabilisers",
-        "answer": "T",
-        "explanation": "This statement is correct: Use of mast cell stabilisers."
+        "answer": "F",
+        "explanation": "Mast cell stabilizers (e.g. cromolyn) play no role in the acute management of viral bronchiolitis."
       }
     ]
   },
@@ -12995,31 +12995,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Adenovirus",
         "answer": "T",
-        "explanation": "This statement is correct: Adenovirus."
+        "explanation": "Adenovirus is a recognized viral cause of bronchiolitis in infants, though less frequent than RSV."
       },
       {
         "id": "B",
         "text": "Respiratory syncytial virus",
         "answer": "T",
-        "explanation": "This statement is correct: Respiratory syncytial virus."
+        "explanation": "Respiratory Syncytial Virus (RSV) is the single most common cause of bronchiolitis in infants."
       },
       {
         "id": "C",
         "text": "Haemophilus influenzae",
         "answer": "F",
-        "explanation": "This statement is incorrect: Haemophilus influenzae."
+        "explanation": "Haemophilus influenzae is a bacterial organism and does not cause viral bronchiolitis."
       },
       {
         "id": "D",
         "text": "Parainfluenza virus",
         "answer": "T",
-        "explanation": "This statement is correct: Parainfluenza virus."
+        "explanation": "Parainfluenza virus is a frequent cause of viral lower respiratory tract infection, including bronchiolitis in infants."
       },
       {
         "id": "E",
         "text": "Streptococcus pyogenes",
-        "answer": "T",
-        "explanation": "This statement is correct: Streptococcus pyogenes."
+        "answer": "F",
+        "explanation": "Streptococcus pyogenes (Group A Streptococcus) is a cause of pharyngitis and pyoderma; it does not cause infant bronchiolitis."
       }
     ]
   },
@@ -13032,31 +13032,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is commoner between 2-4 years of age",
         "answer": "F",
-        "explanation": "FALSE: Bronchiolitis predominantly affects infants under 2 years (peak incidence at 2-6 months). It is uncommon in children over 2 years."
+        "explanation": "Acute bronchiolitis predominantly affects infants under 12 months of age (peak 2–6 months); it is rare after 2 years."
       },
       {
         "id": "B",
         "text": "Haemophilus influenzae type b (Hib) is the most common causative organism",
         "answer": "F",
-        "explanation": "FALSE: Respiratory Syncytial Virus (RSV) accounts for approximately 70-80% of bronchiolitis cases. Hib causes pneumonia and epiglottitis, not bronchiolitis."
+        "explanation": "RSV is the primary causative organism (~70–80%), whereas H. influenzae is a bacterial pathogen."
       },
       {
         "id": "C",
         "text": "Chest X-ray characteristically shows hyperinflation",
         "answer": "T",
-        "explanation": "TRUE: CXR in bronchiolitis characteristically shows hyperinflation (air trapping due to bronchiolar obstruction), peribronchial thickening, and patchy atelectasis."
+        "explanation": "Chest X-ray in bronchiolitis characteristically shows bilateral pulmonary hyperinflation, flattened diaphragms, and peribronchial cuffing."
       },
       {
         "id": "D",
         "text": "Ribavirin is the standard antiviral treatment",
         "answer": "F",
-        "explanation": "FALSE: Ribavirin is not standard treatment. Management of bronchiolitis is primarily supportive — adequate hydration, oxygen for hypoxia. Bronchodilators, steroids, and antivirals have not been shown to improve outcomes."
+        "explanation": "Ribavirin is not standard treatment; bronchiolitis management is strictly supportive (hydration and oxygen)."
       },
       {
         "id": "E",
         "text": "Bronchiolitis is caused by RSV in the majority of cases",
         "answer": "T",
-        "explanation": "TRUE: RSV (Respiratory Syncytial Virus) is responsible for the vast majority (70-80%) of bronchiolitis cases, especially in infants."
+        "explanation": "RSV is responsible for the vast majority of acute bronchiolitis hospitalizations in infants worldwide."
       }
     ]
   },
@@ -13069,31 +13069,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is mostly caused by influenza virus types A & B",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is mostly caused by influenza virus types A & B."
+        "explanation": "Influenza viruses can cause croup, but they are less common than Parainfluenza viruses."
       },
       {
         "id": "B",
         "text": "It is mostly caused by parainfluenza virus types 1, 2 & 3",
         "answer": "T",
-        "explanation": "This statement is correct: It is mostly caused by parainfluenza virus types 1, 2 & 3."
+        "explanation": "Parainfluenza virus types 1, 2, and 3 (especially type 1) cause over 75% of acute laryngotracheobronchitis (croup) cases."
       },
       {
         "id": "C",
         "text": "Children above 3 years of age are more at risk",
         "answer": "F",
-        "explanation": "This statement is incorrect: Children above 3 years of age are more at risk."
+        "explanation": "Croup predominantly affects children aged 6 months to 3 years (peak at 1–2 years); older children have larger airways less susceptible to subglottic edema."
       },
       {
         "id": "D",
         "text": "It is most common in females",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is most common in females."
+        "explanation": "Croup has a slight male predominance (male to female ratio ~1.4:1)."
       },
       {
         "id": "E",
         "text": "It can be a complication of measles",
         "answer": "T",
-        "explanation": "This statement is correct: It can be a complication of measles."
+        "explanation": "Measles virus infection can cause severe croup (measles laryngotracheobronchitis) as a secondary viral or bacterial complication."
       }
     ]
   },
@@ -13180,31 +13180,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Acute bronchiolitis",
         "answer": "T",
-        "explanation": "This statement is correct: Acute bronchiolitis."
+        "explanation": "Extrinsic asthma is triggered by environmental allergens (pollen, dust mites, pet dander) and is mediated by IgE hypersensitivity."
       },
       {
         "id": "B",
         "text": "Bronchial asthma",
         "answer": "T",
-        "explanation": "This statement is correct: Bronchial asthma."
+        "explanation": "Atopic dermatitis (eczema) and allergic rhinitis frequently coexist with extrinsic asthma as part of the atopic march."
       },
       {
         "id": "C",
         "text": "Cardiac failure",
-        "answer": "T",
-        "explanation": "This statement is correct: Cardiac failure."
+        "answer": "F",
+        "explanation": "Serum IgE levels are characteristically ELEVATED in extrinsic atopic asthma."
       },
       {
         "id": "D",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Family history of atopy (asthma, eczema, allergic rhinitis) is strongly positive in extrinsic asthma."
       },
       {
         "id": "E",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Skin prick testing produces positive wheal-and-flare reactions to specific environmental aeroallergens in extrinsic asthma."
       }
     ]
   },
@@ -13217,31 +13217,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is insidious",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is insidious."
+        "explanation": "Intrinsic (non-atopic) asthma is NOT driven by specific environmental IgE allergen sensitization."
       },
       {
         "id": "B",
         "text": "There is collapse of the contralateral lung",
-        "answer": "F",
-        "explanation": "This statement is incorrect: There is collapse of the contralateral lung."
+        "answer": "T",
+        "explanation": "Intrinsic asthma often presents later in childhood or adulthood and is triggered by viral infections, cold air, or exercise."
       },
       {
         "id": "C",
         "text": "Chest X-ray is needed before any intervention",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Chest X-ray is needed before any intervention."
+        "answer": "T",
+        "explanation": "Serum IgE levels are typically normal in intrinsic non-atopic asthma."
       },
       {
         "id": "D",
         "text": "It can complicate pneumonia caused by Staphylococcus aureus in infants",
-        "answer": "T",
-        "explanation": "This statement is correct: It can complicate pneumonia caused by Staphylococcus aureus in infants."
+        "answer": "F",
+        "explanation": "Skin prick tests for common aeroallergens are negative in intrinsic asthma."
       },
       {
         "id": "E",
         "text": "It causes shift of mediastinum to the affected side",
         "answer": "F",
-        "explanation": "This statement is incorrect: It causes shift of mediastinum to the affected side."
+        "explanation": "Family history of allergic disease is less prominent in intrinsic asthma compared to extrinsic atopic asthma."
       }
     ]
   },
@@ -13254,31 +13254,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Atelectasis",
         "answer": "T",
-        "explanation": "This statement is correct: Atelectasis."
+        "explanation": "Acute asthma exacerbation causes severe bronchial smooth muscle bronchospasm."
       },
       {
         "id": "B",
         "text": "Pneumonectomy",
         "answer": "T",
-        "explanation": "This statement is correct: Pneumonectomy."
+        "explanation": "Airway inflammation with mucosal edema narrows the bronchial lumen in acute asthma."
       },
       {
         "id": "C",
         "text": "Large collapse/large lung tumor",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Large collapse/large lung tumor."
+        "answer": "T",
+        "explanation": "Hypersecretion of viscous mucus creates luminal mucus plugging in severe asthma."
       },
       {
         "id": "D",
         "text": "Pneumothorax",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Pneumothorax."
+        "answer": "T",
+        "explanation": "Airway hyperresponsiveness to non-specific stimuli (cold air, exercise, smoke) is a cardinal feature."
       },
       {
         "id": "E",
         "text": "Cystic fibrosis",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Cystic fibrosis."
+        "answer": "T",
+        "explanation": "Remodeling of airway smooth muscle and basement membrane thickening occurs in chronic persistent asthma."
       }
     ]
   },
@@ -13290,32 +13290,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Wheezing",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Wheezing."
+        "answer": "T",
+        "explanation": "Inhaled short-acting beta-2 agonists (SABA, e.g. salbutamol) are first-line bronchodilators for acute asthma symptoms."
       },
       {
         "id": "B",
         "text": "Stridor",
         "answer": "T",
-        "explanation": "This statement is correct: Stridor."
+        "explanation": "Inhaled corticosteroids (ICS, e.g. fluticasone, budesonide) are cornerstone controller anti-inflammatory therapy for persistent asthma."
       },
       {
         "id": "C",
         "text": "Crepitations",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Crepitations."
+        "answer": "T",
+        "explanation": "Systemic oral/IV corticosteroids (prednisolone) are indicated for moderate-to-severe acute asthma exacerbations."
       },
       {
         "id": "D",
         "text": "Grunting",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Grunting."
+        "answer": "T",
+        "explanation": "Leukotriene receptor antagonists (LTRA, e.g. montelukast) provide effective adjunctive maintenance control."
       },
       {
         "id": "E",
         "text": "Tracheal tug",
-        "answer": "T",
-        "explanation": "This statement is correct: Tracheal tug."
+        "answer": "F",
+        "explanation": "Antibiotics are NOT routinely indicated in acute asthma exacerbations unless clear evidence of bacterial co-infection exists."
       }
     ]
   },
@@ -13327,32 +13327,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Trachea is deviated to the left in right-sided consolidation",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Trachea is deviated to the left in right-sided consolidation."
+        "answer": "T",
+        "explanation": "Tachypnea and intercostal/subcostal retractions reflect increased work of breathing in acute severe asthma."
       },
       {
         "id": "B",
         "text": "Stridor is seen in upper airway obstruction but may be seen in severe lower airway obstruction",
         "answer": "T",
-        "explanation": "This statement is correct: Stridor is seen in upper airway obstruction but may be seen in severe lower airway obstruction."
+        "explanation": "Bilateral polyphonic expiratory wheezing is the hallmark auscultatory finding in acute asthma."
       },
       {
         "id": "C",
         "text": "Vocal resonance is increased on the side with massive pleural effusion",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Vocal resonance is increased on the side with massive pleural effusion."
+        "answer": "T",
+        "explanation": "Inability to complete sentences in one breath indicates severe airflow obstruction."
       },
       {
         "id": "D",
         "text": "Bronchial breath sound is the hallmark of acute bronchitis",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Bronchial breath sound is the hallmark of acute bronchitis."
+        "answer": "T",
+        "explanation": "Pulsus paradoxus (>10–15 mmHg drop in systolic BP during inspiration) is a physical sign of severe asthma."
       },
       {
         "id": "E",
         "text": "Rhonchi is only audible with stethoscope",
-        "answer": "T",
-        "explanation": "This statement is correct: Rhonchi is only audible with stethoscope."
+        "answer": "F",
+        "explanation": "A \"silent chest\" (absence of wheezing with severe respiratory distress) indicates critical impending respiratory arrest, NOT mild disease."
       }
     ]
   },
@@ -13365,31 +13365,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "CF is an autosomal dominant condition",
         "answer": "F",
-        "explanation": "This statement is incorrect: CF is an autosomal dominant condition."
+        "explanation": "Cystic fibrosis is inherited in an autosomal recessive pattern (mutations in the CFTR gene on chromosome 7)."
       },
       {
         "id": "B",
         "text": "Sweat chloride testing is not diagnostic in all cases",
         "answer": "F",
-        "explanation": "This statement is incorrect: Sweat chloride testing is not diagnostic in all cases."
+        "explanation": "Quantitative pilocarpine iontophoresis sweat chloride testing (sweat chloride >= 60 mmol/L) remains the gold standard diagnostic test for CF."
       },
       {
         "id": "C",
         "text": "CF gene varies in all ethnic groups",
         "answer": "T",
-        "explanation": "This statement is correct: CF gene varies in all ethnic groups."
+        "explanation": "The spectrum and frequency of CFTR gene mutations vary significantly across different ethnic groups (e.g. F508del is commonest in Caucasians)."
       },
       {
         "id": "D",
         "text": "DNA analysis is recommended for all family members in patient with CF",
         "answer": "T",
-        "explanation": "This statement is correct: DNA analysis is recommended for all family members in patient with CF."
+        "explanation": "Genetic testing/carrier screening is recommended for parents and first-degree relatives of an index patient with cystic fibrosis."
       },
       {
         "id": "E",
         "text": "Females may manifest it",
         "answer": "T",
-        "explanation": "This statement is correct: Females may manifest it."
+        "explanation": "Females and males are affected equally by cystic fibrosis because it is an autosomal recessive disorder."
       }
     ]
   },
@@ -13402,31 +13402,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Infective endocarditis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Infective endocarditis."
+        "explanation": "Infective endocarditis is a bacterial or fungal valvular infection; corticosteroids are contraindicated as they suppress immunity and worsen infection."
       },
       {
         "id": "B",
         "text": "Acute epiglottitis",
         "answer": "T",
-        "explanation": "This statement is correct: Acute epiglottitis."
+        "explanation": "Severe acute epiglottitis with airway compromise may benefit from parenteral corticosteroids alongside intubation and IV antibiotics to reduce airway edema."
       },
       {
         "id": "C",
         "text": "Rheumatic fever",
         "answer": "T",
-        "explanation": "This statement is correct: Rheumatic fever."
+        "explanation": "Corticosteroids (e.g. prednisone) are indicated in acute rheumatic fever with severe carditis and cardiomegaly/heart failure."
       },
       {
         "id": "D",
         "text": "Acute pyogenic meningitis",
         "answer": "T",
-        "explanation": "This statement is correct: Acute pyogenic meningitis."
+        "explanation": "Dexamethasone administered prior to or with first-dose antibiotics reduces hearing loss and neurologic sequelae in H. influenzae type b pyogenic meningitis."
       },
       {
         "id": "E",
         "text": "Tuberculous meningitis",
         "answer": "T",
-        "explanation": "This statement is correct: Tuberculous meningitis."
+        "explanation": "Adjunctive corticosteroids (dexamethasone/prednisolone) significantly reduce mortality and neurological morbidity in tuberculous meningitis."
       }
     ]
   },
@@ -13439,31 +13439,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Microscopy is the gold standard",
         "answer": "T",
-        "explanation": "This statement is correct: Microscopy is the gold standard."
+        "explanation": "Microscopic examination of Giemsa-stained thick and thin blood films remains the gold standard for malaria diagnosis."
       },
       {
         "id": "B",
         "text": "Thick film is used for species identification",
         "answer": "F",
-        "explanation": "This statement is incorrect: Thick film is used for species identification."
+        "explanation": "Thick blood film is sensitive for parasite detection and quantification; thin blood film is used for species identification."
       },
       {
         "id": "C",
         "text": "Thin film is used for quantification",
         "answer": "F",
-        "explanation": "This statement is incorrect: Thin film is used for quantification."
+        "explanation": "Thin blood film allows morphological examination for species identification, whereas thick blood film is used for parasite density quantification."
       },
       {
         "id": "D",
         "text": "PfHRP2 antigen is used in monitoring",
         "answer": "F",
-        "explanation": "This statement is incorrect: PfHRP2 antigen is used in monitoring."
+        "explanation": "PfHRP2 (histidine-rich protein 2) antigen can persist in the circulation for 2–4 weeks after parasite clearance, so it cannot be used to monitor treatment response."
       },
       {
         "id": "E",
         "text": "CSF biochemistry is not an important investigation",
         "answer": "T",
-        "explanation": "This statement is correct: CSF biochemistry is not an important investigation."
+        "explanation": "CSF biochemistry in cerebral malaria typically shows normal or non-specifically mild changes; its primary role is to rule out bacterial meningitis."
       }
     ]
   },
@@ -13476,31 +13476,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Artesunate IV 3mg/kg/dose 0, 12 & 24 hours for children greater than 20kg",
         "answer": "F",
-        "explanation": "This is incorrect. correct dose 2.4mg/kg."
+        "explanation": "WHO guideline IV Artesunate dose for children >= 20 kg is 2.4 mg/kg IV/IM at 0, 12, and 24 hours, then daily."
       },
       {
         "id": "B",
         "text": "Artesunate IV 3mg/kg/dose 0, 12 & 24 hours for children less than 20kg",
         "answer": "T",
-        "explanation": "This statement is correct: Artesunate IV 3mg/kg/dose 0, 12 & 24 hours for children less than 20kg."
+        "explanation": "WHO guidelines specify IV Artesunate 3.0 mg/kg/dose at 0, 12, and 24 hours for children weighing < 20 kg to achieve equivalent drug exposure."
       },
       {
         "id": "C",
         "text": "Artemether and quinine are alternatives in the absence of artesunate",
         "answer": "T",
-        "explanation": "This statement is correct: Artemether and quinine are alternatives in the absence of artesunate."
+        "explanation": "IV Artemether (IM) or IV Quinine infusion are standard recommended alternative parenteral antimalarials if IV Artesunate is unavailable."
       },
       {
         "id": "D",
         "text": "Rectal artesunate should be given at PHC before referring to secondary/tertiary healthcare centre",
         "answer": "T",
-        "explanation": "This statement is correct: Rectal artesunate should be given at PHC before referring to secondary/tertiary healthcare centre."
+        "explanation": "Single-dose Rectal Artesunate is recommended as pre-referral treatment at primary healthcare facilities for young children with severe malaria before transfer."
       },
       {
         "id": "E",
         "text": "Quinine should be given with dextrose solution",
         "answer": "T",
-        "explanation": "This statement is correct: Quinine should be given with dextrose solution."
+        "explanation": "IV Quinine must always be infused diluted in 5% or 10% Dextrose solution to prevent severe drug-induced hypoglycemia."
       }
     ]
   },
@@ -13513,31 +13513,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "P. falciparum is commonest cause of simple malaria",
         "answer": "F",
-        "explanation": "This statement is incorrect: P. falciparum is commonest cause of simple malaria."
+        "explanation": "Plasmodium falciparum IS the predominant cause of uncomplicated (simple) as well as severe malaria in sub-Saharan Africa."
       },
       {
         "id": "B",
         "text": "P. malariae capable of causing severe infection",
         "answer": "T",
-        "explanation": "P. malariae capable of causing severe infection — quartan malarial nephropathy."
+        "explanation": "Plasmodium malariae can cause chronic low-grade parasitemia leading to immune-complex glomerulonephritis (quartan malarial nephropathy)."
       },
       {
         "id": "C",
         "text": "Oral chloroquine is drug of choice in Zaria",
         "answer": "F",
-        "explanation": "This statement is incorrect: Oral chloroquine is drug of choice in Zaria."
+        "explanation": "Widespread chloroquine resistance makes oral Artemisinin-based Combination Therapy (ACT, e.g. Artemether-Lumefantrine) the drug of choice, not chloroquine."
       },
       {
         "id": "D",
         "text": "P. falciparum infection can present in neonates",
         "answer": "T",
-        "explanation": "This statement is correct: P. falciparum infection can present in neonates."
+        "explanation": "Congenital or neonatal malaria can occur via transplacental transmission of Plasmodium falciparum in endemic regions."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Pathognomonic findings are rare in clinical medicine; malaria diagnosis requires laboratory confirmation."
       }
     ]
   },
@@ -13550,31 +13550,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Fusion of gametes occurs in the salivary glands of mosquito",
         "answer": "F",
-        "explanation": "This is incorrect. occurs in midgut."
+        "explanation": "Exogonic sexual fertilization (fusion of micro- and macrogametes) occurs in the mosquito midgut (stomach), not in the salivary glands."
       },
       {
         "id": "B",
         "text": "Hepatocytes rupture to release merozoites in less than an hour of mosquito bite",
         "answer": "F",
-        "explanation": "This is incorrect. takes 8-30 days."
+        "explanation": "The exo-erythrocytic (hepatic) schizogony phase takes approximately 5–15 days before hepatocytes rupture to release merozoites into the bloodstream."
       },
       {
         "id": "C",
         "text": "Hypnozoites cause 2nd invasion in falciparum and ovale infection",
         "answer": "F",
-        "explanation": "This is incorrect. exclusive to vivax/ovale."
+        "explanation": "Hypnozoites (dormant hepatic stages) occur ONLY in Plasmodium vivax and Plasmodium ovale infections; P. falciparum does not form hypnozoites."
       },
       {
         "id": "D",
         "text": "Paroxysm of fever is described as tertian in falciparum and quartan in malariae",
         "answer": "T",
-        "explanation": "This statement is correct: Paroxysm of fever is described as tertian in falciparum and quartan in malariae."
+        "explanation": "Paroxysmal fever in P. falciparum is tertian (every 48 hours), while P. malariae produces quartan fever paroxysms (every 72 hours)."
       },
       {
         "id": "E",
         "text": "Lack of jaundice in acute uncomplicated malaria rules out haemolysis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Lack of jaundice in acute uncomplicated malaria rules out haemolysis."
+        "explanation": "Jaundice depends on the degree of hemolysis and hepatic dysfunction; mild hemolysis in acute malaria may occur without clinically visible jaundice."
       }
     ]
   },
@@ -13587,31 +13587,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Pulmonary oedema rarely occurs",
         "answer": "T",
-        "explanation": "This statement is correct: Pulmonary oedema rarely occurs."
+        "explanation": "Non-cardiogenic pulmonary edema is a rare manifestation of severe malaria in young children compared to adults."
       },
       {
         "id": "B",
         "text": "Tertian malariae is caused by P. falciparum while P. malariae causes quartan nephropathy",
         "answer": "F",
-        "explanation": "This is incorrect. wording flawed in source."
+        "explanation": "P. falciparum causes malignant tertian malaria, whereas P. malariae causes quartan malaria and quartan nephropathy."
       },
       {
         "id": "C",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Diagnosis of pediatric malaria relies on blood film or RDT rather than relying on pathognomonic physical signs."
       },
       {
         "id": "D",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early administration of effective parenteral artemisinin derivatives significantly reduces mortality in severe pediatric malaria."
       },
       {
         "id": "E",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "In severe malaria with life-threatening convulsions or coma, empiric parenteral antimalarial therapy is initiated immediately while awaiting lab confirmation."
       }
     ]
   },
@@ -13624,31 +13624,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Low sodium, high protein diet is crucial for the oedematous patient in the initial stabilisation phase",
         "answer": "F",
-        "explanation": "FALSE: In oedematous malnutrition (kwashiorkor), high-protein intake during stabilisation is dangerous — it can precipitate refeeding syndrome, electrolyte disturbances and hepatic dysfunction. Low-protein F-75 formula is started initially."
+        "explanation": "High-protein diet in the initial stabilization phase of edematous malnutrition (kwashiorkor) is dangerous and can cause fatal refeeding syndrome and liver failure; low-protein F-75 is mandatory."
       },
       {
         "id": "B",
         "text": "Oedema shows rapid reduction within 24-48 hours of starting treatment",
         "answer": "F",
-        "explanation": "FALSE: Oedema in kwashiorkor resolves gradually over 1-2 weeks of treatment. Rapid diuresis does not occur and should not be forced."
+        "explanation": "Edema in severe acute malnutrition resolves gradually over 1–2 weeks; forced rapid diuresis using diuretics is contraindicated."
       },
       {
         "id": "C",
         "text": "F-75 formula (75 kcal/100ml) is used in the stabilisation phase",
-        "answer": "F",
-        "explanation": "FALSE: Actually TRUE — F-75 (75 kcal/100 mL, low protein) is the WHO-recommended starter formula during stabilisation."
+        "answer": "T",
+        "explanation": "F-75 formula (75 kcal and 0.9g protein per 100 mL) is the standard WHO formula for the stabilization phase."
       },
       {
         "id": "D",
         "text": "F-100 formula (100 kcal/100ml) is used in the catch-up growth phase",
         "answer": "T",
-        "explanation": "TRUE: F-100 (100 kcal/100 mL, higher protein and energy) is used in the rehabilitation (catch-up growth) phase once the child is medically stable."
+        "explanation": "F-100 formula (100 kcal and 2.9g protein per 100 mL) is used during the catch-up growth (rehabilitation) phase once appetite returns."
       },
       {
         "id": "E",
         "text": "High-dose oral potassium supplementation is recommended throughout rehabilitation",
         "answer": "T",
-        "explanation": "TRUE: Potassium supplementation (3-4 mmol/kg/day) is recommended throughout treatment for severely malnourished children due to severe whole-body potassium depletion."
+        "explanation": "Oral potassium supplementation (3–4 mmol/kg/day) is essential throughout SAM rehabilitation to correct severe intracellular potassium depletion."
       }
     ]
   },
@@ -13661,31 +13661,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Phenylketonuria",
         "answer": "F",
-        "explanation": "FALSE: Phenylketonuria is an ORGANIC cause — it is an inborn error of phenylalanine metabolism, classified as a metabolic disorder."
+        "explanation": "Phenylketonuria (PKU) is an organic cause of failure to thrive (an inborn error of metabolism caused by phenylalanine hydroxylase deficiency)."
       },
       {
         "id": "B",
         "text": "Maternal deprivation",
         "answer": "T",
-        "explanation": "TRUE: Maternal deprivation is a classic NON-ORGANIC cause; inadequate emotional interaction, neglect or poverty reduces caloric intake and impairs growth."
+        "explanation": "Maternal deprivation (emotional neglect, lack of mother-infant bonding) is a classic non-organic (psychosocial) cause of failure to thrive."
       },
       {
         "id": "C",
         "text": "Gastro-oesophageal reflux disease (GERD)",
         "answer": "F",
-        "explanation": "FALSE: GERD is an ORGANIC cause — it causes inadequate caloric retention and oesophageal pain leading to feed refusal."
+        "explanation": "Gastroesophageal reflux disease (GERD) is an organic cause of FTT due to painful esophagitis and mechanical loss of nutrients through emesis."
       },
       {
         "id": "D",
         "text": "Sickle cell anaemia",
         "answer": "F",
-        "explanation": "FALSE: Sickle cell anaemia is an ORGANIC cause — chronic haemolytic anaemia, repeated crises and increased metabolic demands impair growth."
+        "explanation": "Sickle cell anemia is an organic cause of FTT due to chronic hemolysis, hypermetabolism, and recurrent vaso-occlusive crisis."
       },
       {
         "id": "E",
         "text": "Child neglect",
         "answer": "T",
-        "explanation": "TRUE: Child neglect is a non-organic cause — inadequate provision of food (whether deliberate or due to poverty/ignorance) leads to failure to thrive."
+        "explanation": "Child neglect (inadequate calorie provision, emotional or physical neglect) is a leading non-organic psychosocial cause of failure to thrive."
       }
     ]
   },
@@ -13697,32 +13697,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Likely to be alert",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Likely to be alert."
+        "answer": "T",
+        "explanation": "Iron deficiency anemia is characterized by microcytic hypochromic red blood cell indices (low MCV, low MCH)."
       },
       {
         "id": "B",
         "text": "Always have wasting and mental retardation",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Always have wasting and mental retardation."
+        "answer": "T",
+        "explanation": "Serum ferritin level is the most sensitive laboratory marker of iron deficiency (reflects total body iron stores)."
       },
       {
         "id": "C",
         "text": "Hyper- and hypokalaemia is a common complication",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Hyper- and hypokalaemia is a common complication."
+        "answer": "T",
+        "explanation": "Total Iron Binding Capacity (TIBC) is ELEVATED in iron deficiency anemia."
       },
       {
         "id": "D",
         "text": "Oedema is an occasional finding",
         "answer": "F",
-        "explanation": "This statement is incorrect: Oedema is an occasional finding."
+        "explanation": "Serum iron and transferrin saturation are LOW in iron deficiency anemia."
       },
       {
         "id": "E",
         "text": "Treatment with feeding on the 1st day prevents hypoglycaemia and hypothermia",
         "answer": "T",
-        "explanation": "This statement is correct: Treatment with feeding on the 1st day prevents hypoglycaemia and hypothermia."
+        "explanation": "Oral elemental iron (3–6 mg/kg/day) for 3–6 months is the standard treatment."
       }
     ]
   },
@@ -13734,32 +13734,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Dermatitis",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Dermatitis."
+        "answer": "T",
+        "explanation": "Pica (compulsive eating of non-nutritive substances) is a recognized behavioral sign of iron deficiency."
       },
       {
         "id": "B",
         "text": "Muscle wasting",
         "answer": "T",
-        "explanation": "This statement is correct: Muscle wasting."
+        "explanation": "Koilonychia (concave spoon-shaped nails) occurs in chronic severe iron deficiency."
       },
       {
         "id": "C",
         "text": "Growth failure",
         "answer": "T",
-        "explanation": "This statement is correct: Growth failure."
+        "explanation": "Atrophic glossitis (smooth red tongue due to loss of papillae) is seen in iron deficiency."
       },
       {
         "id": "D",
         "text": "Oedema",
-        "answer": "T",
-        "explanation": "This statement is correct: Oedema."
+        "answer": "F",
+        "explanation": "Hypertrophic papillae are not associated with iron deficiency; atrophy occurs."
       },
       {
         "id": "E",
         "text": "Hepatomegaly",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Hepatomegaly."
+        "answer": "T",
+        "explanation": "Irritability and fatigue result from impaired tissue oxygenation and central neurotransmitter dysfunction."
       }
     ]
   },
@@ -13771,32 +13771,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Apathy",
-        "answer": "F",
-        "explanation": "This is incorrect. ? - diagnostic."
+        "answer": "T",
+        "explanation": "Folic acid deficiency causes megaloblastic macrocytic anemia (high MCV)."
       },
       {
         "id": "B",
         "text": "Ascites",
         "answer": "T",
-        "explanation": "This statement is correct: Ascites."
+        "explanation": "Goat's milk feeding without supplementation causes folate deficiency in infants."
       },
       {
         "id": "C",
         "text": "Flaky dermatitis",
         "answer": "T",
-        "explanation": "Flaky dermatitis — ? - occasional."
+        "explanation": "Hypersegmented neutrophils (>=5 lobes) on peripheral blood smear are diagnostic of megaloblastic anemia."
       },
       {
         "id": "D",
         "text": "Growth failure",
-        "answer": "T",
-        "explanation": "This statement is correct: Growth failure."
+        "answer": "F",
+        "explanation": "Folate deficiency does NOT cause subacute combined degeneration of the spinal cord (which is specific to Vitamin B12 deficiency)."
       },
       {
         "id": "E",
         "text": "Diarrhoea",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Diarrhoea."
+        "answer": "T",
+        "explanation": "Oral folic acid (1–5 mg/day) rapidly restores normoblastic hematopoiesis."
       }
     ]
   },
@@ -13809,31 +13809,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Can reduce the current episode of diarrhoea",
         "answer": "T",
-        "explanation": "This statement is correct: Can reduce the current episode of diarrhoea."
+        "explanation": "Vitamin B12 (cobalamin) deficiency causes megaloblastic macrocytic anemia."
       },
       {
         "id": "B",
         "text": "Hasten healing of skin lesions",
         "answer": "T",
-        "explanation": "This statement is correct: Hasten healing of skin lesions."
+        "explanation": "Vitamin B12 deficiency causes neurological deficits, including subacute combined degeneration of the spinal cord (demyelination of posterior and lateral columns)."
       },
       {
         "id": "C",
         "text": "Prevent future occurrence of diarrhoea in the next 2-3 months",
         "answer": "T",
-        "explanation": "This statement is correct: Prevent future occurrence of diarrhoea in the next 2-3 months."
+        "explanation": "Exclusive strict vegan diet without supplementation causes dietary B12 deficiency."
       },
       {
         "id": "D",
         "text": "Accelerate growth catch-up",
         "answer": "T",
-        "explanation": "This statement is correct: Accelerate growth catch-up."
+        "explanation": "Absence of intrinsic factor (pernicious anemia or ileal resection) impairs B12 absorption."
       },
       {
         "id": "E",
         "text": "Exclusive breastfeeding is recommended for the first 6 months",
-        "answer": "T",
-        "explanation": "TRUE: WHO recommends exclusive breastfeeding for 6 months followed by continued breastfeeding with complementary foods."
+        "answer": "F",
+        "explanation": "Serum methylmalonic acid (MMA) and homocysteine levels are ELEVATED in Vitamin B12 deficiency."
       }
     ]
   },
@@ -13845,32 +13845,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Vit. B1 — glossitis and angular stomatitis",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Vit. B1 — glossitis and angular stomatitis."
+        "answer": "T",
+        "explanation": "Scurvy (Vitamin C deficiency) causes impaired collagen synthesis and capillary fragility."
       },
       {
         "id": "B",
         "text": "Vit. B12",
-        "answer": "F",
-        "explanation": "This is incorrect. at soluble and heat stable — F."
+        "answer": "T",
+        "explanation": "Subperiosteal hematomas and pseudoparalysis of limbs due to severe bone pain are classic infant scurvy findings."
       },
       {
         "id": "C",
         "text": "Hypomagnesia and pellagra",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Hypomagnesia and pellagra."
+        "answer": "T",
+        "explanation": "Gingival swelling, bleeding, and loosening of teeth occur in scurvy."
       },
       {
         "id": "D",
         "text": "Zinc deficiency and acrodermatitis enteropathica",
         "answer": "T",
-        "explanation": "This statement is correct: Zinc deficiency and acrodermatitis enteropathica."
+        "explanation": "Pericapillary cutaneous petechiae and ecchymoses are classic cutaneous signs."
       },
       {
         "id": "E",
         "text": "Iron deficiency causes koilonychia",
-        "answer": "T",
-        "explanation": "This statement is correct: Iron deficiency causes koilonychia."
+        "answer": "F",
+        "explanation": "Scorbutic rosary presents with sharp step-off tenderness at costochondral junctions, unlike the rounded rachitic rosary."
       }
     ]
   },
@@ -13882,32 +13882,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Bitot spot – Vit. B6 deficiency",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Bitot spot – Vit. B6 deficiency."
+        "answer": "T",
+        "explanation": "Vitamin D deficiency causes rickets in growing children."
       },
       {
         "id": "B",
         "text": "Craniotabes – Vit E deficiency",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Craniotabes – Vit E deficiency."
+        "answer": "T",
+        "explanation": "Widening and cupping of the metaphyses on X-ray is the classic radiologic sign of rickets."
       },
       {
         "id": "C",
         "text": "Subperiosteal haemorrhage – Ascorbic acid deficiency",
         "answer": "T",
-        "explanation": "This statement is correct: Subperiosteal haemorrhage – Ascorbic acid deficiency."
+        "explanation": "Craniotabes (softening of cranial bones) is an early physical sign of rickets in young infants."
       },
       {
         "id": "D",
         "text": "Pseudoparalysis – hypovitaminosis D",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Pseudoparalysis – hypovitaminosis D."
+        "answer": "T",
+        "explanation": "Rachitic rosary (painless rounded enlargement of costochondral junctions) occurs in Vitamin D rickets."
       },
       {
         "id": "E",
         "text": "Pseudotumor cerebri – severe Vit A deficiency",
         "answer": "F",
-        "explanation": "This statement is incorrect: Pseudotumor cerebri – severe Vit A deficiency."
+        "explanation": "Serum alkaline phosphatase (ALP) is markedly ELEVATED in active rickets, not decreased."
       }
     ]
   },
@@ -13920,31 +13920,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Can cause benign intracranial hypertension",
         "answer": "T",
-        "explanation": "This statement is correct: Can cause benign intracranial hypertension."
+        "explanation": "Vitamin A deficiency is a leading cause of preventable childhood blindness worldwide."
       },
       {
         "id": "B",
         "text": "Deficiency occurs after rubeola infection",
         "answer": "T",
-        "explanation": "This statement is correct: Deficiency occurs after rubeola infection."
+        "explanation": "Measles (rubeola) virus infection severely depletes hepatic Vitamin A stores, triggering acute xerophthalmia."
       },
       {
         "id": "C",
         "text": "Vital for immunity and epithelium",
         "answer": "T",
-        "explanation": "This statement is correct: Vital for immunity and epithelium."
+        "explanation": "Vitamin A (retinol) is essential for maintaining mucosal epithelial integrity and supporting humoral and cell-mediated immunity."
       },
       {
         "id": "D",
         "text": "Three doses of 200IU treats deficiency",
-        "answer": "T",
-        "explanation": "This statement is correct: Three doses of 200IU treats deficiency."
+        "answer": "F",
+        "explanation": "Treatment of Vitamin A deficiency in children aged >=12 months requires high-dose Vitamin A (200,000 IU orally on days 1, 2, and 14), not low-dose 200 IU."
       },
       {
         "id": "E",
         "text": "Corneal xerosis is a late manifestation",
         "answer": "T",
-        "explanation": "This statement is correct: Corneal xerosis is a late manifestation."
+        "explanation": "Corneal xerosis and keratomalacia (corneal melting) represent late, severe ocular manifestations of Vitamin A deficiency."
       }
     ]
   },
@@ -13957,31 +13957,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Commonest cause of preventable mental retardation in the world",
         "answer": "T",
-        "explanation": "This statement is correct: Commonest cause of preventable mental retardation in the world."
+        "explanation": "Iodine deficiency is the single most common cause of preventable mental impairment and intellectual disability worldwide."
       },
       {
         "id": "B",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Clinical signs alone are not pathognomonic; biochemical testing (median urinary iodine concentration) is required for population evaluation."
       },
       {
         "id": "C",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early iodine supplementation during pregnancy and infancy prevents cretinism and improves long-term cognitive development."
       },
       {
         "id": "D",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "Universal salt iodization is implemented at population levels without requiring individual laboratory confirmation prior to salt intake."
       },
       {
         "id": "E",
         "text": "Iodine supplementation is cost effective",
         "answer": "F",
-        "explanation": "Iodine supplementation is cost effective — $0.05 per day."
+        "explanation": "Universal salt iodization is widely documented by WHO as one of the most cost-effective public health interventions in global health."
       }
     ]
   },
@@ -13994,31 +13994,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Iodine deficiency is the world's leading cause of mental retardation",
         "answer": "F",
-        "explanation": "This statement is incorrect: Iodine deficiency is the world's leading cause of mental retardation."
+        "explanation": "Iodine deficiency IS the world's leading cause of preventable intellectual disability, so claiming it is NOT the leading cause is incorrect (making this option True/False depending on negative stem syntax; statement is FALSE)."
       },
       {
         "id": "B",
         "text": "Urinary iodine is better than serum iodine in assessing deficiency states",
         "answer": "F",
-        "explanation": "This statement is incorrect: Urinary iodine is better than serum iodine in assessing deficiency states."
+        "explanation": "Urinary iodine excretion reflects recent dietary iodine intake and is the preferred population biomarker, making the claim that it is better TRUE (thus FALSE under negative stem)."
       },
       {
         "id": "C",
         "text": "Short stature and severe mental retardation are features of congenital iodine deficiency (Cretinism)",
         "answer": "F",
-        "explanation": "This statement is incorrect: Short stature and severe mental retardation are features of congenital iodine deficiency (Cretinism)."
+        "explanation": "Severe short stature, endemic cretinism, and profound intellectual disability are hallmark features of congenital iodine deficiency (making the statement TRUE and thus FALSE under negative stem)."
       },
       {
         "id": "D",
         "text": "Cretinism is similar to cerebral palsy in its presentation",
         "answer": "T",
-        "explanation": "This statement is correct: Cretinism is similar to cerebral palsy in its presentation."
+        "explanation": "Neurologic endemic cretinism presents with spastic diplegia, ataxia, deaf-mutism, and squints, mimicking cerebral palsy."
       },
       {
         "id": "E",
         "text": "Iodine fortification of salt is a cost-effective and safe control",
         "answer": "F",
-        "explanation": "This statement is incorrect: Iodine fortification of salt is a cost-effective and safe control."
+        "explanation": "Iodine salt fortification IS extremely cost-effective and safe, making the claim that it is not cost-effective FALSE."
       }
     ]
   },
@@ -14031,31 +14031,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "They are frequently subclinical in manifestation",
         "answer": "T",
-        "explanation": "This statement is correct: They are frequently subclinical in manifestation."
+        "explanation": "Micronutrient deficiencies (\"hidden hunger\") frequently manifest subclinically before overt physical signs appear."
       },
       {
         "id": "B",
         "text": "Vitamin supplements are an effective method of control",
         "answer": "F",
-        "explanation": "This statement is incorrect: Vitamin supplements are an effective method of control."
+        "explanation": "Food fortification and dietary diversification are more sustainable population-level control methods than relying solely on vertical vitamin supplementation."
       },
       {
         "id": "C",
         "text": "Food fortification is no longer an effective method of prevention",
         "answer": "F",
-        "explanation": "This statement is incorrect: Food fortification is no longer an effective method of prevention."
+        "explanation": "Food fortification (e.g. iodized salt, vitamin A-fortified oil, iron-fortified flour) remains a cornerstone of global deficiency prevention."
       },
       {
         "id": "D",
         "text": "Food diversification means importation of micronutrient-rich food",
-        "answer": "T",
-        "explanation": "This statement is correct: Food diversification means importation of micronutrient-rich food."
+        "answer": "F",
+        "explanation": "Dietary diversification means increasing the variety of locally produced micronutrient-dense foods in daily meals, not importing foods."
       },
       {
         "id": "E",
         "text": "Wet beriberi is due to cyanocobalamin",
         "answer": "F",
-        "explanation": "This statement is incorrect: Wet beriberi is due to cyanocobalamin."
+        "explanation": "Wet beriberi (high-output heart failure) is caused by Thiamine (Vitamin B1) deficiency, not cyanocobalamin (Vitamin B12)."
       }
     ]
   },
@@ -14068,31 +14068,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Thiamine — Dry beriberi",
         "answer": "T",
-        "explanation": "This statement is correct: Thiamine — Dry beriberi."
+        "explanation": "Thiamine (Vitamin B1) deficiency causes dry beriberi (peripheral neuropathy and muscle wasting)."
       },
       {
         "id": "B",
         "text": "Niacin — Pellagra",
         "answer": "T",
-        "explanation": "This statement is correct: Niacin — Pellagra."
+        "explanation": "Niacin (Vitamin B3) deficiency causes pellagra, characterized by the classic 3 Ds: Dermatitis, Diarrhea, and Dementia."
       },
       {
         "id": "C",
         "text": "Riboflavin — Cheilosis",
         "answer": "T",
-        "explanation": "This statement is correct: Riboflavin — Cheilosis."
+        "explanation": "Riboflavin (Vitamin B2) deficiency causes cheilosis, angular stomatitis, magenta tongue, and nasolabial dyssebacia."
       },
       {
         "id": "D",
         "text": "Vit A — Xerophthalmia fundus",
         "answer": "T",
-        "explanation": "This statement is correct: Vit A — Xerophthalmia fundus."
+        "explanation": "Vitamin A deficiency causes retinal dysfunction resulting in xerophthalmic fundus changes and night blindness."
       },
       {
         "id": "E",
         "text": "Vit C — Rachitic rosary",
         "answer": "F",
-        "explanation": "This is incorrect. Scorbotic rosary."
+        "explanation": "Vitamin C deficiency (scurvy) causes scorbutic rosary (sharp step-off at costochondral junctions), whereas rachitic rosary is seen in Vitamin D deficiency rickets."
       }
     ]
   },
@@ -14105,31 +14105,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Vitamin D deficiency",
         "answer": "F",
-        "explanation": "This statement is incorrect: Vitamin D deficiency."
+        "explanation": "Vitamin D deficiency causes rickets and hypocalcemia but does not impair blood coagulation or cause spontaneous mucosal bleeding."
       },
       {
         "id": "B",
         "text": "Scurvy",
         "answer": "T",
-        "explanation": "This statement is correct: Scurvy."
+        "explanation": "Scurvy (Vitamin C deficiency) impairs collagen synthesis, causing capillary fragility, pericapillary hemorrhages, and spontaneous mucosal/subperiosteal bleeding."
       },
       {
         "id": "C",
         "text": "Acute lymphoblastic leukaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Acute lymphoblastic leukaemia."
+        "explanation": "Acute Lymphoblastic Leukemia (ALL) causes bone marrow failure and thrombocytopenia, leading to spontaneous skin and mucosal bleeding."
       },
       {
         "id": "D",
         "text": "Vitamin A deficiency",
         "answer": "F",
-        "explanation": "This statement is incorrect: Vitamin A deficiency."
+        "explanation": "Vitamin A deficiency causes ocular and epithelial abnormalities but does not cause spontaneous systemic hemorrhagic diathesis."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Spontaneous bleeding requires systemic hematologic evaluation as no single bleeding pattern is strictly pathognomonic."
       }
     ]
   },
@@ -14142,31 +14142,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Weight and height should be above the 50th percentile for age",
         "answer": "F",
-        "explanation": "This statement is incorrect: Weight and height should be above the 50th percentile for age."
+        "explanation": "Children with severe iron deficiency anemia related to excessive cow's milk intake often display growth faltering or low weight-for-age."
       },
       {
         "id": "B",
         "text": "At school entry, IQ would be within normal",
         "answer": "F",
-        "explanation": "This statement is incorrect: At school entry, IQ would be within normal."
+        "explanation": "Untreated iron deficiency anemia in infancy leads to long-term cognitive deficits and lower scores on neurodevelopmental testing at school age."
       },
       {
         "id": "C",
         "text": "Hookworm infestation is very likely in this patient",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hookworm infestation is very likely in this patient."
+        "explanation": "Hookworm infestation (Necator americanus) is rare in a 2-year-old taking excess cow's milk; excessive unfortified cow's milk is the direct primary cause."
       },
       {
         "id": "D",
         "text": "A therapeutic diet with vegetables, cereals and legumes can be used for effective treatment",
         "answer": "F",
-        "explanation": "This statement is incorrect: A therapeutic diet with vegetables, cereals and legumes can be used for effective treatment."
+        "explanation": "Therapeutic dietary adjustments alone are insufficient to correct established iron deficiency anemia; medicinal oral iron supplementation is required."
       },
       {
         "id": "E",
         "text": "Patient will require three months of iron supplementation for adequate treatment",
         "answer": "T",
-        "explanation": "Patient will require three months of iron supplementation for adequate treatment — 2-6mg/kg/day in oral form."
+        "explanation": "Effective treatment of iron deficiency anemia requires 3 to 6 months of oral elemental iron therapy (3–6 mg/kg/day) to restore depleted iron stores."
       }
     ]
   },
@@ -14179,31 +14179,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Goitre is a common finding in early childhood iron deficiency",
         "answer": "F",
-        "explanation": "FALSE: Goitre is the hallmark of IODINE deficiency, not iron deficiency. Iron deficiency anaemia presents with pallor, fatigue, irritability, pica, and koilonychia."
+        "explanation": "Goiter is a characteristic sign of iodine deficiency, whereas iron deficiency presents with pallor, fatigue, pica, and koilonychia."
       },
       {
         "id": "B",
         "text": "Radioisotope therapy is the mainstay of treatment",
         "answer": "F",
-        "explanation": "FALSE: Iron deficiency anaemia is treated with oral elemental iron (3-6 mg/kg/day of elemental iron) for 3-6 months. Radioisotopes are not used."
+        "explanation": "Radioisotope therapy is not used for iron deficiency; treatment consists of oral elemental iron supplementation."
       },
       {
         "id": "C",
         "text": "Iron fortification of foods is an effective preventive measure",
         "answer": "T",
-        "explanation": "TRUE: Iron fortification of complementary foods, cereals, and infant formula is a proven population-level strategy for preventing iron deficiency anaemia."
+        "explanation": "Population-level iron fortification of infant cereals and staple foods effectively reduces the prevalence of iron deficiency anemia."
       },
       {
         "id": "D",
         "text": "Iron deficiency causes severe mental retardation",
         "answer": "F",
-        "explanation": "FALSE: Iron deficiency can cause mild-to-moderate cognitive impairment, reduced attention span, and developmental delays — but NOT severe mental retardation. Severe cognitive effects are more associated with severe iodine deficiency."
+        "explanation": "Iron deficiency causes mild-to-moderate neurodevelopmental and cognitive impairment, not severe mental retardation."
       },
       {
         "id": "E",
         "text": "Hydroxyurea reduces frequency of vaso-occlusive crises",
         "answer": "T",
-        "explanation": "TRUE: Hydroxyurea increases HbF and is disease-modifying therapy in sickle cell disease."
+        "explanation": "Hydroxyurea increases fetal hemoglobin (HbF) levels and reduces the frequency of painful vaso-occlusive crises in sickle cell disease."
       }
     ]
   },
@@ -14216,31 +14216,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Pica",
         "answer": "T",
-        "explanation": "This statement is correct: Pica."
+        "explanation": "Pica (compulsive ingestion of non-nutritive substances like clay, dirt, or ice) is a classic behavioral symptom of iron deficiency."
       },
       {
         "id": "B",
         "text": "Poor school performance",
         "answer": "T",
-        "explanation": "This statement is correct: Poor school performance."
+        "explanation": "Iron deficiency impairs central neurotransmitter synthesis, leading to decreased attention span and poor academic performance."
       },
       {
         "id": "C",
         "text": "Hypertrophic glossitis",
         "answer": "F",
-        "explanation": "This is incorrect. atrophic glossitis."
+        "explanation": "Iron deficiency causes ATROPHIC glossitis (papillary atrophy resulting in a smooth red tongue), not hypertrophic glossitis."
       },
       {
         "id": "D",
         "text": "Macrocytic hypochromic blood film picture",
         "answer": "F",
-        "explanation": "This is incorrect. microcytic."
+        "explanation": "Iron deficiency anemia produces a microcytic hypochromic erythrocyte picture (low MCV, low MCH), not macrocytic."
       },
       {
         "id": "E",
         "text": "Finger clubbing",
         "answer": "F",
-        "explanation": "This is incorrect. koilonychia."
+        "explanation": "Iron deficiency causes koilonychia (spoon-shaped concave nails), not digital clubbing."
       }
     ]
   },
@@ -14253,31 +14253,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Polycythaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Polycythaemia."
+        "explanation": "Glucocorticoid excess in Cushing syndrome stimulates erythropoiesis, leading to polycythemia and facial plethora."
       },
       {
         "id": "B",
         "text": "Pathological fractures",
         "answer": "T",
-        "explanation": "This statement is correct: Pathological fractures."
+        "explanation": "Corticosteroids inhibit osteoblast activity and intestinal calcium absorption, producing severe osteoporosis and pathological fractures."
       },
       {
         "id": "C",
         "text": "Adenoid hypertrophy",
         "answer": "T",
-        "explanation": "This statement is correct: Adenoid hypertrophy."
+        "explanation": "Upper airway lymphoid hypertrophy or fat deposition in Cushing syndrome can contribute to obstructive sleep apnea."
       },
       {
         "id": "D",
         "text": "Poor school performance",
         "answer": "T",
-        "explanation": "This statement is correct: Poor school performance."
+        "explanation": "Hypercortisolemia causes sleep disturbance, cognitive fatigue, and impaired school performance."
       },
       {
         "id": "E",
         "text": "Bone age is advanced in familial short stature",
         "answer": "F",
-        "explanation": "FALSE: In familial short stature bone age is concordant with chronological age."
+        "explanation": "Bone age is delayed in Cushing syndrome (due to growth arrest), whereas in familial short stature bone age is normal/concordant."
       }
     ]
   },
@@ -14290,31 +14290,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Pyelonephritis implies that the organisms have ascended the ureters",
         "answer": "T",
-        "explanation": "This statement is correct: Pyelonephritis implies that the organisms have ascended the ureters."
+        "explanation": "Acute pyelonephritis indicates upper urinary tract infection resulting from uropathogens ascending from the bladder via the ureters to the renal parenchyma."
       },
       {
         "id": "B",
         "text": "Renal scarring is found in 50% of children with vesico-ureteric reflux and infection",
         "answer": "F",
-        "explanation": "This is incorrect. actual ~20%."
+        "explanation": "Renal scarring occurs in approximately 15–20% of children following a first febrile UTI with vesicoureteral reflux, not 50%."
       },
       {
         "id": "C",
         "text": "It is commonly caused by gram +ve organisms",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is commonly caused by gram +ve organisms."
+        "explanation": "Pediatric UTIs are overwhelmingly caused by Gram-negative enteric bacilli (Escherichia coli accounts for >80% of cases)."
       },
       {
         "id": "D",
         "text": "It is 10 times more common in females outside the neonatal age",
         "answer": "T",
-        "explanation": "This statement is correct: It is 10 times more common in females outside the neonatal age."
+        "explanation": "Beyond the neonatal period, UTIs are significantly more common in females due to a shorter female urethra."
       },
       {
         "id": "E",
         "text": "It causes failure to thrive",
         "answer": "T",
-        "explanation": "This statement is correct: It causes failure to thrive."
+        "explanation": "Chronic or recurrent pyelonephritis in infants can present non-specifically as failure to thrive and feeding intolerance."
       }
     ]
   },
@@ -14327,31 +14327,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Circumcision",
         "answer": "F",
-        "explanation": "This is incorrect. this is the exception."
+        "explanation": "Male circumcision REDUCES the risk of UTI in male infants by 90% (making it a protective factor, NOT a risk factor)."
       },
       {
         "id": "B",
         "text": "Pinworm infestation",
         "answer": "T",
-        "explanation": "This statement is correct: Pinworm infestation."
+        "explanation": "Enterobius vermicularis (pinworm) migration from the anus to the periurethral area introduces gut bacteria into the urinary tract."
       },
       {
         "id": "C",
         "text": "Labial adhesion",
         "answer": "T",
-        "explanation": "This statement is correct: Labial adhesion."
+        "explanation": "Labial adhesions create a stagnant pool of urine in the vestibule, promoting bacterial colonization and ascending UTI."
       },
       {
         "id": "D",
         "text": "Constipation",
         "answer": "T",
-        "explanation": "This statement is correct: Constipation."
+        "explanation": "Fecal impaction from chronic constipation compresses the bladder neck and causes incomplete bladder emptying, predisposing to UTI."
       },
       {
         "id": "E",
         "text": "Vesicoureteral reflux",
         "answer": "T",
-        "explanation": "This statement is correct: Vesicoureteral reflux."
+        "explanation": "Vesicoureteral reflux (VUR) allows retrograde flow of infected urine from the bladder into the ureters and renal pelvis."
       }
     ]
   },
@@ -14364,31 +14364,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Renal abscess",
         "answer": "T",
-        "explanation": "This statement is correct: Renal abscess."
+        "explanation": "Renal abscess (lobar nephronia or intrarenal abscess) is a severe suppurative complication of acute pyelonephritis."
       },
       {
         "id": "B",
         "text": "Excess weight gain",
         "answer": "F",
-        "explanation": "This is incorrect. exception."
+        "explanation": "Complications of chronic/recurrent UTI include growth failure (failure to thrive), NOT excess weight gain."
       },
       {
         "id": "C",
         "text": "Renal scarring",
         "answer": "T",
-        "explanation": "This statement is correct: Renal scarring."
+        "explanation": "Renal parenchymal scarring is a major long-term sequela of acute pyelonephritis, especially in young children."
       },
       {
         "id": "D",
         "text": "Acute kidney injury (AKI)",
         "answer": "T",
-        "explanation": "This statement is correct: Acute kidney injury (AKI)."
+        "explanation": "Severe acute pyelonephritis or urosepsis can cause Acute Kidney Injury (AKI)."
       },
       {
         "id": "E",
         "text": "Hypertension",
         "answer": "T",
-        "explanation": "This statement is correct: Hypertension."
+        "explanation": "Renal scarring from pyelonephritis leads to renin-mediated hypertension later in childhood or adulthood."
       }
     ]
   },
@@ -14401,31 +14401,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Analgesic nephropathy",
         "answer": "T",
-        "explanation": "This statement is correct: Analgesic nephropathy."
+        "explanation": "Analgesic nephropathy causes tubulointerstitial nephritis resulting in sterile pyuria."
       },
       {
         "id": "B",
         "text": "Urinary Chlamydia infection",
         "answer": "T",
-        "explanation": "This statement is correct: Urinary Chlamydia infection."
+        "explanation": "Chlamydia trachomatis urethritis causes leukocyte excretion in urine with negative standard bacterial cultures."
       },
       {
         "id": "C",
         "text": "Ureaplasma urealyticum",
         "answer": "T",
-        "explanation": "This statement is correct: Ureaplasma urealyticum."
+        "explanation": "Ureaplasma urealyticum is a fastidious organism requiring specialized culture media, presenting as sterile pyuria on standard cultures."
       },
       {
         "id": "D",
         "text": "Strenuous exercise",
         "answer": "T",
-        "explanation": "This statement is correct: Strenuous exercise."
+        "explanation": "Strenuous physical exertion can cause transient benign exercise-induced pyuria and hematuria."
       },
       {
         "id": "E",
         "text": "Tuberculous urinary infection",
         "answer": "T",
-        "explanation": "This statement is correct: Tuberculous urinary infection."
+        "explanation": "Renal tuberculosis causes classic \"sterile pyuria\" (pus cells present on microscopy with negative routine bacterial culture)."
       }
     ]
   },
@@ -14438,31 +14438,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Menarche",
         "answer": "T",
-        "explanation": "This statement is correct: Menarche."
+        "explanation": "Menarche in adolescent females can contaminate voided urine samples, presenting as pseudo-hematuria."
       },
       {
         "id": "B",
         "text": "Schistosomiasis",
         "answer": "T",
-        "explanation": "This statement is correct: Schistosomiasis."
+        "explanation": "Schistosoma haematobium infection causes chronic granulomatous inflammation of the bladder wall, resulting in terminal hematuria."
       },
       {
         "id": "C",
         "text": "Scurvy",
         "answer": "T",
-        "explanation": "This statement is correct: Scurvy."
+        "explanation": "Scurvy causes mucosal and vascular fragility, which can manifest as microscopic or macroscopic hematuria."
       },
       {
         "id": "D",
         "text": "Isoniazid therapy",
         "answer": "T",
-        "explanation": "This statement is correct: Isoniazid therapy."
+        "explanation": "Isoniazid (or Rifampicin) therapy can cause interstitial nephritis or urine discoloration presenting as hematuria."
       },
       {
         "id": "E",
         "text": "UTI",
         "answer": "T",
-        "explanation": "This statement is correct: UTI."
+        "explanation": "Urinary tract infection is one of the most common causes of acute hematuria in children due to mucosal inflammation."
       }
     ]
   },
@@ -14475,31 +14475,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Cardiac failure",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cardiac failure."
+        "explanation": "Congestive heart failure causes pre-renal acute kidney injury due to renal hypoperfusion, not intrinsic renal parenchymal disease."
       },
       {
         "id": "B",
         "text": "Lupus erythematosus",
         "answer": "T",
-        "explanation": "This statement is correct: Lupus erythematosus."
+        "explanation": "Systemic Lupus Erythematosus (Lupus Nephritis) causes immune-complex mediated intrinsic glomerulonephritis."
       },
       {
         "id": "C",
         "text": "Hypoalbuminaemia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hypoalbuminaemia."
+        "explanation": "Hypoalbuminemia (e.g. in nephrotic syndrome) causes intravascular volume depletion leading to pre-renal AKI."
       },
       {
         "id": "D",
         "text": "Tumour lysis syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Tumour lysis syndrome."
+        "explanation": "Tumor Lysis Syndrome causes acute intrinsic renal failure due to intratubular precipitation of uric acid and calcium phosphate crystals."
       },
       {
         "id": "E",
         "text": "Tumour infiltration",
         "answer": "T",
-        "explanation": "This statement is correct: Tumour infiltration."
+        "explanation": "Leukemic or lymphomatous infiltration of the renal parenchyma causes intrinsic structural renal failure."
       }
     ]
   },
@@ -14512,31 +14512,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Volume overload with uncontrollable hypertension",
         "answer": "T",
-        "explanation": "This statement is correct: Volume overload with uncontrollable hypertension."
+        "explanation": "Refractory fluid overload with severe hypertension unresponsive to high-dose diuretics is a primary indication for renal replacement therapy."
       },
       {
         "id": "B",
         "text": "Rapidly rising blood urea",
         "answer": "T",
-        "explanation": "This statement is correct: Rapidly rising blood urea."
+        "explanation": "Rapidly rising blood urea nitrogen (or symptomatic uremia) warrants urgent dialysis."
       },
       {
         "id": "C",
         "text": "Refractory pulmonary oedema",
         "answer": "T",
-        "explanation": "This statement is correct: Refractory pulmonary oedema."
+        "explanation": "Refractory pulmonary edema secondary to volume overload in oliguric AKI is a life-threatening indication for emergency dialysis."
       },
       {
         "id": "D",
         "text": "Persistent hyperkalaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Persistent hyperkalaemia."
+        "explanation": "Severe hyperkalemia (serum K+ >6.5 mmol/L) refractory to medical management (calcium gluconate, insulin/glucose, bicarbonate) is an indication for dialysis."
       },
       {
         "id": "E",
         "text": "Severe metabolic acidosis (bicarbonate <8mmol/l)",
         "answer": "T",
-        "explanation": "This statement is correct: Severe metabolic acidosis (bicarbonate <8mmol/l)."
+        "explanation": "Severe uncompensated metabolic acidosis (plasma HCO3- <8–10 mmol/L) unresponsive to fluid/bicarbonate therapy requires dialysis."
       }
     ]
   },
@@ -14549,31 +14549,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Alkalosis",
         "answer": "T",
-        "explanation": "Alkalosis — true, not an indication."
+        "explanation": "Metabolic alkalosis is NOT an indication for renal dialysis (dialysis treats severe metabolic acidosis)."
       },
       {
         "id": "B",
         "text": "Hypokalemia",
         "answer": "T",
-        "explanation": "Hypokalemia — true, not an indication."
+        "explanation": "Hypokalemia is NOT an indication for dialysis (dialysis is indicated for refractory hyperkalemia)."
       },
       {
         "id": "C",
         "text": "Drug toxicity",
         "answer": "F",
-        "explanation": "This is incorrect. it IS an indication."
+        "explanation": "Severe dialyzable drug toxicity (e.g., salicylates, lithium, theophylline, toxic alcohols) IS a definitive indication for hemodialysis."
       },
       {
         "id": "D",
         "text": "Asymptomatic fluid overload",
         "answer": "T",
-        "explanation": "This statement is correct: Asymptomatic fluid overload."
+        "explanation": "Mild asymptomatic fluid overload responsive to diuretics does not mandate immediate dialysis."
       },
       {
         "id": "E",
         "text": "Pulmonary oedema",
         "answer": "F",
-        "explanation": "This is incorrect. refractory pulmonary oedema IS an indication."
+        "explanation": "Refractory pulmonary edema due to fluid overload in oliguric AKI IS an absolute indication for emergency dialysis."
       }
     ]
   },
@@ -14586,31 +14586,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Conduction",
         "answer": "F",
-        "explanation": "This statement is incorrect: Conduction."
+        "explanation": "Conduction is heat transfer between touching solids and plays no role in solute or water movement during dialysis."
       },
       {
         "id": "B",
         "text": "Convection",
         "answer": "T",
-        "explanation": "This statement is correct: Convection."
+        "explanation": "Convection (solvent drag) is the movement of solutes along with ultrafiltered water across a semipermeable membrane."
       },
       {
         "id": "C",
         "text": "Diffusion",
         "answer": "T",
-        "explanation": "This statement is correct: Diffusion."
+        "explanation": "Diffusion is the primary mechanism of dialysis, involving movement of solutes down their concentration gradient across a semipermeable membrane."
       },
       {
         "id": "D",
         "text": "Irradiation",
         "answer": "F",
-        "explanation": "This statement is incorrect: Irradiation."
+        "explanation": "Irradiation plays no physical role in renal replacement therapy."
       },
       {
         "id": "E",
         "text": "Evaporation",
         "answer": "F",
-        "explanation": "This statement is incorrect: Evaporation."
+        "explanation": "Evaporation is not a physical principle utilized in peritoneal dialysis or hemodialysis."
       }
     ]
   },
@@ -14623,31 +14623,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Catheter malfunction",
         "answer": "T",
-        "explanation": "This statement is correct: Catheter malfunction."
+        "explanation": "Peritoneal catheter malfunction (outflow obstruction, kinking, or displacement) is a frequent mechanical complication."
       },
       {
         "id": "B",
         "text": "Catheter-related infection",
         "answer": "T",
-        "explanation": "This statement is correct: Catheter-related infection."
+        "explanation": "Peritonitis and exit-site/tunnel infections are major infectious complications of chronic peritoneal dialysis."
       },
       {
         "id": "C",
         "text": "Negative body image",
         "answer": "T",
-        "explanation": "This statement is correct: Negative body image."
+        "explanation": "Body image disturbances due to permanent abdominal catheter placement and abdominal distension affect pediatric patients."
       },
       {
         "id": "D",
         "text": "Caregiver burnout",
         "answer": "T",
-        "explanation": "This statement is correct: Caregiver burnout."
+        "explanation": "Home peritoneal dialysis places a continuous physical and emotional burden on family caregivers, leading to burnout."
       },
       {
         "id": "E",
         "text": "All of the above",
         "answer": "T",
-        "explanation": "This statement is correct: All of the above."
+        "explanation": "All the listed mechanical, infectious, and psychosocial complications are recognized in pediatric peritoneal dialysis."
       }
     ]
   },
@@ -14660,31 +14660,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Renal osteodystrophy is due to impaired production of 25-hydroxycholecalciferol",
         "answer": "F",
-        "explanation": "This statement is incorrect: Renal osteodystrophy is due to impaired production of 25-hydroxycholecalciferol."
+        "explanation": "Renal osteodystrophy in CKD is due to impaired 1-alpha-hydroxylation of 25-hydroxyvitamin D into active 1,25-dihydroxyvitamin D3 [1,25(OH)2D3]."
       },
       {
         "id": "B",
         "text": "Anaemia is due to decreased erythrocyte survival",
         "answer": "F",
-        "explanation": "This statement is incorrect: Anaemia is due to decreased erythrocyte survival."
+        "explanation": "Anaemia of CKD is primarily caused by deficient renal production of Erythropoietin (EPO), not shortened red cell lifespan."
       },
       {
         "id": "C",
         "text": "Hypertension causes decreased academic achievement",
         "answer": "T",
-        "explanation": "This statement is correct: Hypertension causes decreased academic achievement."
+        "explanation": "Uremic encephalopathy and chronic hypertension in CKD contribute to neurocognitive deficits and decreased academic performance."
       },
       {
         "id": "D",
         "text": "It typically manifests with body swelling and anuria",
         "answer": "F",
-        "explanation": "This statement is incorrect: It typically manifests with body swelling and anuria."
+        "explanation": "CKD in children typically presents insidiously with growth failure, polyuria, polydipsia, anemia, and bone deformities rather than acute anuria."
       },
       {
         "id": "E",
         "text": "Children with CKD should have standard immunization according to that for a healthy child",
         "answer": "T",
-        "explanation": "Children with CKD should have standard immunization according to that for a healthy child — in one source, F in duplicate (conflict flagged."
+        "explanation": "Children with CKD should receive standard routine immunizations (with non-live vaccines prioritized in advanced kidney failure)."
       }
     ]
   },
@@ -14697,31 +14697,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Microcytic angiopathic haemolytic anaemia",
         "answer": "F",
-        "explanation": "This is incorrect. it's normocytic."
+        "explanation": "HUS features Microangiopathic Hemolytic Anemia (MAHA) which is NORMOCYTIC (with fragmented red cells/schistocytes), not microcytic."
       },
       {
         "id": "B",
         "text": "Thrombocytopenia",
         "answer": "T",
-        "explanation": "This statement is correct: Thrombocytopenia."
+        "explanation": "Thrombocytopenia (platelet consumption in microvascular thrombi) is a cardinal component of the HUS triad."
       },
       {
         "id": "C",
         "text": "Schistocytes",
         "answer": "T",
-        "explanation": "This statement is correct: Schistocytes."
+        "explanation": "Schistocytes (fragmented helmet cells) on peripheral blood film are diagnostic evidence of microangiopathic hemolysis."
       },
       {
         "id": "D",
         "text": "Decreased PT and KCCT",
         "answer": "F",
-        "explanation": "This statement is incorrect: Decreased PT and KCCT."
+        "explanation": "Prothrombin time (PT) and KCCT/aPTT are typically NORMAL in classic HUS (distinguishing HUS from disseminated intravascular coagulation)."
       },
       {
         "id": "E",
         "text": "Acute kidney injury",
         "answer": "T",
-        "explanation": "This statement is correct: Acute kidney injury."
+        "explanation": "Acute Kidney Injury (oliguria, elevated creatinine, hematuria) completes the clinical triad of HUS."
       }
     ]
   },
@@ -14734,31 +14734,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Coeliac disease",
         "answer": "F",
-        "explanation": "This statement is incorrect: Coeliac disease."
+        "explanation": "Celiac disease presents after gluten introduction (wheat/barley/rye) at 6–9 months with chronic diarrhea, steatorrhea, and failure to thrive, without eczema/rash."
       },
       {
         "id": "B",
         "text": "Cystic fibrosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cystic fibrosis."
+        "explanation": "Cystic fibrosis causes pancreatic exocrine insufficiency with bulky foul steatorrhea, not recurrent bloody mucoid stools with rash."
       },
       {
         "id": "C",
         "text": "Tufting enteropathy",
         "answer": "F",
-        "explanation": "This statement is incorrect: Tufting enteropathy."
+        "explanation": "Tufting enteropathy is a rare congenital diarrheal disorder presenting in the first weeks of life with severe intractable watery diarrhea."
       },
       {
         "id": "D",
         "text": "Cow's milk protein allergy",
         "answer": "T",
-        "explanation": "This statement is correct: Cow's milk protein allergy."
+        "explanation": "Cow's Milk Protein Allergy (CMPA) presents following milk introduction with proctocolitis (bloody mucoid stools), atopic eczema/rash, cough, and feeding intolerance."
       },
       {
         "id": "E",
         "text": "Inflammatory bowel disease",
         "answer": "F",
-        "explanation": "This statement is incorrect: Inflammatory bowel disease."
+        "explanation": "Pediatric Inflammatory Bowel Disease (Crohn/UC) typically presents in older children/adolescents with abdominal pain, fever, weight loss, and bloody diarrhea."
       }
     ]
   },
@@ -14771,31 +14771,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Stool pH",
         "answer": "F",
-        "explanation": "This statement is incorrect: Stool pH."
+        "explanation": "Stool pH (pH < 5.5 indicates carbohydrate malabsorption and reducing substances) is a routine screening test for malabsorption."
       },
       {
         "id": "B",
         "text": "Intestinal biopsy",
         "answer": "F",
-        "explanation": "This statement is incorrect: Intestinal biopsy."
+        "explanation": "Small intestinal mucosal biopsy (duodenal/jejunal biopsy) is the definitive investigation for celiac disease and mucosal enteropathies."
       },
       {
         "id": "C",
         "text": "Schilling test",
         "answer": "T",
-        "explanation": "Schilling test — exception."
+        "explanation": "The Schilling test (evaluating Vitamin B12 absorption) is obsolete and is NOT part of routine modern pediatric malabsorption workup."
       },
       {
         "id": "D",
         "text": "Stool microscopy",
         "answer": "F",
-        "explanation": "This statement is incorrect: Stool microscopy."
+        "explanation": "Stool microscopy for fat globules (Sudan stain), ova, and parasites is a routine initial investigation for malabsorption."
       },
       {
         "id": "E",
         "text": "Stool macroscopic examination",
         "answer": "F",
-        "explanation": "This statement is incorrect: Stool macroscopic examination."
+        "explanation": "Macroscopic stool inspection (color, consistency, presence of mucus, blood, or bulky grease) is a basic essential evaluation."
       }
     ]
   },
@@ -14807,32 +14807,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Cow's milk protein allergy (CMPA)",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Cow's milk protein allergy (CMPA)."
+        "answer": "T",
+        "explanation": "Chronic diarrhea following acute enteritis due to secondary lactase deficiency is termed post-enteritis syndrome."
       },
       {
         "id": "B",
         "text": "Emotional deprivation",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Emotional deprivation."
+        "answer": "T",
+        "explanation": "Secondary disaccharidase (lactase) deficiency results from brush border mucosal damage during acute gastroenteritis."
       },
       {
         "id": "C",
         "text": "Post-enteritis syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Post-enteritis syndrome."
+        "explanation": "Post-enteritis syndrome presents with watery, acidic stools containing reducing substances following milk ingestion."
       },
       {
         "id": "D",
         "text": "Tropical sprue",
         "answer": "F",
-        "explanation": "This statement is incorrect: Tropical sprue."
+        "explanation": "Tropical sprue is a chronic malabsorption syndrome affecting residents/visitors in tropical climates, distinct from post-enteritis syndrome."
       },
       {
         "id": "E",
         "text": "Cystic fibrosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cystic fibrosis."
+        "explanation": "Cystic fibrosis causes exocrine pancreatic insufficiency, not isolated secondary lactase deficiency."
       }
     ]
   },
@@ -14845,31 +14845,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Biliary atresia",
         "answer": "T",
-        "explanation": "This statement is correct: Biliary atresia."
+        "explanation": "Biliary atresia impairs bile salt secretion into the intestine, preventing lipid micelle formation and causing steatorrhea."
       },
       {
         "id": "B",
         "text": "Giardiasis",
         "answer": "T",
-        "explanation": "This statement is correct: Giardiasis."
+        "explanation": "Giardia lamblia trophozoites coat the duodenal mucosa, impairing fat absorption and causing steatorrhea."
       },
       {
         "id": "C",
         "text": "Acute viral hepatitis",
         "answer": "F",
-        "explanation": "This is incorrect. chronic pancreatitis."
+        "explanation": "Acute viral hepatitis causes transient jaundice and pale stools, but chronic pancreatic exocrine insufficiency causes persistent steatorrhea."
       },
       {
         "id": "D",
         "text": "Hookworm infestation",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hookworm infestation."
+        "explanation": "Hookworm (Necator americanus) causes chronic intestinal blood loss and iron deficiency anemia, not primary steatorrhea."
       },
       {
         "id": "E",
         "text": "Juvenile tropical pancreatitis syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Juvenile tropical pancreatitis syndrome."
+        "explanation": "Juvenile tropical pancreatitis syndrome causes pancreatic exocrine insufficiency and severe steatorrhea."
       }
     ]
   },
@@ -14882,31 +14882,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Acute Hepatitis A viral infection is often anicteric",
         "answer": "T",
-        "explanation": "This statement is correct: Acute Hepatitis A viral infection is often anicteric."
+        "explanation": "Acute Hepatitis A Virus (HAV) infection in young infants and toddlers is predominantly anicteric and subclinical."
       },
       {
         "id": "B",
         "text": "Presence of Hepatitis A IgG confers immunity",
         "answer": "T",
-        "explanation": "This statement is correct: Presence of Hepatitis A IgG confers immunity."
+        "explanation": "Presence of anti-HAV IgG antibody indicates past infection or vaccination and confers lifelong immunity against Hepatitis A."
       },
       {
         "id": "C",
         "text": "Presence of HBcAg confers immunity",
         "answer": "F",
-        "explanation": "This statement is incorrect: Presence of HBcAg confers immunity."
+        "explanation": "Hepatitis B core antigen (HBcAg) is an intracellular viral particle; anti-HBs antibody is the marker that confers protective immunity against HBV."
       },
       {
         "id": "D",
         "text": "Only antibodies against HBsAg are present in those who have received Hepatitis A vaccine",
         "answer": "F",
-        "explanation": "This statement is incorrect: Only antibodies against HBsAg are present in those who have received Hepatitis A vaccine."
+        "explanation": "Hepatitis A vaccine induces specific anti-HAV IgG antibodies; it does not produce anti-HBs antibodies (which are generated by Hepatitis B vaccination)."
       },
       {
         "id": "E",
         "text": "Peginterferon and Ribavirin are the current drugs of choice in chronic HCV",
         "answer": "T",
-        "explanation": "This statement is correct: Peginterferon and Ribavirin are the current drugs of choice in chronic HCV."
+        "explanation": "Direct-acting antivirals (DAAs) have replaced peginterferon and ribavirin as the first-line treatment for chronic Hepatitis C virus (HCV) in children."
       }
     ]
   },
@@ -14919,31 +14919,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Acute leukaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Acute leukaemia."
+        "explanation": "Acute leukemia causes bone marrow infiltration and extramedullary hematopoiesis, presenting with hepatosplenomegaly, bleeding, and anemia."
       },
       {
         "id": "B",
         "text": "Leishmaniasis",
         "answer": "T",
-        "explanation": "This statement is correct: Leishmaniasis."
+        "explanation": "Visceral Leishmaniasis (Kala-azar) causes massive splenomegaly, hepatomegaly, pancytopenia, and mucosal bleeding."
       },
       {
         "id": "C",
         "text": "Sepsis with DIC",
         "answer": "T",
-        "explanation": "This statement is correct: Sepsis with DIC."
+        "explanation": "Severe sepsis with Disseminated Intravascular Coagulation (DIC) presents with bleeding, microvascular thrombosis, and organomegaly."
       },
       {
         "id": "D",
         "text": "Cirrhosis with portal hypertension",
         "answer": "T",
-        "explanation": "This statement is correct: Cirrhosis with portal hypertension."
+        "explanation": "Decompensated cirrhosis with portal hypertension causes congestive splenomegaly, hypersplenism, esophageal variceal bleeding, and anemia."
       },
       {
         "id": "E",
         "text": "Chronic liver disease",
         "answer": "T",
-        "explanation": "This statement is correct: Chronic liver disease."
+        "explanation": "Chronic liver disease impairs coagulation factor synthesis and causes portal hypertensive splenomegaly and anemia."
       }
     ]
   },
@@ -14956,31 +14956,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Bone marrow depression",
         "answer": "T",
-        "explanation": "This statement is correct: Bone marrow depression."
+        "explanation": "Chronic liver disease can cause bone marrow suppression secondary to chronic disease or viral etiologies."
       },
       {
         "id": "B",
         "text": "Hypersplenism",
         "answer": "T",
-        "explanation": "This statement is correct: Hypersplenism."
+        "explanation": "Portal hypertension causes splenomegaly and hypersplenism, accelerating sequestration and destruction of red blood cells."
       },
       {
         "id": "C",
         "text": "Vitamin K deficiency",
         "answer": "F",
-        "explanation": "This statement is incorrect: Vitamin K deficiency."
+        "explanation": "Vitamin K deficiency causes coagulopathy and bleeding but is not a direct primary mechanism of red cell anemia itself."
       },
       {
         "id": "D",
         "text": "Gastrointestinal bleeding",
         "answer": "T",
-        "explanation": "This statement is correct: Gastrointestinal bleeding."
+        "explanation": "Gastrointestinal bleeding from esophageal varices or portal hypertensive gastropathy causes acute/chronic anemia in cirrhosis."
       },
       {
         "id": "E",
         "text": "Consumptive coagulopathy",
         "answer": "T",
-        "explanation": "This statement is correct: Consumptive coagulopathy."
+        "explanation": "Consumptive coagulopathy and impaired hepatic synthesis of clotting factors promote mucosal bleeding and secondary anemia."
       }
     ]
   },
@@ -14993,31 +14993,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Severe kwashiorkor",
         "answer": "T",
-        "explanation": "This statement is correct: Severe kwashiorkor."
+        "explanation": "Severe kwashiorkor causes massive hepatomegaly due to severe hepatic steatosis (fatty liver infiltration) secondary to impaired apolipoprotein synthesis."
       },
       {
         "id": "B",
         "text": "Burkitt lymphoma",
         "answer": "T",
-        "explanation": "This statement is correct: Burkitt lymphoma."
+        "explanation": "Burkitt lymphoma can infiltrate the liver extensively, causing rapidly progressive massive hepatomegaly."
       },
       {
         "id": "C",
         "text": "Biliary atresia",
         "answer": "T",
-        "explanation": "This statement is correct: Biliary atresia."
+        "explanation": "Biliary atresia leads to progressive biliary cirrhosis, portal hypertension, and marked firm hepatomegaly."
       },
       {
         "id": "D",
         "text": "Schistosoma haematobium",
         "answer": "F",
-        "explanation": "This statement is incorrect: Schistosoma haematobium."
+        "explanation": "Schistosoma haematobium causes urinary schistosomiasis (hematuria and bladder granulomas); Schistosoma mansoni causes hepatosplenic schistosomiasis."
       },
       {
         "id": "E",
         "text": "Portal hypertension",
         "answer": "T",
-        "explanation": "This statement is correct: Portal hypertension."
+        "explanation": "Portal hypertension leads to congestive hepatosplenomegaly and collateral circulation formation."
       }
     ]
   },
@@ -15030,31 +15030,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Systolic murmur at the tricuspid area = Tricuspid stenosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Systolic murmur at the tricuspid area = Tricuspid stenosis."
+        "explanation": "Tricuspid stenosis produces a MID-DIASTOLIC murmur at the tricuspid area, not a systolic murmur."
       },
       {
         "id": "B",
         "text": "Systolic murmur at the pulmonic area = Pulmonary valve incompetence",
         "answer": "F",
-        "explanation": "This statement is incorrect: Systolic murmur at the pulmonic area = Pulmonary valve incompetence."
+        "explanation": "Pulmonary valve incompetence (regurgitation) produces a DIASTOLIC murmur (Graham Steell murmur) at the pulmonic area."
       },
       {
         "id": "C",
         "text": "Systolic murmur at the mitral area = Mitral valve stenosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Systolic murmur at the mitral area = Mitral valve stenosis."
+        "explanation": "Mitral valve stenosis produces a MID-DIASTOLIC rumbling murmur with presystolic accentuation at the apex."
       },
       {
         "id": "D",
         "text": "Systolic murmur at the aortic area = Aortic incompetence",
         "answer": "F",
-        "explanation": "This statement is incorrect: Systolic murmur at the aortic area = Aortic incompetence."
+        "explanation": "Aortic incompetence (regurgitation) produces an early DIASTOLIC decrescendo murmur at the aortic/Erb area."
       },
       {
         "id": "E",
         "text": "To-and",
         "answer": "F",
-        "explanation": "This is incorrect. ro murmur during systole = ASD — F."
+        "explanation": "A \"to-and-fro\" murmur occurs in combined systolic and diastolic lesions (e.g. AS + AR), not atrial septal defect."
       }
     ]
   },
@@ -15067,31 +15067,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Atrial septal defect",
         "answer": "F",
-        "explanation": "This statement is incorrect: Atrial septal defect."
+        "explanation": "Atrial septal defect (ASD) produces an ejection systolic murmur at the upper left sternal border (due to increased flow across the pulmonary valve), not a pansystolic murmur."
       },
       {
         "id": "B",
         "text": "Ventricular septal defect",
         "answer": "T",
-        "explanation": "This statement is correct: Ventricular septal defect."
+        "explanation": "Ventricular septal defect (VSD) characteristically produces a harsh pansystolic (holosystolic) murmur heard best at the lower left sternal border."
       },
       {
         "id": "C",
         "text": "Mitral stenosis",
         "answer": "F",
-        "explanation": "This is incorrect. mitral regurgitation."
+        "explanation": "Mitral stenosis produces a mid-diastolic rumbling murmur with presystolic accentuation, whereas Mitral Regurgitation produces a pansystolic murmur."
       },
       {
         "id": "D",
         "text": "Tricuspid incompetence",
         "answer": "T",
-        "explanation": "This statement is correct: Tricuspid incompetence."
+        "explanation": "Tricuspid incompetence (regurgitation) causes a pansystolic murmur heard best at the lower left sternal border that increases with inspiration."
       },
       {
         "id": "E",
         "text": "Pulmonary stenosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Pulmonary stenosis."
+        "explanation": "Pulmonary stenosis causes a crescendo-decrescendo ejection systolic murmur, not a pansystolic murmur."
       }
     ]
   },
@@ -15104,31 +15104,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Is not pansystolic",
         "answer": "T",
-        "explanation": "This statement is correct: Is not pansystolic."
+        "explanation": "Innocent (functional) heart murmurs are characteristically ejection systolic, soft (grade <=2/6), dynamic, and NEVER pansystolic or diastolic."
       },
       {
         "id": "B",
         "text": "May be caused by fever",
         "answer": "T",
-        "explanation": "This statement is correct: May be caused by fever."
+        "explanation": "Hyperdynamic physiological states such as fever, anemia, or exercise increase cardiac output and accentuate innocent flow murmurs."
       },
       {
         "id": "C",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Innocent murmurs represent physiological blood flow variations in structurally normal hearts with no pathognomonic structural pathology."
       },
       {
         "id": "D",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Distinguishing benign innocent murmurs from structural congenital heart disease prevents unnecessary medical interventions and parental anxiety."
       },
       {
         "id": "E",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "Innocent murmurs are diagnosed primarily by careful clinical auscultation (variable with position, soft grade, lack of radiation) without requiring routine diagnostic workup."
       }
     ]
   },
@@ -15141,31 +15141,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "ASD and Left ventricular hypertrophy",
         "answer": "F",
-        "explanation": "This statement is incorrect: ASD and Left ventricular hypertrophy."
+        "explanation": "ASD causes right ventricular volume overload and Right Ventricular Hypertrophy (RVH), not Left Ventricular Hypertrophy."
       },
       {
         "id": "B",
         "text": "PDA and loud S2",
         "answer": "T",
-        "explanation": "This statement is correct: PDA and loud S2."
+        "explanation": "Patent Ductus Arteriosus (PDA) causes increased pulmonary blood flow, resulting in a loud or accentuated pulmonary component of the second heart sound (P2)."
       },
       {
         "id": "C",
         "text": "TOF and Right ventricular hypertrophy",
         "answer": "T",
-        "explanation": "This statement is correct: TOF and Right ventricular hypertrophy."
+        "explanation": "Tetralogy of Fallot (TOF) characteristically presents with Right Ventricular Hypertrophy (boot-shaped heart on chest radiography)."
       },
       {
         "id": "D",
         "text": "TGA and atrial enlargement",
         "answer": "F",
-        "explanation": "This statement is incorrect: TGA and atrial enlargement."
+        "explanation": "Transposition of the Great Arteries (TGA) characteristically presents with severe cyanosis and \"egg-on-a-string\" cardiac silhouette, not isolated atrial enlargement."
       },
       {
         "id": "E",
         "text": "AS (Aortic Stenosis) and heart failure",
         "answer": "F",
-        "explanation": "This statement is incorrect: AS (Aortic Stenosis) and heart failure."
+        "explanation": "Critical aortic stenosis in neonates causes severe left ventricular failure and low cardiac output shock."
       }
     ]
   },
@@ -15178,31 +15178,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Sydenham's chorea is common in young girls",
         "answer": "T",
-        "explanation": "This statement is correct: Sydenham's chorea is common in young girls."
+        "explanation": "Sydenham chorea (St. Vitus dance) has a higher incidence in females and typically presents as an isolated, delayed major manifestation of acute rheumatic fever."
       },
       {
         "id": "B",
         "text": "Arthritis in the large joints is the most common manifestation",
         "answer": "T",
-        "explanation": "This statement is correct: Arthritis in the large joints is the most common manifestation."
+        "explanation": "Migratory polyarthritis affecting large joints (knees, ankles, elbows, wrists) is the most frequent major presenting manifestation of acute rheumatic fever (~75% of cases)."
       },
       {
         "id": "C",
         "text": "Arthritis resolves from days to weeks even without treatment",
         "answer": "T",
-        "explanation": "This statement is correct: Arthritis resolves from days to weeks even without treatment."
+        "explanation": "Rheumatic joint pain and inflammation are fleeting and characteristically resolve within 2–3 weeks even without treatment (and respond dramatically to salicylates)."
       },
       {
         "id": "D",
         "text": "Subcutaneous nodules are hard, painful nodes on the extensor surface",
         "answer": "F",
-        "explanation": "This statement is incorrect: Subcutaneous nodules are hard, painful nodes on the extensor surface."
+        "explanation": "Rheumatic subcutaneous nodules are FIRM and PAINLESS papules/nodules located over extensor surfaces and bony prominences."
       },
       {
         "id": "E",
         "text": "Only carditis can cause permanent heart damage",
         "answer": "T",
-        "explanation": "This statement is correct: Only carditis can cause permanent heart damage."
+        "explanation": "Carditis (pancarditis causing valvular damage, especially mitral regurgitation) is the ONLY manifestation of acute rheumatic fever that causes chronic permanent heart damage (Rheumatic Heart Disease)."
       }
     ]
   },
@@ -15215,31 +15215,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Arthralgia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Arthralgia."
+        "explanation": "Arthralgia (joint pain without objective swelling or inflammation) is a MINOR criterion in the Jones criteria, whereas migratory polyarthritis is a major criterion."
       },
       {
         "id": "B",
         "text": "Subcutaneous nodules",
         "answer": "T",
-        "explanation": "This statement is correct: Subcutaneous nodules."
+        "explanation": "Subcutaneous nodules are one of the 5 established MAJOR Jones criteria for acute rheumatic fever."
       },
       {
         "id": "C",
         "text": "Erythema nodosum",
-        "answer": "T",
-        "explanation": "Erythema nodosum — flagged: classically erythema marginatum is major."
+        "answer": "F",
+        "explanation": "Erythema MARGINATUM (evanescent serpiginous rash with pale centers) is a major Jones criterion; Erythema NODOSUM is NOT a Jones criterion."
       },
       {
         "id": "D",
         "text": "Increased ASO titre",
         "answer": "F",
-        "explanation": "This statement is incorrect: Increased ASO titre."
+        "explanation": "Elevated anti-streptolysin O (ASO) titer is evidence of preceding Group A Streptococcal infection, not a major diagnostic criterion."
       },
       {
         "id": "E",
         "text": "Fever",
         "answer": "F",
-        "explanation": "This statement is incorrect: Fever."
+        "explanation": "Fever is a MINOR diagnostic criterion under the Jones criteria."
       }
     ]
   },
@@ -15252,31 +15252,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Erythema nodosum",
         "answer": "F",
-        "explanation": "This is incorrect. should be erythema marginatum."
+        "explanation": "Erythema marginatum is a major criterion; Erythema nodosum is not part of the Jones criteria."
       },
       {
         "id": "B",
         "text": "Carditis",
         "answer": "T",
-        "explanation": "This statement is correct: Carditis."
+        "explanation": "Carditis (endocarditis, myocarditis, pericarditis) is a major diagnostic criterion for acute rheumatic fever."
       },
       {
         "id": "C",
         "text": "Huntington's chorea",
         "answer": "F",
-        "explanation": "This is incorrect. should be Sydenham chorea."
+        "explanation": "Sydenham chorea is the major neurologic criterion for acute rheumatic fever; Huntington chorea is a hereditary neurodegenerative disease."
       },
       {
         "id": "D",
         "text": "Elevated ESR",
         "answer": "F",
-        "explanation": "This is incorrect. minor criterion."
+        "explanation": "Elevated ESR or CRP is a MINOR diagnostic criterion."
       },
       {
         "id": "E",
         "text": "Fleeting polyarthralgia",
         "answer": "F",
-        "explanation": "This is incorrect. minor."
+        "explanation": "Fleeting polyarthralgia is a MINOR criterion (migratory polyarthritis is the major criterion)."
       }
     ]
   },
@@ -15289,31 +15289,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Fever",
         "answer": "F",
-        "explanation": "This statement is incorrect: Fever."
+        "explanation": "Fever IS a minor criterion under the Revised Jones Criteria (making the statement claiming it is NOT minor FALSE)."
       },
       {
         "id": "B",
         "text": "Raised ESR",
         "answer": "F",
-        "explanation": "This statement is incorrect: Raised ESR."
+        "explanation": "Raised ESR / CRP IS a minor criterion under the Revised Jones Criteria."
       },
       {
         "id": "C",
         "text": "Arthritis",
         "answer": "T",
-        "explanation": "This statement is correct: Arthritis."
+        "explanation": "Polyarthritis is a MAJOR criterion; when polyarthritis is present as a major criterion, monoarthralgia/polyarthralgia cannot be counted as a minor criterion."
       },
       {
         "id": "D",
         "text": "Prolonged PR interval",
         "answer": "F",
-        "explanation": "This statement is incorrect: Prolonged PR interval."
+        "explanation": "Prolonged PR interval on ECG IS a established minor criterion under the Jones criteria."
       },
       {
         "id": "E",
         "text": "Raised ASO titre",
         "answer": "F",
-        "explanation": "This statement is incorrect: Raised ASO titre."
+        "explanation": "Raised ASO titer serves as required laboratory evidence of preceding GAS infection, not a minor clinical criterion."
       }
     ]
   },
@@ -15326,31 +15326,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Osler nodes are painless pea-sized red nodes seen at the end of the fingers",
         "answer": "F",
-        "explanation": "This statement is incorrect: Osler nodes are painless pea-sized red nodes seen at the end of the fingers."
+        "explanation": "Osler nodes are painful, tender erythematous nodular lesions located on the pads of the digits."
       },
       {
         "id": "B",
         "text": "Janeway lesions are small painful haemorrhagic areas on the palm and sole",
         "answer": "F",
-        "explanation": "This statement is incorrect: Janeway lesions are small painful haemorrhagic areas on the palm and sole."
+        "explanation": "Janeway lesions are painless, non-tender erythematous or hemorrhagic macules on the palms and soles."
       },
       {
         "id": "C",
         "text": "Roth spots are seen in 50% of cases",
         "answer": "F",
-        "explanation": "This statement is incorrect: Roth spots are seen in 50% of cases."
+        "explanation": "Roth spots (retinal hemorrhages with pale pale centers) occur in < 5–10% of infective endocarditis cases."
       },
       {
         "id": "D",
         "text": "Osler nodes are common in children",
         "answer": "F",
-        "explanation": "This statement is incorrect: Osler nodes are common in children."
+        "explanation": "Osler nodes and peripheral embolic stigmata are uncommon in pediatric infective endocarditis compared to adult cases."
       },
       {
         "id": "E",
         "text": "Splenomegaly is a common finding",
         "answer": "T",
-        "explanation": "This statement is correct: Splenomegaly is a common finding."
+        "explanation": "Splenomegaly is a classic physical finding resulting from chronic reticuloendothelial stimulation in subacute infective endocarditis."
       }
     ]
   },
@@ -15363,31 +15363,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "3 major criteria",
         "answer": "F",
-        "explanation": "This statement is incorrect: 3 major criteria."
+        "explanation": "Modified Duke criteria define clinical IE by 2 major criteria, 1 major + 3 minor, or 5 minor criteria (not 3 major)."
       },
       {
         "id": "B",
         "text": "2 major and 1 minor criteria",
         "answer": "F",
-        "explanation": "This statement is incorrect: 2 major and 1 minor criteria."
+        "explanation": "Standard Duke criteria combination requires 2 major criteria OR 1 major + 3 minor criteria OR 5 minor criteria."
       },
       {
         "id": "C",
         "text": "3 minor criteria",
         "answer": "F",
-        "explanation": "This statement is incorrect: 3 minor criteria."
+        "explanation": "Three minor criteria alone are insufficient to meet the definitive clinical diagnostic threshold for infective endocarditis."
       },
       {
         "id": "D",
         "text": "5 minor criteria",
         "answer": "T",
-        "explanation": "This statement is correct: 5 minor criteria."
+        "explanation": "Under the Modified Duke Criteria, the presence of 5 minor criteria establishes a definitive clinical diagnosis of infective endocarditis."
       },
       {
         "id": "E",
         "text": "1 major and 2 minor criteria",
         "answer": "F",
-        "explanation": "This statement is incorrect: 1 major and 2 minor criteria."
+        "explanation": "One major and 2 minor criteria define \"possible\" infective endocarditis, not definitive endocarditis."
       }
     ]
   },
@@ -15400,31 +15400,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Increased JVP",
         "answer": "F",
-        "explanation": "This is incorrect. older children."
+        "explanation": "Elevated JVP is difficult to evaluate in infants due to short thick necks; hepatomegaly is the primary sign of systemic venous congestion."
       },
       {
         "id": "B",
         "text": "S3 gallop",
         "answer": "T",
-        "explanation": "This statement is correct: S3 gallop."
+        "explanation": "An S3 gallop rhythm (third heart sound) indicates rapid ventricular filling and left ventricular dysfunction in pediatric heart failure."
       },
       {
         "id": "C",
         "text": "Cardiomegaly",
         "answer": "T",
-        "explanation": "This statement is correct: Cardiomegaly."
+        "explanation": "Cardiomegaly (cardiothoracic ratio > 60% on chest radiograph) is a universal finding in infant congestive heart failure."
       },
       {
         "id": "D",
         "text": "Splenomegaly",
         "answer": "F",
-        "explanation": "This is incorrect. hepatomegaly."
+        "explanation": "Hepatomegaly (firm smooth liver enlargement) is the cardinal sign of systemic venous congestion in infants, whereas isolated splenomegaly is not a primary feature of heart failure."
       },
       {
         "id": "E",
         "text": "Pedal oedema",
         "answer": "F",
-        "explanation": "This is incorrect. peri-orbital & sacral."
+        "explanation": "Infants develop periorbital and sacral edema rather than dependent pedal edema seen in older children."
       }
     ]
   },
@@ -15437,31 +15437,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Jugular venous distension",
         "answer": "T",
-        "explanation": "This statement is correct: Jugular venous distension."
+        "explanation": "Jugular venous distension is an early sign of right-sided heart failure and elevated central venous pressure in older children."
       },
       {
         "id": "B",
         "text": "Pulmonary hypertension",
         "answer": "F",
-        "explanation": "This statement is incorrect: Pulmonary hypertension."
+        "explanation": "Pulmonary hypertension is an underlying etiology or late vascular sequela, not an early clinical sign of heart failure."
       },
       {
         "id": "C",
         "text": "Pedal oedema",
         "answer": "T",
-        "explanation": "This statement is correct: Pedal oedema."
+        "explanation": "Pedal and ankle edema indicate fluid retention and elevated systemic venous pressure in older children."
       },
       {
         "id": "D",
         "text": "Hepatomegaly",
         "answer": "T",
-        "explanation": "This statement is correct: Hepatomegaly."
+        "explanation": "Hepatomegaly is one of the earliest and most reliable physical signs of congestive heart failure in pediatric patients."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Diagnosis of heart failure requires evaluating a constellation of clinical signs (tachypnea, tachycardia, hepatomegaly, cardiomegaly)."
       }
     ]
   },
@@ -15474,31 +15474,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Poor feeding",
         "answer": "T",
-        "explanation": "This statement is correct: Poor feeding."
+        "explanation": "Poor feeding (diaphoresis, sucking fatigue, interruptions during feeds) is a classic presenting symptom of congestive heart failure in infants."
       },
       {
         "id": "B",
         "text": "Failure to thrive",
         "answer": "T",
-        "explanation": "This statement is correct: Failure to thrive."
+        "explanation": "Failure to thrive due to increased metabolic demands and inadequate caloric intake is a major sign of congenital heart disease."
       },
       {
         "id": "C",
         "text": "Irritability",
         "answer": "T",
-        "explanation": "This statement is correct: Irritability."
+        "explanation": "Irritability and restlessness reflect chronic tissue hypoxemia or low cardiac output in affected infants."
       },
       {
         "id": "D",
         "text": "Tachypnoea",
         "answer": "T",
-        "explanation": "This statement is correct: Tachypnoea."
+        "explanation": "Tachypnea (resting respiratory rate > 60/min in infants) is the earliest and most consistent sign of pediatric pulmonary congestion."
       },
       {
         "id": "E",
         "text": "Hepatomegaly",
         "answer": "T",
-        "explanation": "This statement is correct: Hepatomegaly."
+        "explanation": "Hepatomegaly develops rapidly in infants with right-sided heart failure or systemic venous congestion."
       }
     ]
   },
@@ -15511,31 +15511,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Polycythaemia",
         "answer": "T",
-        "explanation": "TRUE: Polycythaemia is a compensatory response to chronic arterial hypoxaemia. The kidney produces erythropoietin, stimulating RBC production to increase oxygen-carrying capacity."
+        "explanation": "Chronic arterial hypoxemia stimulates renal erythropoietin secretion, inducing secondary polycythemia to increase blood oxygen content."
       },
       {
         "id": "B",
         "text": "Iron deficiency anaemia",
         "answer": "T",
-        "explanation": "TRUE: Paradoxically, iron deficiency anaemia occurs in cyanotic CHD due to high RBC turnover depleting iron stores. Iron-deficient microcytic red cells are less deformable, worsening hyperviscosity risk."
+        "explanation": "Relative iron deficiency anemia frequently occurs in cyanotic CHD due to rapid red cell turnover, exacerbating hyperviscosity symptoms."
       },
       {
         "id": "C",
         "text": "Brain abscess",
         "answer": "T",
-        "explanation": "TRUE: In cyanotic CHD with right-to-left shunt, venous emboli and bacteria bypass the pulmonary capillary filter, entering the systemic circulation and seeding the brain, causing abscess."
+        "explanation": "Right-to-left intracardiac shunting allows venous microemboli and bacteria to bypass pulmonary phagocytic clearance, predisposing to brain abscess."
       },
       {
         "id": "D",
         "text": "Finger clubbing",
         "answer": "T",
-        "explanation": "TRUE: Clubbing results from chronic peripheral hypoxia causing periosteal new bone formation and soft tissue hypertrophy in the distal fingers and toes."
+        "explanation": "Digital clubbing of fingers and toes develops secondary to chronic tissue hypoxia and megakaryocyte entrapment in distal capillaries."
       },
       {
         "id": "E",
         "text": "Renal vein thrombosis",
         "answer": "T",
-        "explanation": "TRUE: Hyperviscosity from polycythaemia predisposes to thromboembolism, including renal vein thrombosis, stroke, and pulmonary thrombosis."
+        "explanation": "Severe polycythemia and hyperviscosity predispose cyanotic infants to systemic thrombosis, including cerebral vascular accidents and renal vein thrombosis."
       }
     ]
   },
@@ -15547,32 +15547,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "The diastolic is measured as two",
-        "answer": "T",
-        "explanation": "The diastolic is measured as two — hirds of the systolic — T."
+        "answer": "F",
+        "explanation": "Diastolic blood pressure is measured via Korotkoff phase V (disappearance of sounds) in children, not calculated as a fixed two-thirds of systolic BP."
       },
       {
         "id": "B",
         "text": "A wide pulse pressure indicates heart block",
         "answer": "F",
-        "explanation": "This statement is incorrect: A wide pulse pressure indicates heart block."
+        "explanation": "A wide pulse pressure indicates aortic regurgitation, patent ductus arteriosus (PDA), or arteriovenous malformation, not heart block."
       },
       {
         "id": "C",
         "text": "In the flush method the systolic is obtained",
         "answer": "T",
-        "explanation": "This statement is correct: In the flush method the systolic is obtained."
+        "explanation": "The flush method is a technique used in infants when auscultation is difficult to determine mean systemic arterial pressure."
       },
       {
         "id": "D",
         "text": "The upper edge of the bladder should cover the upper two",
-        "answer": "T",
-        "explanation": "The upper edge of the bladder should cover the upper two — hirds of the arm — F."
+        "answer": "F",
+        "explanation": "The inflatable bladder of the BP cuff should encircle at least 80–100% of the arm circumference and cover 40% of the arm length (between acromion and olecranon)."
       },
       {
         "id": "E",
         "text": "BP difference more than 20mmHg in the upper and lower limbs is diagnostic of coarctation of the aorta",
         "answer": "T",
-        "explanation": "This statement is correct: BP difference more than 20mmHg in the upper and lower limbs is diagnostic of coarctation of the aorta."
+        "explanation": "A systolic blood pressure gradient > 15–20 mmHg between upper and lower extremities (with diminished femoral pulses) is diagnostic of coarctation of the aorta."
       }
     ]
   },
@@ -15584,32 +15584,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Diastolic BP is estimated as 2/3 of systolic",
-        "answer": "T",
-        "explanation": "This statement is correct: Diastolic BP is estimated as 2/3 of systolic."
+        "answer": "F",
+        "explanation": "Diastolic BP should be measured accurately via Korotkoff V sounds rather than using a 2/3 formula."
       },
       {
         "id": "B",
         "text": "BP of 90/60mmHg is normal for a 3-year-old",
         "answer": "T",
-        "explanation": "This statement is correct: BP of 90/60mmHg is normal for a 3-year-old."
+        "explanation": "A blood pressure of 90/60 mmHg falls within the 50th–90th percentile range for a healthy 3-year-old child."
       },
       {
         "id": "C",
         "text": "The edge of the bladder should cover 2/3 of the lower arm",
-        "answer": "T",
-        "explanation": "This statement is correct: The edge of the bladder should cover 2/3 of the lower arm."
+        "answer": "F",
+        "explanation": "The BP cuff bladder width should cover approximately 40% of the upper arm circumference/length, not 2/3 of the lower arm."
       },
       {
         "id": "D",
         "text": "Coarctation of the aorta is a cause of persistent elevation of blood pressure",
         "answer": "T",
-        "explanation": "This statement is correct: Coarctation of the aorta is a cause of persistent elevation of blood pressure."
+        "explanation": "Coarctation of the aorta is a major secondary cause of upper-extremity hypertension in children."
       },
       {
         "id": "E",
         "text": "Hydroxyurea reduces frequency of vaso-occlusive crises",
         "answer": "T",
-        "explanation": "TRUE: Hydroxyurea increases HbF and is disease-modifying therapy in sickle cell disease."
+        "explanation": "Hydroxyurea is a disease-modifying therapy for sickle cell disease that increases HbF and reduces vaso-occlusive crises."
       }
     ]
   },
@@ -15622,31 +15622,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Fever of at least 3 days",
         "answer": "F",
-        "explanation": "This is incorrect. actual criterion: ≥5 days."
+        "explanation": "Diagnostic criteria for Kawasaki disease require persistent fever for AT LEAST 5 DAYS (not 3 days)."
       },
       {
         "id": "B",
         "text": "Bilateral non-purulent conjunctivitis",
         "answer": "T",
-        "explanation": "This statement is correct: Bilateral non-purulent conjunctivitis."
+        "explanation": "Bilateral non-exudative (non-purulent) conjunctival injection is one of the 5 principal diagnostic criteria for Kawasaki disease."
       },
       {
         "id": "C",
         "text": "Bilateral cervical lymphadenopathy",
         "answer": "F",
-        "explanation": "This statement is incorrect: Bilateral cervical lymphadenopathy."
+        "explanation": "Cervical lymphadenopathy in Kawasaki disease is typically UNILATERAL (non-suppurative, >= 1.5 cm in diameter)."
       },
       {
         "id": "D",
         "text": "Strawberry tongue",
         "answer": "T",
-        "explanation": "This statement is correct: Strawberry tongue."
+        "explanation": "Strawberry tongue (erythema with prominent fungiform papillae) and cracked red lips are classic oral mucosal findings."
       },
       {
         "id": "E",
         "text": "Oedema of the hand",
         "answer": "T",
-        "explanation": "This statement is correct: Oedema of the hand."
+        "explanation": "Acute non-pitting edema and erythema of the hands and feet are characteristic extremity changes in the acute phase of Kawasaki disease."
       }
     ]
   },
@@ -15659,31 +15659,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "F75 contains 100kcal/100ml",
         "answer": "F",
-        "explanation": "This statement is incorrect: F75 contains 100kcal/100ml."
+        "explanation": "F-75 therapeutic formula contains 75 kcal per 100 mL (0.9g protein per 100 mL), whereas F-100 contains 100 kcal per 100 mL."
       },
       {
         "id": "B",
         "text": "Kwashi-pap contains high protein, low energy diet",
         "answer": "F",
-        "explanation": "This statement is incorrect: Kwashi-pap contains high protein, low energy diet."
+        "explanation": "Traditional Kwashi-pap (cereal gruel) is low energy and low protein, contributing to malnutrition if unfortified."
       },
       {
         "id": "C",
         "text": "Diet contains low protein, moderate potassium",
         "answer": "F",
-        "explanation": "This is incorrect. low protein AND low sodium, but HIGH potassium/magnesium."
+        "explanation": "WHO F-75 formula during the stabilization phase contains low protein, low sodium, and HIGH potassium and magnesium."
       },
       {
         "id": "D",
         "text": "Small amount of feeds is introduced in the rehabilitation phase",
         "answer": "F",
-        "explanation": "This statement is incorrect: Small amount of feeds is introduced in the rehabilitation phase."
+        "explanation": "In the rehabilitation phase, unrestricted energetic feeding (F-100 / RUTF) is encouraged for rapid catch-up growth."
       },
       {
         "id": "E",
         "text": "Insulin resistance underpins the pathophysiology behind re",
-        "answer": "F",
-        "explanation": "This is incorrect. eeding syndrome — T."
+        "answer": "T",
+        "explanation": "Refeeding syndrome is driven by rapid carbohydrate intake triggering insulin secretion, causing intracellular shift of phosphate, potassium, and magnesium."
       }
     ]
   },
@@ -15696,31 +15696,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Severe shock is a contraindication to enteral feeding",
         "answer": "T",
-        "explanation": "This statement is correct: Severe shock is a contraindication to enteral feeding."
+        "explanation": "Severe septic or cardiogenic shock with splanchnic hypoperfusion is a contraindication to enteral feeding due to risk of intestinal ischemia and NEC."
       },
       {
         "id": "B",
         "text": "Enteral feeding supports GIT lymphoid tissues",
         "answer": "T",
-        "explanation": "This statement is correct: Enteral feeding supports GIT lymphoid tissues."
+        "explanation": "Enteral nutrition maintains gut mucosal integrity and supports gut-associated lymphoid tissue (GALT) immune function."
       },
       {
         "id": "C",
         "text": "TPN is contraindicated in all newborns with NEC",
         "answer": "F",
-        "explanation": "This is incorrect. indicated/lifesaving."
+        "explanation": "Total Parenteral Nutrition (TPN) is essential and lifesaving in neonates with severe necrotizing enterocolitis (NEC) during bowel rest."
       },
       {
         "id": "D",
         "text": "Insulin secretion and resistance is associated with re",
-        "answer": "F",
-        "explanation": "This is incorrect. eeding syndrome — T."
+        "answer": "T",
+        "explanation": "Refeeding syndrome involves rapid insulin surge driving glucose, phosphate, potassium, and magnesium into cells."
       },
       {
         "id": "E",
         "text": "Exclusive breastfeeding is recommended for the first 6 months",
         "answer": "T",
-        "explanation": "TRUE: WHO recommends exclusive breastfeeding for 6 months followed by continued breastfeeding with complementary foods."
+        "explanation": "Exclusive breastfeeding for the first 6 months is globally recommended by WHO for optimal child health and development."
       }
     ]
   },
@@ -15733,31 +15733,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Hyperglycaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Hyperglycaemia."
+        "explanation": "Hyperglycemia is a common metabolic complication of TPN resulting from excessive dextrose infusion rates or insulin resistance."
       },
       {
         "id": "B",
         "text": "Hypoglycaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Hypoglycaemia."
+        "explanation": "Hypoglycemia can occur as a rebound phenomenon if TPN infusions containing high dextrose concentrations are abruptly discontinued."
       },
       {
         "id": "C",
         "text": "Hyperlipidaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Hyperlipidaemia."
+        "explanation": "Hyperlipidemia (hypertriglyceridemia) occurs during IV lipid emulsion administration if clearance capacity is exceeded."
       },
       {
         "id": "D",
         "text": "Hyperammonaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Hyperammonaemia."
+        "explanation": "Hyperammonemia can occur during TPN if amino acid solutions lack essential urea cycle intermediates or if hepatic tolerance is exceeded."
       },
       {
         "id": "E",
         "text": "Metabolic acidosis",
         "answer": "T",
-        "explanation": "This statement is correct: Metabolic acidosis."
+        "explanation": "Metabolic acidosis can result from excessive chloride administration or metabolism of synthetic amino acid solutions in TPN."
       }
     ]
   },
@@ -15770,31 +15770,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Loss of lamina dura — Burkitt Lymphoma",
         "answer": "T",
-        "explanation": "This statement is correct: Loss of lamina dura — Burkitt Lymphoma."
+        "explanation": "Loss of the lamina dura surrounding tooth sockets on jaw radiographs is a classic early radiologic finding of jaw involvement in endemic Burkitt lymphoma."
       },
       {
         "id": "B",
         "text": "Mediastinal enlargement — AML M2 subtype",
         "answer": "F",
-        "explanation": "This statement is incorrect: Mediastinal enlargement — AML M2 subtype."
+        "explanation": "Mediastinal mass enlargement is characteristic of T-cell Acute Lymphoblastic Leukemia / Lymphoma (T-ALL), not AML M2."
       },
       {
         "id": "C",
         "text": "Calcifications — Neuroblastoma",
         "answer": "T",
-        "explanation": "This statement is correct: Calcifications — Neuroblastoma."
+        "explanation": "Fine, stippled or punctate calcifications within an abdominal mass on X-ray or CT are characteristic of Neuroblastoma (~80–90% of cases)."
       },
       {
         "id": "D",
         "text": "Lack of dye excretion from right kidney — Left Nephroblastoma",
         "answer": "F",
-        "explanation": "This statement is incorrect: Lack of dye excretion from right kidney — Left Nephroblastoma."
+        "explanation": "Non-excretion of dye on IVU from a left non-functioning kidney would correspond to left renal pathology, not right."
       },
       {
         "id": "E",
         "text": "Sunburst appearance — Ewing sarcoma",
         "answer": "F",
-        "explanation": "This statement is incorrect: Sunburst appearance — Ewing sarcoma."
+        "explanation": "Sunburst periosteal reaction is characteristic of Osteosarcoma; Ewing sarcoma typically demonstrates an \"onion-skin\" (lamellated) appearance."
       }
     ]
   },
@@ -15807,31 +15807,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Neuroblastoma — curvilinear calcification",
         "answer": "F",
-        "explanation": "This is incorrect. stippled/punctate."
+        "explanation": "Neuroblastoma characteristically exhibits stippled or punctate calcifications within the retroperitoneal mass (curvilinear calcifications are less typical)."
       },
       {
         "id": "B",
         "text": "Burkitt's Lymphoma",
-        "answer": "T",
-        "explanation": "Burkitt's Lymphoma — hickened lamina dura — F (loss, not thickening."
+        "answer": "F",
+        "explanation": "Burkitt lymphoma causes LOSS (destruction) of the lamina dura around teeth, not thickening."
       },
       {
         "id": "C",
         "text": "Ewing sarcoma — sunburst appearance",
         "answer": "F",
-        "explanation": "This is incorrect. onion-skin."
+        "explanation": "Ewing sarcoma characteristically produces an \"onion-skin\" multilamellar periosteal reaction, whereas Osteosarcoma produces a sunburst pattern."
       },
       {
         "id": "D",
         "text": "Nephroblastoma — curvilinear calcification",
         "answer": "T",
-        "explanation": "Nephroblastoma — curvilinear calcification — 5-10% of cases."
+        "explanation": "Wilms tumor (Nephroblastoma) can demonstrate smooth, curvilinear rim calcifications in 5–10% of cases."
       },
       {
         "id": "E",
         "text": "Osteosarcoma — onion skin appearance",
         "answer": "F",
-        "explanation": "This is incorrect. sunburst."
+        "explanation": "Osteosarcoma characteristically demonstrates a \"sunburst\" periosteal reaction and Codman triangle, whereas Ewing sarcoma shows onion-skin layering."
       }
     ]
   },
@@ -15844,31 +15844,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Unilateral and hereditary is the common cause",
         "answer": "F",
-        "explanation": "This statement is incorrect: Unilateral and hereditary is the common cause."
+        "explanation": "Unilateral retinoblastoma accounts for ~60% of cases and is predominantly non-hereditary (somatic RB1 mutations)."
       },
       {
         "id": "B",
         "text": "Bilateral is commoner in older children",
         "answer": "F",
-        "explanation": "This statement is incorrect: Bilateral is commoner in older children."
+        "explanation": "Bilateral retinoblastoma is hereditary and presents at a younger age (median age 12 months), whereas unilateral presents later (median 24 months)."
       },
       {
         "id": "C",
         "text": "Hereditary is commonly bilateral and unifocal",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hereditary is commonly bilateral and unifocal."
+        "explanation": "Hereditary retinoblastoma is characteristically BILATERAL and MULTIFOCAL due to a germline RB1 mutation in all somatic cells."
       },
       {
         "id": "D",
         "text": "Strabismus is an initial presenting symptom",
         "answer": "T",
-        "explanation": "This statement is correct: Strabismus is an initial presenting symptom."
+        "explanation": "Strabismus (crossed eyes) is the second most common presenting sign of retinoblastoma after leukocoria."
       },
       {
         "id": "E",
         "text": "Hereditary type is usually because of new mutations and parents are not affected",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hereditary type is usually because of new mutations and parents are not affected."
+        "explanation": "Approximately 80% of children with hereditary retinoblastoma inherit the germline mutation de novo, but parent carrier status must be screened."
       }
     ]
   },
@@ -15881,31 +15881,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "The primary goal is to cure",
         "answer": "T",
-        "explanation": "This statement is correct: The primary goal is to cure."
+        "explanation": "The primary, non-negotiable objective of retinoblastoma treatment is patient survival (curing the malignancy)."
       },
       {
         "id": "B",
         "text": "The second goal includes preservation of vision and the eye itself",
         "answer": "T",
-        "explanation": "This statement is correct: The second goal includes preservation of vision and the eye itself."
+        "explanation": "Secondary objectives of treatment are eye preservation (avoiding enucleation) and preservation of functional vision."
       },
       {
         "id": "C",
         "text": "Enucleation is indicated if useful vision can be salvaged",
         "answer": "F",
-        "explanation": "This statement is incorrect: Enucleation is indicated if useful vision can be salvaged."
+        "explanation": "Enucleation is indicated for large intraocular tumors with no hope of useful vision; if useful vision can be salvaged, eye-sparing therapies are used."
       },
       {
         "id": "D",
         "text": "For large tumours, external beam irradiation precedes chemotherapy",
         "answer": "F",
-        "explanation": "This statement is incorrect: For large tumours, external beam irradiation precedes chemotherapy."
+        "explanation": "Neoadjuvant systemic chemotherapy (chemoreduction) is administered FIRST to shrink large tumors before focal therapies or radiotherapy."
       },
       {
         "id": "E",
         "text": "Episcleral plaque radiotherapy is also a modality of treatment with less morbidity",
         "answer": "T",
-        "explanation": "This statement is correct: Episcleral plaque radiotherapy is also a modality of treatment with less morbidity."
+        "explanation": "Episcleral plaque brachytherapy (plaque radiotherapy) provides targeted focal radiation with reduced morbidity compared to external beam radiation."
       }
     ]
   },
@@ -15918,31 +15918,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Neuroblastoma",
         "answer": "F",
-        "explanation": "Neuroblastoma peaks in infancy and early childhood (median age 2 years); very common at 10 months."
+        "explanation": "Neuroblastoma is the commonest extracranial solid tumor of infancy, with median age of diagnosis ~18 months (frequent at 10 months)."
       },
       {
         "id": "B",
         "text": "Nephroblastoma (Wilms' tumour)",
         "answer": "F",
-        "explanation": "Nephroblastoma peaks at 2-5 years; can occur at 10 months but less commonly than neuroblastoma."
+        "explanation": "Nephroblastoma (Wilms tumor) commonly presents between 1 and 4 years of age and can occur in a 10-month-old."
       },
       {
         "id": "C",
         "text": "Retinoblastoma",
         "answer": "F",
-        "explanation": "Retinoblastoma typically presents before 5 years; the hereditary form often presents in infancy."
+        "explanation": "Hereditary retinoblastoma typically presents during the first year of life (median 12 months)."
       },
       {
         "id": "D",
         "text": "Hepatoblastoma",
         "answer": "F",
-        "explanation": "Hepatoblastoma predominantly occurs in children under 3 years of age; 10 months is within its peak age range."
+        "explanation": "Hepatoblastoma is the primary liver malignancy of early childhood, predominantly diagnosed under 2 years of age."
       },
       {
         "id": "E",
         "text": "Ewing's sarcoma",
         "answer": "T",
-        "explanation": "CORRECT (LEAST LIKELY): Ewing's sarcoma predominantly affects older children and adolescents (peak 10-20 years). It is extremely rare before 5 years of age, making it the least likely malignancy at 10 months."
+        "explanation": "Ewing sarcoma affects older children and adolescents (peak 10–20 years) and is EXTREMELY RARE in infants under 1 year of age."
       }
     ]
   },
@@ -15955,31 +15955,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Acute lymphoblastic leukaemia/lymphoma",
         "answer": "F",
-        "explanation": "ALL is predominantly a childhood cancer but also occurs in adults (15-20% of adult leukaemia cases)."
+        "explanation": "Acute Lymphoblastic Leukemia (ALL) occurs in both children and adults (accounting for ~15–20% of adult leukemias)."
       },
       {
         "id": "B",
         "text": "Osteosarcoma",
         "answer": "F",
-        "explanation": "Osteosarcoma peaks in adolescence but can occur in adults, especially in the context of Paget's disease."
+        "explanation": "Osteosarcoma has a bimodal distribution, peaking in adolescents and occurring in elderly patients with Paget disease."
       },
       {
         "id": "C",
         "text": "Hodgkin lymphoma",
         "answer": "F",
-        "explanation": "Hodgkin lymphoma has a bimodal age distribution — peaks in young adults (15-35 years) and again in older adults."
+        "explanation": "Hodgkin lymphoma has a bimodal age distribution peaking in young adults (15–35 years) and older adults."
       },
       {
         "id": "D",
         "text": "Medulloblastoma",
         "answer": "F",
-        "explanation": "Medulloblastoma is most common in children but can occur in adults (about 30% of cases)."
+        "explanation": "Medulloblastoma occurs primarily in children but accounts for ~30% of adult posterior fossa tumors."
       },
       {
         "id": "E",
         "text": "Retinoblastoma",
         "answer": "T",
-        "explanation": "CORRECT: Retinoblastoma is almost exclusively a childhood tumour — >95% of cases are diagnosed before 5 years of age. Adult retinoblastoma is extremely rare."
+        "explanation": "Retinoblastoma is almost EXCLUSIVELY a pediatric neoplasm, with >95% of cases diagnosed before 5 years of age and adult cases virtually non-existent."
       }
     ]
   },
@@ -15992,31 +15992,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Hyperuricaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Hyperuricaemia."
+        "explanation": "Massive purine catabolism during rapid tumor lysis produces marked hyperuricemia, risking uric acid nephropathy."
       },
       {
         "id": "B",
         "text": "Hypokalemia",
         "answer": "F",
-        "explanation": "This is incorrect. hyperkalaemia."
+        "explanation": "Tumor Lysis Syndrome causes severe HYPERKALEMIA (release of intracellular potassium), which can cause fatal cardiac arrhythmias."
       },
       {
         "id": "C",
         "text": "Hypernatraemia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hypernatraemia."
+        "explanation": "Hypernatremia is not a component of Tumor Lysis Syndrome (the primary electrolyte disturbances affect K, P, Ca, and uric acid)."
       },
       {
         "id": "D",
         "text": "Hypocalcaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Hypocalcaemia."
+        "explanation": "Hyperphosphatemia causes secondary HYPOCALCEMIA due to calcium-phosphate precipitation, presenting with tetany and arrhythmias."
       },
       {
         "id": "E",
         "text": "Hypophosphatemia",
         "answer": "F",
-        "explanation": "This is incorrect. hyperphosphataemia."
+        "explanation": "Tumor Lysis Syndrome causes severe HYPERPHOSPHATEMIA due to release of intracellular nucleic acids."
       }
     ]
   },
@@ -16029,31 +16029,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Burkitt lymphoma",
         "answer": "T",
-        "explanation": "This statement is correct: Burkitt lymphoma."
+        "explanation": "Paraspinal Burkitt lymphoma can invade the spinal canal via intervertebral foramina, causing acute spinal cord compression."
       },
       {
         "id": "B",
         "text": "Sacroiliitis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Sacroiliitis."
+        "explanation": "Sacroiliitis is inflammation of the sacroiliac joints seen in spondyloarthropathies and does not cause spinal cord compression."
       },
       {
         "id": "C",
         "text": "Neuroblastoma",
         "answer": "T",
-        "explanation": "This statement is correct: Neuroblastoma."
+        "explanation": "Neuroblastoma frequently arises from sympathetic ganglia and expands through neural foramina (\"dumbbell tumor\") to compress the spinal cord."
       },
       {
         "id": "D",
         "text": "Arnold-Chiari malformation",
         "answer": "F",
-        "explanation": "This statement is incorrect: Arnold-Chiari malformation."
+        "explanation": "Chiari malformation involves hindbrain herniation through the foramen magnum, causing brainstem/cervical cord compression rather than lower spinal cord compression."
       },
       {
         "id": "E",
         "text": "Pott's disease",
         "answer": "T",
-        "explanation": "This statement is correct: Pott's disease."
+        "explanation": "Pott disease (tuberculous spondylitis) causes vertebral body destruction, gibbus deformity, and epidural abscess leading to spinal cord compression."
       }
     ]
   },
@@ -16066,31 +16066,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "To maintain optimal health throughout the course of study",
         "answer": "T",
-        "explanation": "This statement is correct: To maintain optimal health throughout the course of study."
+        "explanation": "Maintaining physical, mental, and social health throughout the educational period is a primary objective of school health programs."
       },
       {
         "id": "B",
         "text": "Programs on health should include health talks, drama, role plays",
         "answer": "T",
-        "explanation": "This statement is correct: Programs on health should include health talks, drama, role plays."
+        "explanation": "Health education in schools utilizes interactive methodologies such as health talks, role plays, and drama to foster healthy behaviors."
       },
       {
         "id": "C",
         "text": "Parents should be involved in the health of their children",
         "answer": "T",
-        "explanation": "This statement is correct: Parents should be involved in the health of their children."
+        "explanation": "Parental involvement and community engagement are essential for reinforcing school health interventions."
       },
       {
         "id": "D",
         "text": "Provision of unhygienic environment",
         "answer": "F",
-        "explanation": "This statement is incorrect: Provision of unhygienic environment."
+        "explanation": "School health programs aim to provide a safe, clean, and hygienic physical environment for learning."
       },
       {
         "id": "E",
         "text": "Early diagnosis is unhealthful",
         "answer": "F",
-        "explanation": "This statement is incorrect: Early diagnosis is unhealthful."
+        "explanation": "Early detection and prompt management of health problems (e.g. vision/hearing screening) are core components of school health services."
       }
     ]
   },
@@ -16102,32 +16102,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Health education is a subject in the national school curriculum",
-        "answer": "T",
-        "explanation": "TRUE: Health education (sometimes integrated into Social Studies or Biology) is a formal component of the national school curriculum in Nigeria and most countries."
+        "answer": "F",
+        "explanation": "Children with Sickle Cell Anemia (asplenia) require aggressive immunization against encapsulated bacteria (pneumococcus, meningococcus, Hib); vaccination is strongly indicated, not contraindicated."
       },
       {
         "id": "B",
         "text": "It covers aspects of sexual and reproductive health",
         "answer": "T",
-        "explanation": "TRUE: School health education includes sexual and reproductive health topics — puberty, relationships, STI prevention — appropriate to the age group."
+        "explanation": "Children undergoing maintenance chemotherapy for leukemia are severely immunosuppressed; live attenuated vaccines (BCG, OPV, MMR) are strictly contraindicated."
       },
       {
         "id": "C",
         "text": "Health education is taught only by qualified health professionals, not teachers",
-        "answer": "F",
-        "explanation": "FALSE: While health professionals may participate, health education in schools is primarily delivered by trained teachers. Collaboration between health workers and teachers is encouraged but health professionals alone do not deliver it."
+        "answer": "T",
+        "explanation": "HIV-infected children with severe immunosuppression prior to ART stabilization should not receive live attenuated vaccines."
       },
       {
         "id": "D",
         "text": "It includes education on hygiene, nutrition, and disease prevention",
-        "answer": "F",
-        "explanation": "FALSE: Actually TRUE — school health education comprehensively covers personal hygiene, nutrition, oral health, disease prevention, and mental health. This statement is TRUE."
+        "answer": "T",
+        "explanation": "Hematopoietic stem cell transplant recipients undergo complete immune ablation; live vaccines are contraindicated until immune reconstitution occurs."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Severe Combined Immunodeficiency (SCID) is an absolute contraindication to all live vaccines due to risk of fatal vaccine strain infection."
       }
     ]
   },
@@ -16139,32 +16139,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Urticaria is a common association",
-        "answer": "T",
-        "explanation": "This statement is correct: Urticaria is a common association."
+        "answer": "F",
+        "explanation": "Herd immunity requires high population coverage thresholds (e.g. 80–95%), not a small proportion."
       },
       {
         "id": "B",
         "text": "It is associated with acute bronchospasms",
-        "answer": "T",
-        "explanation": "This statement is correct: It is associated with acute bronchospasms."
+        "answer": "F",
+        "explanation": "Live attenuated vaccines induce robust mucosal and systemic immunity and contribute effectively to herd immunity."
       },
       {
         "id": "C",
         "text": "It is a common cause of intussusception",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is a common cause of intussusception."
+        "explanation": "Transplacental IgG transfer provides passive temporary immunity, which is distinct from active vaccination."
       },
       {
         "id": "D",
         "text": "Anaemia of chronic disease is inevitable",
-        "answer": "T",
-        "explanation": "This statement is correct: Anaemia of chronic disease is inevitable."
+        "answer": "F",
+        "explanation": "Vaccination does not guarantee 100% immunization if primary vaccine failure or cold chain break occurs."
       },
       {
         "id": "E",
         "text": "It is a common cause of Loeffler's syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: It is a common cause of Loeffler's syndrome."
+        "explanation": "Vaccine hesitancy drops population coverage below critical herd immunity thresholds, precipitating disease outbreaks."
       }
     ]
   },
@@ -16177,31 +16177,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Urticaria is common",
         "answer": "F",
-        "explanation": "This is incorrect. cercarial dermatitis/'swimmer's itch' more accurate."
+        "explanation": "Malnourished children are at high risk for severe infections and should be routinely vaccinated per guidelines."
       },
       {
         "id": "B",
         "text": "Causes acute bronchospasm",
         "answer": "F",
-        "explanation": "This statement is incorrect: Causes acute bronchospasm."
+        "explanation": "Premature infants should receive routine childhood vaccines according to their full chronological age."
       },
       {
         "id": "C",
         "text": "Can cause intussusception",
         "answer": "F",
-        "explanation": "This statement is incorrect: Can cause intussusception."
+        "explanation": "HIV-exposed infants should receive all standard routine EPI immunizations."
       },
       {
         "id": "D",
         "text": "Anaemia of chronic disease is inevitable",
         "answer": "F",
-        "explanation": "This statement is incorrect: Anaemia of chronic disease is inevitable."
+        "explanation": "Standard clinical procedures rely on clear evidence-based guidelines rather than isolated pathognomonic assumptions."
       },
       {
         "id": "E",
         "text": "A cause of Loeffler's syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: A cause of Loeffler's syndrome."
+        "explanation": "Timely administration of childhood vaccines provides essential early protection against high-morbidity pediatric infections."
       }
     ]
   },
@@ -16214,31 +16214,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Necator americanus",
         "answer": "T",
-        "explanation": "This statement is correct: Necator americanus."
+        "explanation": "Pediatricians serve as advocates for child health policies including immunization, sanitation, and nutrition."
       },
       {
         "id": "B",
         "text": "Trichuris trichiura",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Trichuris trichiura."
+        "answer": "T",
+        "explanation": "Pediatric research drives evidence-based improvements in child healthcare and preventive strategies."
       },
       {
         "id": "C",
         "text": "Strongyloides stercoralis",
         "answer": "T",
-        "explanation": "This statement is correct: Strongyloides stercoralis."
+        "explanation": "Health education for families and communities is a fundamental pillar of preventive pediatrics."
       },
       {
         "id": "D",
         "text": "Taenia saginata",
         "answer": "F",
-        "explanation": "This statement is incorrect: Taenia saginata."
+        "explanation": "Direct macroeconomic health system financing is managed by health ministries and governments, not individual pediatricians."
       },
       {
         "id": "E",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
         "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "explanation": "Interprofessional collaboration with public health teams and community leaders is essential for child health programs."
       }
     ]
   },
@@ -16250,32 +16250,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Schistosomiasis presents with fever, lymphadenopathy & eosinophilia",
-        "answer": "T",
-        "explanation": "This statement is correct: Schistosomiasis presents with fever, lymphadenopathy & eosinophilia."
+        "answer": "F",
+        "explanation": "Salmonella Typhi is a Gram-negative, flagellated motile bacillus."
       },
       {
         "id": "B",
         "text": "Adult T. saginata carriage is associated with cysticercosis",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Adult T. saginata carriage is associated with cysticercosis."
+        "answer": "T",
+        "explanation": "Humans are the sole natural reservoir and host for Salmonella Typhi."
       },
       {
         "id": "C",
         "text": "Intestinal obstruction caused by Ascaris lumbricoides is best managed medically",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Intestinal obstruction caused by Ascaris lumbricoides is best managed medically."
+        "answer": "T",
+        "explanation": "The incubation period for typhoid fever typically ranges from 7 to 14 days."
       },
       {
         "id": "D",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Chronic typhoid carriers shed Salmonella Typhi in stool/urine for MORE THAN 1 year (>12 months)."
       },
       {
         "id": "E",
         "text": "Early diagnosis and intervention improve long-term outcome",
-        "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "answer": "F",
+        "explanation": "Typhoid fever is transmitted via the fecal-oral route through contaminated food/water, not aerosol droplets."
       }
     ]
   },
@@ -16325,31 +16325,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Defined as bed wetting in a child who has never been dry for >6 months",
         "answer": "T",
-        "explanation": "This statement is correct: Defined as bed wetting in a child who has never been dry for >6 months."
+        "explanation": "Bone marrow aspirate culture is the gold standard for S. Typhi isolation, providing up to 90% diagnostic sensitivity."
       },
       {
         "id": "B",
         "text": "Commoner in boys",
         "answer": "T",
-        "explanation": "This statement is correct: Commoner in boys."
+        "explanation": "Chloramphenicol was historically the classic drug of choice for typhoid fever before resistance emerged."
       },
       {
         "id": "C",
         "text": "Usually psychological in origin",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Usually psychological in origin."
+        "answer": "T",
+        "explanation": "S. Typhi forms biofilms on gallstones in the gallbladder, establishing chronic biliary carriage."
       },
       {
         "id": "D",
         "text": "Occurs in deep sleep",
         "answer": "T",
-        "explanation": "This statement is correct: Occurs in deep sleep."
+        "explanation": "Ciprofloxacin or Ceftriaxone remains a primary effective therapeutic option for susceptible typhoid fever in Zaria."
       },
       {
         "id": "E",
         "text": "Can resolve spontaneously",
-        "answer": "T",
-        "explanation": "This statement is correct: Can resolve spontaneously."
+        "answer": "F",
+        "explanation": "Typhoid fever frequently coexists with both malaria and Schistosoma mansoni infections."
       }
     ]
   },
@@ -16362,31 +16362,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "'Children of the street' carry out economic activities in the street and go home afterward",
         "answer": "F",
-        "explanation": "This statement is incorrect: 'Children of the street' carry out economic activities in the street and go home afterward."
+        "explanation": "Tuberculosis is matched with erythema nodosum, whereas erythema marginatum is characteristic of acute rheumatic fever."
       },
       {
         "id": "B",
         "text": "'Children on the street' carry out economic activities on the street and go home afterwards",
         "answer": "T",
-        "explanation": "This statement is correct: 'Children on the street' carry out economic activities on the street and go home afterwards."
+        "explanation": "Rose spots (salmon-pink macules on trunk) are classic dermatologic signs of typhoid fever."
       },
       {
         "id": "C",
         "text": "'Children of the street' live on the street",
-        "answer": "T",
-        "explanation": "This statement is correct: 'Children of the street' live on the street."
+        "answer": "F",
+        "explanation": "Dermatologic signs provide clinical support but are not strictly pathognomonic."
       },
       {
         "id": "D",
         "text": "'Children on the street' live on the street",
-        "answer": "F",
-        "explanation": "This statement is incorrect: 'Children on the street' live on the street."
+        "answer": "T",
+        "explanation": "Hypothyroidism causes delayed relaxation of deep tendon reflexes (\"hung-up\" reflex)."
       },
       {
         "id": "E",
         "text": "None of the above",
         "answer": "F",
-        "explanation": "This statement is incorrect: None of the above."
+        "explanation": "Portal hypertension is caused by Schistosoma mansoni or S. japonicum, whereas S. haematobium causes urinary schistosomiasis."
       }
     ]
   },
@@ -16399,31 +16399,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Right to good health",
         "answer": "T",
-        "explanation": "This statement is correct: Right to good health."
+        "explanation": "Mycoplasma pneumoniae is a major atypical bacterial cause of CAP in school-aged children."
       },
       {
         "id": "B",
         "text": "Right to full education",
         "answer": "T",
-        "explanation": "This statement is correct: Right to full education."
+        "explanation": "Streptococcus pneumoniae is the leading bacterial cause of CAP across all pediatric age groups beyond neonates."
       },
       {
         "id": "C",
         "text": "Right to free sex partners at puberty",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Right to free sex partners at puberty."
+        "answer": "T",
+        "explanation": "Staphylococcus aureus causes severe necrotizing CAP in children, often complicated by pneumatoceles."
       },
       {
         "id": "D",
         "text": "Right to a name",
         "answer": "F",
-        "explanation": "This is incorrect. marked F in source."
+        "explanation": "E. coli is a cause of neonatal sepsis/pneumonia but is rare as a cause of CAP in older infants and children."
       },
       {
         "id": "E",
         "text": "Right to make friendship with anyone",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Right to make friendship with anyone."
+        "answer": "T",
+        "explanation": "Haemophilus influenzae is a major bacterial pathogen causing pediatric CAP."
       }
     ]
   },
@@ -16435,32 +16435,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Low risk of infection to the bite wound",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Low risk of infection to the bite wound."
+        "answer": "T",
+        "explanation": "WHO guidelines for severe pediatric CAP in developing countries specify parenteral Ampicillin/Amoxicillin + Gentamicin as first-line empiric therapy."
       },
       {
         "id": "B",
         "text": "Causes include occupational exposure and domestic violence",
-        "answer": "T",
-        "explanation": "This statement is correct: Causes include occupational exposure and domestic violence."
+        "answer": "F",
+        "explanation": "Cefuroxime + gentamicin is a second-line alternative reserved for treatment failure."
       },
       {
         "id": "C",
         "text": "Cellulitis, osteomyelitis and septic arthritis are recognized complications",
-        "answer": "T",
-        "explanation": "This statement is correct: Cellulitis, osteomyelitis and septic arthritis are recognized complications."
+        "answer": "F",
+        "explanation": "Cefotaxime is used for severe complicated CAP or meningitis, but ampicillin-based regimens are standard first-line for uncomplicated severe CAP."
       },
       {
         "id": "D",
         "text": "It is important to suture all lacerations to prevent bad scars",
         "answer": "F",
-        "explanation": "This statement is incorrect: It is important to suture all lacerations to prevent bad scars."
+        "explanation": "Ceftriaxone is reserved for severe complicated CAP or penicillin-resistant cases."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Fluoroquinolones like ciprofloxacin are not routine first-line empiric agents for pediatric CAP."
       }
     ]
   },
@@ -16473,31 +16473,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Increased opening pressure",
         "answer": "T",
-        "explanation": "This statement is correct: Increased opening pressure."
+        "explanation": "Physiological gastroesophageal reflux (\"happy spitting\") is extremely common in healthy infants and typically resolves by 12–18 months as the lower esophageal sphincter matures."
       },
       {
         "id": "B",
         "text": "Increased neutrophil pleocytosis",
         "answer": "T",
-        "explanation": "This statement is correct: Increased neutrophil pleocytosis."
+        "explanation": "Pathological Gastroesophageal Reflux Disease (GERD) is diagnosed when reflux causes complications such as failure to thrive, esophagitis, or recurrent respiratory aspiration."
       },
       {
         "id": "C",
         "text": "Decreased glucose compared to blood glucose level",
         "answer": "T",
-        "explanation": "This statement is correct: Decreased glucose compared to blood glucose level."
+        "explanation": "Sandifer syndrome is a paroxysmal movement disorder associated with GERD, characterized by dystonic neck tilting and opisthotonos during or after feeds."
       },
       {
         "id": "D",
         "text": "Can always culture organism",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Can always culture organism."
+        "answer": "T",
+        "explanation": "Thickening feedings (with commercial thickeners or cereal) and maintaining an upright post-feeding position are effective first-line conservative management strategies."
       },
       {
         "id": "E",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
         "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "explanation": "Acid-suppressive therapy (H2 receptor antagonists or proton pump inhibitors) is indicated for documented GERD with erosive esophagitis."
       }
     ]
   },
@@ -16509,32 +16509,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Rapid initiation of intravenous antibiotics",
-        "answer": "T",
-        "explanation": "This statement is correct: Rapid initiation of intravenous antibiotics."
+        "answer": "F",
+        "explanation": "Sputum culture is unhelpful and difficult to obtain in young children with CAP due to oral contamination."
       },
       {
         "id": "B",
         "text": "Use of steroids to prevent complications",
-        "answer": "T",
-        "explanation": "This statement is correct: Use of steroids to prevent complications."
+        "answer": "F",
+        "explanation": "Blood culture positivity in pediatric CAP is low, typically around 10–15% (not 45%)."
       },
       {
         "id": "C",
         "text": "Delay antibiotics until lumbar puncture is ready",
         "answer": "F",
-        "explanation": "This statement is incorrect: Delay antibiotics until lumbar puncture is ready."
+        "explanation": "Nasopharyngeal viral PCR panels are not required for routine clinical CAP management."
       },
       {
         "id": "D",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
-        "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "answer": "F",
+        "explanation": "Stool PCR is not the diagnostic standard for pulmonary TB; gastric aspirates or Xpert MTB/RIF are preferred."
       },
       {
         "id": "E",
         "text": "Lumbar puncture yields positive in all cases",
         "answer": "F",
-        "explanation": "This statement is incorrect: Lumbar puncture yields positive in all cases."
+        "explanation": "Heart failure is an uncommon secondary complication of CAP, occurring mainly in infants with pre-existing heart disease."
       }
     ]
   },
@@ -16583,32 +16583,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Positive Kernig's sign",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Positive Kernig's sign."
+        "answer": "T",
+        "explanation": "Mycobacterium tuberculosis can present with primary lobar consolidation in children."
       },
       {
         "id": "B",
         "text": "Neck rigidity",
-        "answer": "T",
-        "explanation": "This statement is correct: Neck rigidity."
+        "answer": "F",
+        "explanation": "Staphylococcus aureus classically produces patchy bronchopneumonia with pneumatoceles rather than lobar pneumonia."
       },
       {
         "id": "C",
         "text": "Convulsion",
         "answer": "T",
-        "explanation": "This statement is correct: Convulsion."
+        "explanation": "Streptococcus pneumoniae is the classic and commonest cause of lobar pneumonia."
       },
       {
         "id": "D",
         "text": "Excessive crying",
         "answer": "T",
-        "explanation": "This statement is correct: Excessive crying."
+        "explanation": "Haemophilus influenzae type b is a recognized cause of lobar pneumonia in unvaccinated children."
       },
       {
         "id": "E",
         "text": "Vomiting",
         "answer": "T",
-        "explanation": "This statement is correct: Vomiting."
+        "explanation": "Klebsiella pneumoniae causes lobar pneumonia, characteristically involving upper lobes."
       }
     ]
   },
@@ -16658,31 +16658,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Listeria monocytogenes is a common cause in 6-year-old children",
         "answer": "F",
-        "explanation": "FALSE: Listeria monocytogenes predominantly causes meningitis in neonates (<1 month), pregnant women, and immunocompromised patients. In a 6-year-old, N. meningitidis and S. pneumoniae are the dominant pathogens."
+        "explanation": "Cerebrospinal fluid (CSF) in acute bacterial meningitis shows LOW glucose (<40% of simultaneous blood glucose), high protein, and marked neutrophilic pleocytosis."
       },
       {
         "id": "B",
         "text": "Infection is most commonly acquired by spread from contiguous anatomical sites",
         "answer": "F",
-        "explanation": "FALSE: Bacterial meningitis in children is almost always haematogenous (bloodborne) in origin, following nasopharyngeal colonisation and bacteraemia. Contiguous spread (e.g., from otitis media, sinusitis) is an uncommon route."
+        "explanation": "Streptococcus pneumoniae and Neisseria meningitidis are the primary causative bacterial pathogens in infants and children outside the neonatal age group."
       },
       {
         "id": "C",
         "text": "Bulging anterior fontanelle is seen in approximately 20% of affected infants",
-        "answer": "T",
-        "explanation": "TRUE: Bulging fontanelle due to raised intracranial pressure is a recognised sign of meningitis in infants, reported in approximately 20% of cases in the Zaria cohort — reflecting ICP elevation."
+        "answer": "F",
+        "explanation": "Empiric antibiotic therapy for suspected bacterial meningitis should be administered immediately and not delayed for neuroimaging unless focal signs or papilledema are present."
       },
       {
         "id": "D",
         "text": "Cracked pot sign is a common manifestation in 2-month-old infants with meningitis",
         "answer": "F",
-        "explanation": "FALSE: While cracked pot sign (Macewen's sign) can occur with raised ICP and sutural separation, it is NOT a 'common' manifestation in 2-month-olds with acute meningitis. It suggests chronic ICP elevation."
+        "explanation": "The Macewen sign (\"cracked-pot\" sound) indicates chronic sutural separation from long-standing raised ICP, not acute bacterial meningitis in a 2-month-old."
       },
       {
         "id": "E",
         "text": "IV crystalline penicillin is the drug of choice for all cases",
         "answer": "F",
-        "explanation": "FALSE: Crystalline penicillin alone has inadequate gram-negative coverage. Third-generation cephalosporins (ceftriaxone or cefotaxime) are preferred as empirical therapy for childhood bacterial meningitis in Nigeria."
+        "explanation": "Empiric treatment of childhood bacterial meningitis requires parenteral third-generation cephalosporins (ceftriaxone or cefotaxime) due to penicillin resistance and Gram-negative coverage needs."
       }
     ]
   },
@@ -16695,31 +16695,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "The causative organism is neutralized by HIV",
         "answer": "F",
-        "explanation": "This statement is incorrect: The causative organism is neutralized by HIV."
+        "explanation": "Neisseria meningitidis is a Gram-negative diplococcus that is not neutralized by HIV; HIV infection actually increases susceptibility to invasive bacterial infections."
       },
       {
         "id": "B",
         "text": "N. meningitidis is the sole pathogen",
         "answer": "T",
-        "explanation": "This statement is correct: N. meningitidis is the sole pathogen."
+        "explanation": "Meningococcemia is specifically caused by Neisseria meningitidis."
       },
       {
         "id": "C",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Purpura fulminans and petechial rashes occur in meningococcemia but can also occur in severe sepsis from pneumococcus or H. influenzae, so they are not uniquely pathognomonic."
       },
       {
         "id": "D",
         "text": "Meningococcus is diagnosed by culture of blood and CSF",
         "answer": "F",
-        "explanation": "This statement is incorrect: Meningococcus is diagnosed by culture of blood and CSF."
+        "explanation": "Neisseria meningitidis is identified by blood and CSF cultures, PCR assays, and Gram stain showing Gram-negative intracellular diplococci (claiming it is NOT diagnosed by culture is false)."
       },
       {
         "id": "E",
         "text": "In presence of meningitis, it's a better prognosis",
         "answer": "F",
-        "explanation": "This statement is incorrect: In presence of meningitis, it's a better prognosis."
+        "explanation": "Meningococcemia presenting with fulminant purpura fulminans and septic shock has a significantly HIGHER mortality than isolated meningococcal meningitis."
       }
     ]
   },
@@ -16732,31 +16732,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Inflammatory lesions are generalised and diffused throughout the brain tissue",
         "answer": "T",
-        "explanation": "This statement is correct: Inflammatory lesions are generalised and diffused throughout the brain tissue."
+        "explanation": "Encephalitis is defined by diffuse inflammatory involvement of the brain parenchyma, manifesting as altered mental status, seizures, and focal deficits."
       },
       {
         "id": "B",
         "text": "CSF analysis shows low protein levels",
         "answer": "F",
-        "explanation": "This statement is incorrect: CSF analysis shows low protein levels."
+        "explanation": "CSF analysis in encephalitis typically demonstrates ELEVATED or normal protein levels, normal glucose, and lymphocytic pleocytosis."
       },
       {
         "id": "C",
         "text": "Encephalopathy shows a non-viral cause",
         "answer": "F",
-        "explanation": "This statement is incorrect: Encephalopathy shows a non-viral cause."
+        "explanation": "Viral infections (such as HSV-1, enteroviruses, and arboviruses) are the leading causes of acute encephalitis."
       },
       {
         "id": "D",
         "text": "Immunization confers protection against encephalitis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Immunization confers protection against encephalitis."
+        "explanation": "Routine childhood immunizations (e.g., Measles, Mumps, Rubella, Japanese Encephalitis vaccines) provide effective protection against specific vaccine-preventable viral encephalitides."
       },
       {
         "id": "E",
         "text": "CSF findings in viral encephalitis are the same as lead encephalitis",
         "answer": "F",
-        "explanation": "This statement is incorrect: CSF findings in viral encephalitis are the same as lead encephalitis."
+        "explanation": "Lead encephalopathy causes marked cerebral edema with elevated CSF pressure, whereas viral encephalitis shows lymphocytic pleocytosis and normal/mildly elevated pressure."
       }
     ]
   },
@@ -16769,31 +16769,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
         "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "explanation": "Routine Hib conjugate immunization has dramatically reduced invasive Hib meningitis and epiglottitis."
       },
       {
         "id": "B",
         "text": "Lumbar puncture should be deferred if there are signs of raised intracranial pressure",
         "answer": "T",
-        "explanation": "TRUE: Papilloedema, focal neurology or rapidly declining consciousness are contraindications to immediate LP."
+        "explanation": "Lumbar puncture should be deferred if signs of raised ICP (papilledema, focal neurological deficits) are present."
       },
       {
         "id": "C",
         "text": "Blood-stained CSF = intraventricular haemorrhage",
-        "answer": "T",
-        "explanation": "This statement is correct: Blood-stained CSF = intraventricular haemorrhage."
+        "answer": "F",
+        "explanation": "Blood-stained CSF can result from a traumatic lumbar puncture (clears in successive tubes) or subarachnoid hemorrhage."
       },
       {
         "id": "D",
         "text": "Third-generation cephalosporins are first-line empiric therapy for suspected bacterial meningitis",
         "answer": "T",
-        "explanation": "TRUE: Cefotaxime or ceftriaxone provide good CSF penetration against the common pathogens."
+        "explanation": "Parenteral third-generation cephalosporins (ceftriaxone/cefotaxime) are first-line empiric therapy for bacterial meningitis."
       },
       {
         "id": "E",
         "text": "Viral upper respiratory infections are the most common trigger for acute otitis media",
         "answer": "T",
-        "explanation": "TRUE: AOM usually follows a viral URTI that impairs Eustachian-tube function."
+        "explanation": "Viral upper respiratory tract infections are the primary trigger for acute otitis media by causing Eustachian tube dysfunction."
       }
     ]
   },
@@ -16806,31 +16806,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Persistence of the Moro reflex beyond 6 months is abnormal",
         "answer": "T",
-        "explanation": "TRUE: The Moro reflex should disappear by 4–6 months; persistence suggests neurological dysfunction."
+        "explanation": "Persistence of the Moro reflex beyond 6 months of age indicates delayed central nervous system maturation or an evolving upper motor neuron lesion."
       },
       {
         "id": "B",
         "text": "Parachute reflex appears around 8–9 months",
         "answer": "T",
-        "explanation": "TRUE: The parachute (protective) reflex emerges at approximately 8–9 months and persists."
+        "explanation": "The protective parachute reflex normally emerges at 8–9 months of age and persists throughout life."
       },
       {
         "id": "C",
         "text": "Meningitis",
-        "answer": "F",
-        "explanation": "Meningitis — in severe or complicated cases."
+        "answer": "T",
+        "explanation": "Severe or complicated bacterial/tubercular meningitis with cortical injury or infarction produces spasticity and upper motor neuron signs."
       },
       {
         "id": "D",
         "text": "Hand preference before 12 months is normal",
         "answer": "F",
-        "explanation": "FALSE: Early hand preference (<12 months) may indicate contralateral hemiparesis and warrants evaluation."
+        "explanation": "Consistent hand preference before 12 months of age is ABNORMAL and strongly suggests contralateral hemiparetic cerebral palsy."
       },
       {
         "id": "E",
         "text": "A child should walk independently by 18 months at the latest for normal development",
         "answer": "T",
-        "explanation": "TRUE: Failure to walk by 18 months is a red-flag motor delay requiring assessment."
+        "explanation": "Failure to achieve independent walking by 18 months of age is a red-flag developmental delay requiring neurological evaluation."
       }
     ]
   },
@@ -16843,31 +16843,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Persistent fisting of hand with thumb adducted across the palm",
         "answer": "T",
-        "explanation": "This statement is correct: Persistent fisting of hand with thumb adducted across the palm."
+        "explanation": "Persistent cortical fisting with the thumb adducted across the palm beyond 2–3 months of age is an early sign of spastic hemiplegia or diplegia."
       },
       {
         "id": "B",
         "text": "Recurrent convulsions",
         "answer": "T",
-        "explanation": "This statement is correct: Recurrent convulsions."
+        "explanation": "Recurrent neonatal or infant seizures are strongly associated with underlying brain injury and subsequent cerebral palsy."
       },
       {
         "id": "C",
         "text": "Truncal hypotonia and head lag",
         "answer": "T",
-        "explanation": "This statement is correct: Truncal hypotonia and head lag."
+        "explanation": "Truncal hypotonia (\"floppy trunk\") combined with persistent head lag beyond 4 months is a classic early sign of evolving dyskinetic or spastic cerebral palsy."
       },
       {
         "id": "D",
         "text": "Difficulty feeding and drooling",
         "answer": "T",
-        "explanation": "This statement is correct: Difficulty feeding and drooling."
+        "explanation": "Feeding difficulties, weak suck, pseudobulbar palsy, and persistent drooling are frequent early indicators of motor dysfunction in cerebral palsy."
       },
       {
         "id": "E",
         "text": "Scissoring of the legs",
         "answer": "T",
-        "explanation": "This statement is correct: Scissoring of the legs."
+        "explanation": "Scissoring posture (excessive adduction and internal rotation of the lower extremities when suspended) indicates spastic diplegia."
       }
     ]
   },
@@ -16880,31 +16880,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Rarely occurs at bilirubin levels below 25 mg/dL",
         "answer": "F",
-        "explanation": "This statement is incorrect: Rarely occurs at bilirubin levels below 25 mg/dL."
+        "explanation": "Kernicterus can occur at total serum bilirubin levels below 25 mg/dL in premature, septic, or severely acidotic infants."
       },
       {
         "id": "B",
         "text": "Causes spastic cerebral palsy",
         "answer": "F",
-        "explanation": "This is incorrect. dystonic/choreoathetoid CP."
+        "explanation": "Kernicterus (chronic bilirubin encephalopathy) characteristically causes DYSKINETIC (choreoathetoid) cerebral palsy, not spastic cerebral palsy."
       },
       {
         "id": "C",
         "text": "Is commoner in preterms",
         "answer": "T",
-        "explanation": "This statement is correct: Is commoner in preterms."
+        "explanation": "Premature infants are significantly more vulnerable to kernicterus at lower bilirubin levels due to an immature blood-brain barrier and hypoalbuminemia."
       },
       {
         "id": "D",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Bilirubin encephalopathy requires correlation with serum bilirubin levels, auditory brainstem responses, and MRI findings."
       },
       {
         "id": "E",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Prompt management of hyperbilirubinemia with intensive phototherapy or exchange transfusion prevents progression to irreversible kernicterus."
       }
     ]
   },
@@ -16917,31 +16917,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Cerebral palsy",
         "answer": "T",
-        "explanation": "This statement is correct: Cerebral palsy."
+        "explanation": "Cerebral palsy secondary to structural brain malformations, hypoxic-ischemic injury, or stroke is a major underlying cause of pediatric epilepsy."
       },
       {
         "id": "B",
         "text": "Vitamin B12 deficiency",
         "answer": "T",
-        "explanation": "Vitamin B12 deficiency — rare."
+        "explanation": "Severe Vitamin B12 deficiency in infants can cause encephalopathy, involuntary movements, hypotonia, and seizures."
       },
       {
         "id": "C",
         "text": "Toxoplasmosis",
         "answer": "T",
-        "explanation": "This statement is correct: Toxoplasmosis."
+        "explanation": "Congenital Toxoplasmosis causes intracranial calcifications and parenchymal scarring, serving as an epileptogenic focus."
       },
       {
         "id": "D",
         "text": "Sickle cell anaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Sickle cell anaemia."
+        "explanation": "Sickle cell anemia causes silent brain infarctions and overt ischemic strokes, which frequently result in secondary epilepsy."
       },
       {
         "id": "E",
         "text": "Sturge-Weber syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Sturge-Weber syndrome."
+        "explanation": "Sturge-Weber syndrome (leptomeningeal angiomatosis) is a phakomatosis classically associated with intractable focal seizures and hemiparesis."
       }
     ]
   },
@@ -16954,31 +16954,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Cerebral palsy",
         "answer": "T",
-        "explanation": "This statement is correct: Cerebral palsy."
+        "explanation": "Cerebral palsy is a non-progressive permanent disorder of movement and posture resulting from upper motor neuron brain injury."
       },
       {
         "id": "B",
         "text": "Poliomyelitis",
         "answer": "F",
-        "explanation": "This is incorrect. lower motor neuron."
+        "explanation": "Poliomyelitis damages anterior horn cells in the spinal cord, producing classic LOWER motor neuron flaccid paralysis."
       },
       {
         "id": "C",
         "text": "Meningitis",
         "answer": "T",
-        "explanation": "Meningitis — severe/complicated cases."
+        "explanation": "Complicated meningitis with vasculitis, thrombosis, or cerebritis can cause spasticity and upper motor neuron signs."
       },
       {
         "id": "D",
         "text": "Pott's disease",
         "answer": "T",
-        "explanation": "This statement is correct: Pott's disease."
+        "explanation": "Pott disease (tuberculous spondylitis) causes vertebral collapse and spinal cord compression, presenting with spastic paraplegia (UMN lesion)."
       },
       {
         "id": "E",
         "text": "Lead encephalopathy",
         "answer": "T",
-        "explanation": "This statement is correct: Lead encephalopathy."
+        "explanation": "Lead encephalopathy causes diffuse cerebral edema and cortical damage, manifesting with spasticity and UMN neurological signs."
       }
     ]
   },
@@ -16991,31 +16991,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Not pointing and babbling at 12 months",
         "answer": "T",
-        "explanation": "This statement is correct: Not pointing and babbling at 12 months."
+        "explanation": "Absence of communicative pointing, gesturing, or babbling by 12 months is an early red-flag behavioral marker for Autism Spectrum Disorder (ASD)."
       },
       {
         "id": "B",
         "text": "Not responding to voices, names or sounds at 24 months",
         "answer": "T",
-        "explanation": "This statement is correct: Not responding to voices, names or sounds at 24 months."
+        "explanation": "Failure to respond to one's name or spoken voices by 12–24 months (often mimicking deafness) is a classic early sign of ASD."
       },
       {
         "id": "C",
         "text": "Likes to be cuddled",
         "answer": "F",
-        "explanation": "This statement is incorrect: Likes to be cuddled."
+        "explanation": "Infants with evolving ASD typically show aversion to physical affection, cuddling, and social touch rather than enjoying being cuddled."
       },
       {
         "id": "D",
         "text": "Tendency to stare at light, fans or hands",
         "answer": "T",
-        "explanation": "This statement is correct: Tendency to stare at light, fans or hands."
+        "explanation": "Atypical sensory interests, such as prolonged fixated staring at ceiling fans, spinning lights, or hand-flapping, are early repetitive behaviors in ASD."
       },
       {
         "id": "E",
         "text": "Does not show any sharing interest",
         "answer": "T",
-        "explanation": "This statement is correct: Does not show any sharing interest."
+        "explanation": "Lack of shared enjoyment or joint attention (e.g. not bringing objects to show parents) is a cardinal feature of ASD."
       }
     ]
   },
@@ -17028,31 +17028,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Stereotypic behavior",
         "answer": "T",
-        "explanation": "This statement is correct: Stereotypic behavior."
+        "explanation": "Stereotypic repetitive motor behaviors (hand flapping, body rocking, lining up toys) are core diagnostic features of ASD."
       },
       {
         "id": "B",
         "text": "Temper tantrum on disruption of routines",
         "answer": "T",
-        "explanation": "This statement is correct: Temper tantrum on disruption of routines."
+        "explanation": "Children with ASD experience severe emotional distress and temper tantrums in response to minor disruptions in daily routines."
       },
       {
         "id": "C",
         "text": "Ability to maintain look (eye contact) with individuals",
         "answer": "F",
-        "explanation": "This statement is incorrect: Ability to maintain look (eye contact) with individuals."
+        "explanation": "Impaired social eye contact (avoiding or fleeting eye contact) is a hallmark clinical feature of childhood autism."
       },
       {
         "id": "D",
         "text": "Ability to maintain long conversation with adults only",
         "answer": "F",
-        "explanation": "This statement is incorrect: Ability to maintain long conversation with adults only."
+        "explanation": "Impaired reciprocal conversation and language pragmatics are characteristic of ASD across all age groups."
       },
       {
         "id": "E",
         "text": "Speech is usually normal",
         "answer": "F",
-        "explanation": "This statement is incorrect: Speech is usually normal."
+        "explanation": "Speech in childhood autism is characteristically delayed, absent, or marked by echolalia, abnormal tone, and lack of communicative intent."
       }
     ]
   },
@@ -17065,31 +17065,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Occurs before 3 years of age",
         "answer": "T",
-        "explanation": "This statement is correct: Occurs before 3 years of age."
+        "explanation": "Symptoms of Autism Spectrum Disorder must be present in the early developmental period (typically manifest before 36 months of age)."
       },
       {
         "id": "B",
         "text": "Has a strong genetic basis",
         "answer": "T",
-        "explanation": "This statement is correct: Has a strong genetic basis."
+        "explanation": "ASD has a strong genetic etiology, with high concordance rates in monozygotic twins and identified chromosomal/gene variants."
       },
       {
         "id": "C",
         "text": "Associated with lack of eye contact",
         "answer": "T",
-        "explanation": "This statement is correct: Associated with lack of eye contact."
+        "explanation": "Lack of social eye contact and poor eye gaze orientation are cardinal behavioral features of ASD."
       },
       {
         "id": "D",
         "text": "Head is smaller than that of the newborn",
         "answer": "F",
-        "explanation": "This statement is incorrect: Head is smaller than that of the newborn."
+        "explanation": "Microcephaly is not a typical feature of ASD; many infants with ASD actually exhibit transient accelerated head growth (macrocephaly) in early childhood."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Autism is a clinical behavioral diagnosis based on comprehensive DSM-5 / ICD-11 criteria rather than a single pathognomonic physical finding."
       }
     ]
   },
@@ -17102,31 +17102,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It's strongly recommended that HIV virologic testing be used to diagnose HIV in all children",
         "answer": "F",
-        "explanation": "This is incorrect. /T (source keys conflict between duplicates."
+        "explanation": "In infants <18 months, virologic testing (HIV DNA or RNA PCR) is mandatory because maternal anti-HIV antibodies persist and cause false-positive serologic tests."
       },
       {
         "id": "B",
         "text": "A positive RDT in an 11-month-old infant is diagnostic of HIV infection",
         "answer": "F",
-        "explanation": "This statement is incorrect: A positive RDT in an 11-month-old infant is diagnostic of HIV infection."
+        "explanation": "A positive Rapid Diagnostic Test (RDT antibody test) in an 11-month-old reflects maternal antibody persistence and is NOT diagnostic of infant HIV infection."
       },
       {
         "id": "C",
         "text": "A negative DNA PCR test in a 2-day-old HIV-exposed infant on breastmilk substitutes excludes HIV infection",
         "answer": "F",
-        "explanation": "This statement is incorrect: A negative DNA PCR test in a 2-day-old HIV-exposed infant on breastmilk substitutes excludes HIV infection."
+        "explanation": "A single negative DNA PCR at 2 days of age does not rule out intrapartum or ongoing breastmilk transmission; repeat testing at 4–6 weeks and post-weaning is required."
       },
       {
         "id": "D",
         "text": "DNA PCR-negative test obtained in a 3-month-old HIV-exposed infant on exclusive breastfeeding excludes HIV infection",
         "answer": "F",
-        "explanation": "This statement is incorrect: DNA PCR-negative test obtained in a 3-month-old HIV-exposed infant on exclusive breastfeeding excludes HIV infection."
+        "explanation": "Ongoing exposure via exclusive breastfeeding can transmit HIV at any time; a negative PCR at 3 months does not rule out future transmission while breastfeeding continues."
       },
       {
         "id": "E",
         "text": "A positive DNA PCR in a 2-month-old infant is diagnostic of HIV infection",
         "answer": "T",
-        "explanation": "This statement is correct: A positive DNA PCR in a 2-month-old infant is diagnostic of HIV infection."
+        "explanation": "A positive HIV DNA or RNA PCR test obtained in an infant confirms HIV infection."
       }
     ]
   },
@@ -17139,31 +17139,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Core RNA is double stranded",
         "answer": "F",
-        "explanation": "This is incorrect. single-stranded."
+        "explanation": "HIV is a retrovirus possessing a genome composed of TWO identical copies of SINGLE-stranded positive-sense RNA, not double-stranded."
       },
       {
         "id": "B",
         "text": "Vertical transmission is seen in 50% of cases",
         "answer": "F",
-        "explanation": "This statement is incorrect: Vertical transmission is seen in 50% of cases."
+        "explanation": "Without intervention, the vertical transmission rate of HIV is 20–45%; with optimal PMTCT (maternal ART, infant prophylaxis), it drops to <2–5%."
       },
       {
         "id": "C",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
         "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "explanation": "Routine Haemophilus influenzae type b (Hib) immunization effectively prevents invasive Hib infections in both HIV-positive and HIV-negative children."
       },
       {
         "id": "D",
         "text": "Rapid antibody diagnosis is possible at 12 months of life",
         "answer": "F",
-        "explanation": "This statement is incorrect: Rapid antibody diagnosis is possible at 12 months of life."
+        "explanation": "Rapid antibody testing for definitive diagnosis of pediatric HIV infection becomes reliable after 18 months of age when maternal antibodies have cleared."
       },
       {
         "id": "E",
         "text": "Oral candidiasis is an important pointer to AIDS",
         "answer": "F",
-        "explanation": "This statement is incorrect: Oral candidiasis is an important pointer to AIDS."
+        "explanation": "Persistent or recurrent oral candidiasis (thrush) in an infant beyond the neonatal period is a major WHO clinical staging indicator for pediatric HIV/AIDS."
       }
     ]
   },
@@ -17176,31 +17176,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "In-utero transmission occurs commonly in the first trimester",
         "answer": "F",
-        "explanation": "This is incorrect. more common 3rd trimester/delivery."
+        "explanation": "In-utero transmission of HIV occurs primarily during the late third trimester of pregnancy (~20–30%) or during labor and delivery (~60–70%), not the first trimester."
       },
       {
         "id": "B",
         "text": "ARV is indicated in all newborns born to HIV-positive mothers",
         "answer": "T",
-        "explanation": "This statement is correct: ARV is indicated in all newborns born to HIV-positive mothers."
+        "explanation": "Post-exposure antiretroviral prophylaxis (e.g. Nevirapine or Zidovudine) is indicated for all infants born to HIV-positive mothers immediately after birth."
       },
       {
         "id": "C",
         "text": "CD4 receptor is the only receptor required for conformational change",
         "answer": "F",
-        "explanation": "This is incorrect. co-receptors CCR5/CXCR4 also needed."
+        "explanation": "HIV entry requires CD4 receptor binding PLUS co-receptor binding (CCR5 or CXCR4) to induce conformational changes for membrane fusion."
       },
       {
         "id": "D",
         "text": "There's a direct relationship between lymphocytopenia and CD4 count",
         "answer": "T",
-        "explanation": "This statement is correct: There's a direct relationship between lymphocytopenia and CD4 count."
+        "explanation": "Absolute lymphocyte count and CD4 T-cell count decline in parallel during progressive HIV-induced immune depletion."
       },
       {
         "id": "E",
         "text": "Generalized atopic dermatitis is a minor sign in WHO classification",
         "answer": "T",
-        "explanation": "This statement is correct: Generalized atopic dermatitis is a minor sign in WHO classification."
+        "explanation": "Extensive or generalized papular pruritic eruptions / atopic dermatitis are recognized minor manifestations in pediatric WHO HIV staging."
       }
     ]
   },
@@ -17213,31 +17213,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is stage 3",
         "answer": "T",
-        "explanation": "This statement is correct: It is stage 3."
+        "explanation": "Pulmonary Tuberculosis accompanied by severe oral candidiasis classifies the child as WHO HIV Clinical Stage 3."
       },
       {
         "id": "B",
         "text": "Start HAART immediately due to immune suppression",
         "answer": "F",
-        "explanation": "This statement is incorrect: Start HAART immediately due to immune suppression."
+        "explanation": "In a child with HIV and active TB, anti-tuberculosis therapy is initiated FIRST, and ART is started within 2–8 weeks to avoid Immune Reconstitution Inflammatory Syndrome (IRIS) and drug interactions."
       },
       {
         "id": "C",
         "text": "Start anti",
-        "answer": "T",
-        "explanation": "Start anti — B immediately after HAART — F."
+        "answer": "F",
+        "explanation": "TB treatment must be started BEFORE or soon after ART initiation, not after HAART."
       },
       {
         "id": "D",
         "text": "Adequate nutrition is not strictly required",
         "answer": "F",
-        "explanation": "This statement is incorrect: Adequate nutrition is not strictly required."
+        "explanation": "Nutritional support is vital in pediatric HIV/TB co-infection to restore immune function and support growth."
       },
       {
         "id": "E",
         "text": "Treat opportunistic infections",
         "answer": "T",
-        "explanation": "This statement is correct: Treat opportunistic infections."
+        "explanation": "Treatment and prophylaxis of opportunistic infections (e.g. Cotrimoxazole, antifungals, anti-TB drugs) are essential components of HIV care."
       }
     ]
   },
@@ -17250,31 +17250,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Pneumocystis pneumonia",
         "answer": "T",
-        "explanation": "This statement is correct: Pneumocystis pneumonia."
+        "explanation": "Pneumocystis jirovecii pneumonia (PCP) is a WHO Stage 4 AIDS-defining opportunistic infection in HIV-infected infants."
       },
       {
         "id": "B",
         "text": "Failure to thrive",
         "answer": "T",
-        "explanation": "This statement is correct: Failure to thrive."
+        "explanation": "Unexplained severe wasting or failure to thrive unresponsive to standard nutritional therapy is highly suggestive of pediatric HIV infection."
       },
       {
         "id": "C",
         "text": "Kaposi sarcoma",
         "answer": "T",
-        "explanation": "This statement is correct: Kaposi sarcoma."
+        "explanation": "Kaposi sarcoma (caused by HHV-8) is a definitive WHO Stage 4 AIDS-defining malignancy."
       },
       {
         "id": "D",
         "text": "Bilateral parotitis",
         "answer": "T",
-        "explanation": "This statement is correct: Bilateral parotitis."
+        "explanation": "Chronic bilateral enlarged painless parotid swelling (Lymphoid Interstitial Pneumonitis / parotitis) is characteristic of pediatric HIV."
       },
       {
         "id": "E",
         "text": "Cryptococcal meningitis",
         "answer": "T",
-        "explanation": "This statement is correct: Cryptococcal meningitis."
+        "explanation": "Cryptococcal meningitis is a major fungal AIDS-defining opportunistic infection in severely immunocompromised HIV patients."
       }
     ]
   },
@@ -17287,31 +17287,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Lack of disclosure",
         "answer": "T",
-        "explanation": "This statement is correct: Lack of disclosure."
+        "explanation": "Lack of disclosure of HIV status to adolescents creates confusion, psychological distress, and poor engagement with care."
       },
       {
         "id": "B",
         "text": "Low self-esteem",
         "answer": "T",
-        "explanation": "This statement is correct: Low self-esteem."
+        "explanation": "Stigma, chronic illness, and social isolation contribute to low self-esteem and depression in adolescents living with HIV."
       },
       {
         "id": "C",
         "text": "Drug adherence",
         "answer": "T",
-        "explanation": "This statement is correct: Drug adherence."
+        "explanation": "Adherence to lifelong daily antiretroviral therapy is a major challenge due to pill fatigue and fear of involuntary disclosure."
       },
       {
         "id": "D",
         "text": "Peer pressure",
         "answer": "T",
-        "explanation": "This statement is correct: Peer pressure."
+        "explanation": "Peer pressure and desire for conformity adversely impact medication adherence and healthcare attendance."
       },
       {
         "id": "E",
         "text": "Substance abuse",
         "answer": "F",
-        "explanation": "This statement is incorrect: Substance abuse."
+        "explanation": "Substance abuse is a recognized risk factor and barrier to adherence in adolescent HIV care (claiming it is NOT a challenge is false)."
       }
     ]
   },
@@ -17324,31 +17324,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "The majority of adolescents with HIV globally have vertically acquired infection",
         "answer": "F",
-        "explanation": "FALSE: Globally, the majority of new HIV infections in adolescents (especially females aged 15-24) result from sexual transmission, not vertical transmission. Vertically-acquired survivors are a distinct sub-group."
+        "explanation": "Globally, the majority of adolescents living with HIV (especially females aged 15–19) acquired HIV through sexual transmission, not vertical transmission."
       },
       {
         "id": "B",
         "text": "Most adolescents living with HIV in Nigeria acquired the infection through unsafe sexual intercourse",
         "answer": "T",
-        "explanation": "TRUE: In Nigeria, sexual transmission is the predominant route of HIV acquisition among adolescents, with unprotected heterosexual intercourse being the most common mode."
+        "explanation": "Unprotected heterosexual intercourse is the leading mode of HIV acquisition among adolescents in Nigeria."
       },
       {
         "id": "C",
         "text": "Adolescents with HIV have lower antiretroviral therapy (ART) adherence compared to adults",
         "answer": "T",
-        "explanation": "TRUE: Adolescents have the lowest ART adherence rates of any age group, attributed to stigma, pill fatigue, lack of disclosure, peer pressure, and transition from paediatric to adult services."
+        "explanation": "Adolescents have lower ART adherence and viral suppression rates than any other age group due to psychosocial barriers."
       },
       {
         "id": "D",
         "text": "HIV-positive adolescents are at higher risk of tuberculosis co-infection",
         "answer": "T",
-        "explanation": "TRUE: Immune suppression from HIV greatly increases susceptibility to M. tuberculosis. TB is the leading cause of death among HIV-positive adolescents in sub-Saharan Africa."
+        "explanation": "HIV infection increases the risk of active tuberculosis by 20-fold, making TB the leading cause of death in HIV-positive adolescents in Africa."
       },
       {
         "id": "E",
         "text": "Adolescents who acquired HIV vertically have better treatment outcomes than those who acquired it sexually",
         "answer": "F",
-        "explanation": "FALSE: Adolescents with vertically-acquired HIV have often lived with the virus for many years and may have accumulated resistance mutations, treatment fatigue, and higher viral loads — outcomes are not necessarily better."
+        "explanation": "Adolescents with vertically-acquired HIV often suffer long-standing immune damage, extensive treatment history, and drug resistance compared to newly infected youth."
       }
     ]
   },
@@ -17361,31 +17361,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
         "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "explanation": "Malnourished children experience severe cell-mediated immune impairment, leading to high morbidity and mortality from measles."
       },
       {
         "id": "B",
         "text": "Lumbar puncture should be deferred if there are signs of raised intracranial pressure",
         "answer": "T",
-        "explanation": "TRUE: Papilloedema, focal neurology or rapidly declining consciousness are contraindications to immediate LP."
+        "explanation": "Infants under 12 months of age (and adults) face significantly higher rates of measles complications (pneumonia, encephalitis, death)."
       },
       {
         "id": "C",
         "text": "Third-generation cephalosporins are first-line empiric therapy for suspected bacterial meningitis",
         "answer": "T",
-        "explanation": "TRUE: Cefotaxime or ceftriaxone provide good CSF penetration against the common pathogens."
+        "explanation": "Immunocompromised individuals (e.g. active malignancy, severe primary immunodeficiency) suffer severe progressive measles pneumonia and encephalitis."
       },
       {
         "id": "D",
         "text": "Stage 1 HIV",
         "answer": "F",
-        "explanation": "Stage 1 HIV — part of a larger question also covering age <5, adults >25, malnourished children, malignancy — all T."
+        "explanation": "Severe immunocompromise (Stage 3 and 4 HIV), NOT Stage 1 HIV, is associated with increased measles mortality."
       },
       {
         "id": "E",
         "text": "Viral upper respiratory infections are the most common trigger for acute otitis media",
         "answer": "T",
-        "explanation": "TRUE: AOM usually follows a viral URTI that impairs Eustachian-tube function."
+        "explanation": "Vitamin A deficiency markedly increases measles mortality and blindness risk."
       }
     ]
   },
@@ -17397,32 +17397,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Seizures are generalized in complex type",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Seizures are generalized in complex type."
+        "answer": "T",
+        "explanation": "Simple febrile seizures characteristically manifest as generalized tonic-clonic convulsions without focal motor onset."
       },
       {
         "id": "B",
         "text": "Seizures last greater than 15 minutes in simple type",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Seizures last greater than 15 minutes in simple type."
+        "answer": "T",
+        "explanation": "Simple febrile seizures are brief, lasting less than 15 minutes in duration."
       },
       {
         "id": "C",
         "text": "Febrile seizures have an autosomal recessive inheritance",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Febrile seizures have an autosomal recessive inheritance."
+        "answer": "T",
+        "explanation": "Simple febrile seizures occur as a single isolated seizure episode within a 24-hour period of febrile illness."
       },
       {
         "id": "D",
         "text": "Severe malaria is a cause",
         "answer": "T",
-        "explanation": "This statement is correct: Severe malaria is a cause."
+        "explanation": "Febrile seizures occur in neurologically normal infants and children aged 6 months to 5 years (peak incidence 12–18 months)."
       },
       {
         "id": "E",
         "text": "Focal seizures rule out simple type",
-        "answer": "T",
-        "explanation": "This statement is correct: Focal seizures rule out simple type."
+        "answer": "F",
+        "explanation": "Simple febrile seizures carry a low risk (~1–2%) of later epilepsy, which is only minimally higher than the baseline general population risk."
       }
     ]
   },
@@ -17434,32 +17434,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Classically occurs anytime during infancy to 5 years of age",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Classically occurs anytime during infancy to 5 years of age."
+        "answer": "T",
+        "explanation": "Complex febrile seizures are characterized by focal motor features or focal onset."
       },
       {
         "id": "B",
         "text": "Are associated with normal CSF",
         "answer": "T",
-        "explanation": "This statement is correct: Are associated with normal CSF."
+        "explanation": "Complex febrile seizures are prolonged, lasting more than 15 minutes in duration."
       },
       {
         "id": "C",
         "text": "Are labelled 'complex' when there is focal manifestation",
         "answer": "T",
-        "explanation": "This statement is correct: Are labelled 'complex' when there is focal manifestation."
+        "explanation": "Complex febrile seizures recur with 2 or more episodes within a 24-hour period."
       },
       {
         "id": "D",
         "text": "Should be rapidly terminated by intravenous paracetamol infusion",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Should be rapidly terminated by intravenous paracetamol infusion."
+        "answer": "T",
+        "explanation": "Children with complex febrile seizures may display post-ictal neurological deficits (e.g. Todd paresis)."
       },
       {
         "id": "E",
         "text": "Recurrences predict epilepsy later in the future in adolescence and adulthood",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Recurrences predict epilepsy later in the future in adolescence and adulthood."
+        "answer": "T",
+        "explanation": "Complex febrile seizures carry a significantly elevated risk (~5–10%) of developing unprovoked epilepsy later in life."
       }
     ]
   },
@@ -17471,32 +17471,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "It is not uncommon after febrile illness",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It is not uncommon after febrile illness."
+        "answer": "T",
+        "explanation": "EEG in simple febrile seizures is typically normal and is NOT routinely indicated."
       },
       {
         "id": "B",
         "text": "It can be due to primary CNS disorder",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It can be due to primary CNS disorder."
+        "answer": "T",
+        "explanation": "Lumbar puncture should be strongly considered in infants <12 months with fever and seizure to rule out meningitis."
       },
       {
         "id": "C",
         "text": "It can be diagnosed by simple CSF",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It can be diagnosed by simple CSF."
+        "answer": "T",
+        "explanation": "Neuroimaging (CT/MRI) is NOT recommended for simple febrile seizures."
       },
       {
         "id": "D",
         "text": "It almost always leads to seizure disorder in later life",
         "answer": "F",
-        "explanation": "This statement is incorrect: It almost always leads to seizure disorder in later life."
+        "explanation": "Continuous daily antiepileptic prophylaxis is NOT recommended for simple febrile seizures due to adverse drug effects."
       },
       {
         "id": "E",
         "text": "Complex febrile seizure is often a complication of simple febrile seizure",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Complex febrile seizure is often a complication of simple febrile seizure."
+        "answer": "T",
+        "explanation": "Antipyretics (paracetamol, ibuprofen) improve child comfort during febrile illness, though they do not prevent seizure recurrence."
       }
     ]
   },
@@ -17508,32 +17508,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Not uncommon after febrile illness",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Not uncommon after febrile illness."
+        "answer": "T",
+        "explanation": "Generalized tonic-clonic seizure is the characteristic semiology of simple febrile seizures."
       },
       {
         "id": "B",
         "text": "Can be due to primary CNS disorder",
         "answer": "F",
-        "explanation": "This statement is incorrect: Can be due to primary CNS disorder."
+        "explanation": "Simple febrile seizures last LESS than 15 minutes; duration >15 minutes classifies it as complex."
       },
       {
         "id": "C",
         "text": "Can be diagnosed with CSF",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Can be diagnosed with CSF."
+        "answer": "T",
+        "explanation": "A single seizure within a 24-hour period defines a simple febrile seizure."
       },
       {
         "id": "D",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Febrile seizures occur between 6 months and 5 years of age."
       },
       {
         "id": "E",
         "text": "Early diagnosis and intervention improve long-term outcome",
-        "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "answer": "F",
+        "explanation": "Simple febrile seizures do NOT cause long-term neurological deficits or severe cognitive impairment."
       }
     ]
   },
@@ -17545,32 +17545,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Occurs in fever lasting less than 24hrs",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Occurs in fever lasting less than 24hrs."
+        "answer": "T",
+        "explanation": "Focal seizure onset or focal post-ictal weakness (Todd paresis) defines a complex febrile seizure."
       },
       {
         "id": "B",
         "text": "Occurs at temperature between 38-39°C",
         "answer": "T",
-        "explanation": "This statement is correct: Occurs at temperature between 38-39°C."
+        "explanation": "Seizure duration exceeding 15 minutes defines a complex febrile seizure."
       },
       {
         "id": "C",
         "text": "Occurs in girls",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Occurs in girls."
+        "answer": "T",
+        "explanation": "Recurrence of multiple seizure episodes within 24 hours classifies a febrile seizure as complex."
       },
       {
         "id": "D",
         "text": "Patient has high sodium level at presentation",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Patient has high sodium level at presentation."
+        "answer": "T",
+        "explanation": "Pre-existing neurological abnormality or neurodevelopmental delay increases the risk of complex febrile seizures."
       },
       {
         "id": "E",
         "text": "Family history of febrile seizure",
         "answer": "T",
-        "explanation": "This statement is correct: Family history of febrile seizure."
+        "explanation": "Complex febrile seizures carry a higher risk (~5–10%) of subsequent unprovoked epilepsy."
       }
     ]
   },
@@ -17582,32 +17582,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Grand mal is the commonest form of childhood seizure",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Grand mal is the commonest form of childhood seizure."
+        "answer": "T",
+        "explanation": "Family history of febrile seizures or epilepsy is a major risk factor for febrile seizure recurrence."
       },
       {
         "id": "B",
         "text": "Symmetrical 3 cycles per second spike on EEG is diagnostic of petit mal seizure",
         "answer": "T",
-        "explanation": "This statement is correct: Symmetrical 3 cycles per second spike on EEG is diagnostic of petit mal seizure."
+        "explanation": "First febrile seizure occurring at <12 months of age is a major risk factor for recurrence."
       },
       {
         "id": "C",
         "text": "A neonate with frequent seizure is diagnosed as epilepsy",
-        "answer": "F",
-        "explanation": "This statement is incorrect: A neonate with frequent seizure is diagnosed as epilepsy."
+        "answer": "T",
+        "explanation": "Low peak temperature at the onset of seizure increases the likelihood of recurrence."
       },
       {
         "id": "D",
         "text": "Tuberous sclerosis causes a form of infantile spasm",
         "answer": "T",
-        "explanation": "This statement is correct: Tuberous sclerosis causes a form of infantile spasm."
+        "explanation": "Short duration of fever before seizure onset (<1 hour) increases recurrence risk."
       },
       {
         "id": "E",
         "text": "A normal EEG excludes seizure disorder",
         "answer": "F",
-        "explanation": "This statement is incorrect: A normal EEG excludes seizure disorder."
+        "explanation": "Gender does not significantly alter the risk of febrile seizure recurrence."
       }
     ]
   },
@@ -17657,31 +17657,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is common between 7 and 10 years old",
         "answer": "T",
-        "explanation": "It is common between 7 and 10 years old — peak range 5-14 years."
+        "explanation": "Family history of epilepsy is a recognized risk factor for developing unprovoked epilepsy after febrile seizures."
       },
       {
         "id": "B",
         "text": "It occurs during sleep",
         "answer": "T",
-        "explanation": "This statement is correct: It occurs during sleep."
+        "explanation": "Complex febrile seizure features (focal, prolonged, or recurrent in 24h) increase subsequent epilepsy risk."
       },
       {
         "id": "C",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Neurodevelopmental abnormality prior to the first febrile seizure increases epilepsy risk."
       },
       {
         "id": "D",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Fever duration <1 hour before seizure onset increases epilepsy risk."
       },
       {
         "id": "E",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "Simple febrile seizures without risk factors carry an epilepsy risk of only 1–2%, near population baseline."
       }
     ]
   },
@@ -17694,31 +17694,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Age between 2 and 10 years",
         "answer": "T",
-        "explanation": "This statement is correct: Age between 2 and 10 years."
+        "explanation": "First-line acute management of a seizure lasting >5 minutes is IV Diazepam (0.2–0.3 mg/kg) or rectal Diazepam (0.5 mg/kg)."
       },
       {
         "id": "B",
         "text": "Absence of hypertension",
         "answer": "T",
-        "explanation": "This statement is correct: Absence of hypertension."
+        "explanation": "Intranasal or buccal Midazolam (0.2 mg/kg) is an effective alternative first-line agent for acute seizure cessation."
       },
       {
         "id": "C",
         "text": "Presence of gross haematuria",
-        "answer": "F",
-        "explanation": "This is incorrect. red flag for secondary NS."
+        "answer": "T",
+        "explanation": "Airway maintenance, oxygenation, and positioning in the lateral recovery position are immediate first steps."
       },
       {
         "id": "D",
         "text": "Normal renal function",
-        "answer": "T",
-        "explanation": "This statement is correct: Normal renal function."
+        "answer": "F",
+        "explanation": "Oral antiepileptics should NEVER be administered during an active seizure due to aspiration risk."
       },
       {
         "id": "E",
         "text": "Low serum complement level",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Low serum complement level."
+        "answer": "T",
+        "explanation": "IV Phenobarbital or IV Phenytoin is indicated if seizures persist despite two doses of benzodiazepines (status epilepticus)."
       }
     ]
   },
@@ -17731,31 +17731,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Nephrotic syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Nephrotic syndrome."
+        "explanation": "Absence seizures (petit mal) characteristically present with brief (5–10 second) sudden loss of awareness and staring spells."
       },
       {
         "id": "B",
         "text": "Chronic liver disease",
         "answer": "T",
-        "explanation": "This statement is correct: Chronic liver disease."
+        "explanation": "Hyperventilation for 3–5 minutes reliably provokes absence seizures and classic 3-Hz spike-and-wave discharges on EEG."
       },
       {
         "id": "C",
         "text": "Acute pancreatitis",
-        "answer": "F",
-        "explanation": "This is incorrect. exudate."
+        "answer": "T",
+        "explanation": "Absence seizures are characteristically accompanied by generalized 3-Hz spike-and-wave EEG complexes."
       },
       {
         "id": "D",
         "text": "Abdominal TB",
         "answer": "F",
-        "explanation": "This is incorrect. exudate."
+        "explanation": "Ethosuximide or Valproate is the drug of choice for childhood absence epilepsy; Carbamazepine can WORSEN absence seizures."
       },
       {
         "id": "E",
         "text": "CCF",
         "answer": "T",
-        "explanation": "This statement is correct: CCF."
+        "explanation": "Childhood absence epilepsy typically emerges between 4 and 10 years of age and carries a favorable prognosis."
       }
     ]
   },
@@ -17768,31 +17768,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Nephrotic syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Nephrotic syndrome."
+        "explanation": "Infantile spasms (West syndrome) present with sudden brief flexor, extensor, or mixed axial contractions occurring in clusters."
       },
       {
         "id": "B",
         "text": "Kwashiorkor",
         "answer": "T",
-        "explanation": "This statement is correct: Kwashiorkor."
+        "explanation": "Hypsarrhythmia (chaotic, high-voltage, disorganized background with multifocal spikes) on EEG is diagnostic of West syndrome."
       },
       {
         "id": "C",
         "text": "Pulmonary TB",
         "answer": "T",
-        "explanation": "This statement is correct: Pulmonary TB."
+        "explanation": "Developmental regression or arrest is a cardinal component of West syndrome."
       },
       {
         "id": "D",
         "text": "Pneumonia",
         "answer": "T",
-        "explanation": "This statement is correct: Pneumonia."
+        "explanation": "Adrenocorticotropic hormone (ACTH) or Vigabatrin (especially in tuberous sclerosis) is first-line therapy for infantile spasms."
       },
       {
         "id": "E",
         "text": "Severe anaemia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Severe anaemia."
+        "explanation": "West syndrome carries a poor neurodevelopmental prognosis, with high risk of intellectual disability and evolution to Lennox-Gastaut syndrome."
       }
     ]
   },
@@ -17804,32 +17804,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "50% develop AKI",
-        "answer": "F",
-        "explanation": "This statement is incorrect: 50% develop AKI."
+        "answer": "T",
+        "explanation": "Lennox-Gastaut syndrome is a severe childhood epileptic encephalopathy characterized by multiple seizure types (tonic, atonic, atypical absence)."
       },
       {
         "id": "B",
         "text": "70% has hypertension",
         "answer": "T",
-        "explanation": "This statement is correct: 70% has hypertension."
+        "explanation": "Interictal EEG shows slow (<2.5 Hz) spike-and-wave complexes."
       },
       {
         "id": "C",
         "text": "Increased C3-C9",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Increased C3-C9."
+        "answer": "T",
+        "explanation": "Cognitive impairment and behavioral disturbances are present in the majority of children with Lennox-Gastaut syndrome."
       },
       {
         "id": "D",
         "text": "Normal C1 and C4",
         "answer": "T",
-        "explanation": "This statement is correct: Normal C1 and C4."
+        "explanation": "Lennox-Gastaut syndrome is notoriously refractory to conventional antiepileptic drug therapy."
       },
       {
         "id": "E",
         "text": "Low ASO titre",
         "answer": "F",
-        "explanation": "This statement is incorrect: Low ASO titre."
+        "explanation": "Atonic seizures (\"drop attacks\") in Lennox-Gastaut syndrome frequently cause sudden falls and severe head trauma, requiring protective helmets."
       }
     ]
   },
@@ -17841,32 +17841,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Renal biopsy is indicated as soon as diagnosis is made",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Renal biopsy is indicated as soon as diagnosis is made."
+        "answer": "T",
+        "explanation": "Benign Epilepsy with Centrotemporal Spikes (BECTS / Rolandic Epilepsy) is the commonest focal epilepsy syndrome in children."
       },
       {
         "id": "B",
         "text": "Serum complement is low in AGN",
         "answer": "T",
-        "explanation": "This statement is correct: Serum complement is low in AGN."
+        "explanation": "Seizures in Rolandic epilepsy characteristically occur during sleep or upon awakening, with somatosensory clonic facial twitching and drooling."
       },
       {
         "id": "C",
         "text": "Streptococci is the only bacterial agent that triggers immunologic reaction leading to AGN",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Streptococci is the only bacterial agent that triggers immunologic reaction leading to AGN."
+        "answer": "T",
+        "explanation": "Interictal EEG characteristically demonstrates broad centrotemporal sharp waves (Rolandic spikes)."
       },
       {
         "id": "D",
         "text": "Early systemic antibiotics is indicated to reduce further glomerular damage",
         "answer": "T",
-        "explanation": "This statement is correct: Early systemic antibiotics is indicated to reduce further glomerular damage."
+        "explanation": "Rolandic epilepsy carries an excellent prognosis, with spontaneous remission occurring in adolescence."
       },
       {
         "id": "E",
         "text": "Focal glomerulosclerosis is a typical pathologic finding of quartan malaria",
-        "answer": "T",
-        "explanation": "This statement is correct: Focal glomerulosclerosis is a typical pathologic finding of quartan malaria."
+        "answer": "F",
+        "explanation": "Long-term antiepileptic therapy is often unnecessary in BECTS due to low seizure frequency and benign course."
       }
     ]
   },
@@ -17879,31 +17879,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "IgA nephropathy",
         "answer": "T",
-        "explanation": "This statement is correct: IgA nephropathy."
+        "explanation": "Juvenile Myoclonic Epilepsy (JME) presents in adolescence with morning myoclonic jerks of the upper extremities."
       },
       {
         "id": "B",
         "text": "Alport Syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Alport Syndrome."
+        "explanation": "Generalized tonic-clonic seizures and absence seizures frequently coexist in patients with JME."
       },
       {
         "id": "C",
         "text": "Postinfectious glomerulonephritis",
         "answer": "T",
-        "explanation": "This statement is correct: Postinfectious glomerulonephritis."
+        "explanation": "Sleep deprivation and alcohol intake are classic potent triggers for myoclonic jerks in JME."
       },
       {
         "id": "D",
         "text": "Thin glomerular basement membrane",
         "answer": "T",
-        "explanation": "This statement is correct: Thin glomerular basement membrane."
+        "explanation": "EEG characteristically demonstrates 4–6 Hz generalized polyspike-and-wave discharges."
       },
       {
         "id": "E",
         "text": "UTI",
         "answer": "T",
-        "explanation": "This statement is correct: UTI."
+        "explanation": "Sodium Valproate or Levetiracetam is first-line lifelong maintenance therapy for JME."
       }
     ]
   },
@@ -17952,32 +17952,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Renal tubular acidosis type I affects proximal tubules",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Renal tubular acidosis type I affects proximal tubules."
+        "answer": "T",
+        "explanation": "Status epilepticus is defined as continuous seizure activity lasting >30 minutes (or >5 minutes operationally) or recurrent seizures without return of consciousness."
       },
       {
         "id": "B",
         "text": "Renal tubular acidosis type I is due to inability to acidify urine",
         "answer": "T",
-        "explanation": "This statement is correct: Renal tubular acidosis type I is due to inability to acidify urine."
+        "explanation": "Initial emergency management requires airway protection, high-flow oxygen, and securing IV access."
       },
       {
         "id": "C",
         "text": "Coarctation of the aorta causes persistent hypertension",
         "answer": "T",
-        "explanation": "This statement is correct: Coarctation of the aorta causes persistent hypertension."
+        "explanation": "First-line medical therapy consists of IV Lorazepam, IV Diazepam, or buccal/intranasal Midazolam."
       },
       {
         "id": "D",
         "text": "Renal stone causes abdominal pain",
         "answer": "T",
-        "explanation": "This statement is correct: Renal stone causes abdominal pain."
+        "explanation": "Second-line therapy for refractory status epilepticus includes IV Fosphenytoin/Phenytoin, IV Levetiracetam, or IV Valproate."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "General anesthesia (propofol, midazolam infusion, or thiopental) in an ICU setting is required for refractory status epilepticus."
       }
     ]
   },
@@ -17990,31 +17990,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "VSD",
         "answer": "T",
-        "explanation": "VSD — genuine cause."
+        "explanation": "Simple Ventricular Septal Defect (VSD) does not produce a bounding pulse; it is listed here as an exception (not a cause of bounding pulse)."
       },
       {
         "id": "B",
         "text": "ASD",
         "answer": "T",
-        "explanation": "ASD — genuine cause."
+        "explanation": "Atrial Septal Defect (ASD) produces a normal arterial pulse volume, not a bounding pulse."
       },
       {
         "id": "C",
         "text": "Dehydration",
         "answer": "T",
-        "explanation": "Dehydration — genuine cause."
+        "explanation": "Dehydration causes hypovolemia, resulting in a weak, thready pulse rather than a bounding pulse."
       },
       {
         "id": "D",
         "text": "Severe anaemia",
         "answer": "F",
-        "explanation": "This is incorrect. exception."
+        "explanation": "Severe anemia causes a hyperdynamic circulation with high stroke volume and low systemic vascular resistance, producing a classic bounding pulse."
       },
       {
         "id": "E",
         "text": "Fever",
         "answer": "F",
-        "explanation": "This is incorrect. exception."
+        "explanation": "Fever causes peripheral vasodilation and increased cardiac output, resulting in a bounding arterial pulse."
       }
     ]
   },
@@ -18082,7 +18082,7 @@ window.QUESTIONS_DATA = [
         "id": "D",
         "text": "Posterior urethral valves",
         "answer": "F",
-        "explanation": "This is incorrect. listed as a distractor option."
+        "explanation": "Posterior urethral valves (PUV) represent the most common cause of congenital lower urinary tract obstruction in infant males, presenting with a palpable bladder, hydronephrosis, and oligohydramnios."
       },
       {
         "id": "E",
@@ -18101,31 +18101,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It involves mediastinal lymph nodes",
         "answer": "T",
-        "explanation": "This statement is correct: It involves mediastinal lymph nodes."
+        "explanation": "Extrapulmonary tuberculosis frequently involves mediastinal and hilar lymph nodes, presenting with mediastinal lymphadenopathy and airway compression."
       },
       {
         "id": "B",
         "text": "Spinal cord compression is due to destruction of intervertebral disc",
         "answer": "F",
-        "explanation": "This statement is incorrect: Spinal cord compression is due to destruction of intervertebral disc."
+        "explanation": "Spinal cord compression in Pott disease (tuberculous spondylitis) results from anterior vertebral body destruction, gibbus deformity, and epidural cold abscess formation."
       },
       {
         "id": "C",
         "text": "Choroid tubercle represents hypersensitivity to tuberculous protein",
         "answer": "F",
-        "explanation": "This statement is incorrect: Choroid tubercle represents hypersensitivity to tuberculous protein."
+        "explanation": "Choroidal tubercles represent direct hematogenous seeding of Mycobacterium tuberculosis to the choroid, serving as a diagnostic pathognomonic marker for miliary TB."
       },
       {
         "id": "D",
         "text": "In TB meningitis, CSF glucose approximates serum glucose level",
         "answer": "F",
-        "explanation": "This statement is incorrect: In TB meningitis, CSF glucose approximates serum glucose level."
+        "explanation": "In tuberculous meningitis, CSF glucose is markedly REDUCED (<30–40% of simultaneous blood glucose), not equal to serum glucose."
       },
       {
         "id": "E",
         "text": "Pleural fluid biochemical content is similar regardless of stage of the disease",
         "answer": "F",
-        "explanation": "This statement is incorrect: Pleural fluid biochemical content is similar regardless of stage of the disease."
+        "explanation": "Tuberculous pleural effusion exudative protein and LDH concentrations evolve over time from early lymphocytic exudate to fibrinopurulent loculation."
       }
     ]
   },
@@ -18138,31 +18138,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Poncet arthritis is seen many years after the initial infection",
         "answer": "F",
-        "explanation": "This statement is incorrect: Poncet arthritis is seen many years after the initial infection."
+        "explanation": "Poncet disease (tuberculous reactive arthritis) is an acute sterile polyarthritis that occurs during active primary or post-primary tuberculosis."
       },
       {
         "id": "B",
         "text": "Assmann's focus precedes Ghon focus in pulmonary disease",
         "answer": "F",
-        "explanation": "This statement is incorrect: Assmann's focus precedes Ghon focus in pulmonary disease."
+        "explanation": "The Ghon focus (subpleural parenchymal lesion) is the primary initial lesion of pulmonary TB, whereas Assmann focus refers to subapical post-primary reinfection/reactivation."
       },
       {
         "id": "C",
         "text": "Pott's disease is a form of osteomyelitis",
         "answer": "T",
-        "explanation": "This statement is correct: Pott's disease is a form of osteomyelitis."
+        "explanation": "Pott disease (tuberculous spondylitis) is a chronic granulomatous osteomyelitis affecting the anterior vertebral bodies and intervertebral discs."
       },
       {
         "id": "D",
         "text": "Tuberculous meningitis begins as a non-specific illness",
         "answer": "T",
-        "explanation": "This statement is correct: Tuberculous meningitis begins as a non-specific illness."
+        "explanation": "Tuberculous meningitis characteristically begins insidiously with non-specific prodromal symptoms (fever, malaise, irritability, anorexia) lasting 1–3 weeks before stage 2/3 neurological signs appear."
       },
       {
         "id": "E",
         "text": "Hodgkin's lymphoma is a close differential diagnosis in children",
         "answer": "T",
-        "explanation": "This statement is correct: Hodgkin's lymphoma is a close differential diagnosis in children."
+        "explanation": "Hodgkin lymphoma (presenting with persistent cervical lymphadenopathy and B-symptoms) is a primary differential diagnosis for pediatric tuberculous lymphadenitis."
       }
     ]
   },
@@ -18212,25 +18212,25 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Gumma",
         "answer": "T",
-        "explanation": "Gumma — this is the exception — gumma is syphilitic."
+        "explanation": "Gumma (granulomatous tertiary skin/mucosal lesion) is a hallmark of late syphilis, NOT a manifestation of cutaneous tuberculosis."
       },
       {
         "id": "B",
         "text": "Scrofuloderma",
         "answer": "F",
-        "explanation": "This is incorrect. genuine cutaneous TB."
+        "explanation": "Scrofuloderma is a direct extension of tuberculous lymphadenitis to the overlying skin, forming violaceous breaking-down ulcers."
       },
       {
         "id": "C",
         "text": "Erythema nodosum",
         "answer": "F",
-        "explanation": "This is incorrect. genuine association."
+        "explanation": "Erythema nodosum (painful erythematous nodules on anterior shins) is a well-known hypersensitivity cutaneous manifestation of primary TB."
       },
       {
         "id": "D",
         "text": "Subcutaneous nodules",
         "answer": "F",
-        "explanation": "This is incorrect. genuine association."
+        "explanation": "Subcutaneous tuberculous nodules (metastatic tuberculous abscesses / gummatous scrofuloderma) are recognized cutaneous manifestations of disseminated TB."
       },
       {
         "id": "E",
@@ -18249,31 +18249,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "TB adenitis 3-9 months",
         "answer": "T",
-        "explanation": "This statement is correct: TB adenitis 3-9 months."
+        "explanation": "Under Wallgren's timetable of post-primary TB, tuberculous superficial lymphadenitis (adenitis) typically manifests 3–9 months following primary infection."
       },
       {
         "id": "B",
         "text": "TB meningitis 2-6 months",
         "answer": "T",
-        "explanation": "This statement is correct: TB meningitis 2-6 months."
+        "explanation": "Tuberculous meningitis and miliary TB are acute early hematogenous complications occurring primarily within 2–6 months post-primary infection."
       },
       {
         "id": "C",
         "text": "Joints and bone after decades",
         "answer": "F",
-        "explanation": "This statement is incorrect: Joints and bone after decades."
+        "explanation": "Tuberculous bone and joint lesions (Pott disease) peak within 1–3 years post-primary infection, not decades."
       },
       {
         "id": "D",
         "text": "Renal TB 5 to 6 years",
         "answer": "F",
-        "explanation": "This statement is incorrect: Renal TB 5 to 6 years."
+        "explanation": "Renal tuberculosis is a late extrapulmonary complication typically appearing 5–15 years following primary infection."
       },
       {
         "id": "E",
         "text": "Miliary TB 9-12 months",
         "answer": "T",
-        "explanation": "This statement is correct: Miliary TB 9-12 months."
+        "explanation": "Miliary tuberculosis develops rapidly within 3–6 months post-primary infection following massive hematogenous dissemination."
       }
     ]
   },
@@ -18286,31 +18286,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Isoniazid – Bacteriostatic",
         "answer": "F",
-        "explanation": "This is incorrect. bactericidal."
+        "explanation": "Isoniazid (INH) is a potent BACTERICIDAL anti-TB drug that inhibits mycolic acid cell wall synthesis in rapidly dividing mycobacteria."
       },
       {
         "id": "B",
         "text": "Rifampicin – Bacteriostatic",
         "answer": "F",
-        "explanation": "This is incorrect. bactericidal."
+        "explanation": "Rifampicin (RIF) is a BACTERICIDAL agent that inhibits bacterial DNA-dependent RNA polymerase."
       },
       {
         "id": "C",
         "text": "Pyrazinamide – Bactericidal",
         "answer": "T",
-        "explanation": "This statement is correct: Pyrazinamide – Bactericidal."
+        "explanation": "Pyrazinamide (PZA) is BACTERICIDAL against semi-dormant intracellular mycobacteria within acidic phagolysosomes."
       },
       {
         "id": "D",
         "text": "Ethambutol – Bactericidal",
         "answer": "F",
-        "explanation": "This is incorrect. bacteriostatic."
+        "explanation": "Ethambutol (EMB) is BACTERIOSTATIC at standard doses, inhibiting arabinosyl transferase in cell wall synthesis."
       },
       {
         "id": "E",
         "text": "Streptomycin – Bactericidal",
         "answer": "T",
-        "explanation": "This statement is correct: Streptomycin – Bactericidal."
+        "explanation": "Streptomycin is an aminoglycoside antibiotic with BACTERICIDAL action inhibiting bacterial 30S ribosomal protein synthesis."
       }
     ]
   },
@@ -18323,31 +18323,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Mycobacterium tuberculosis is transmitted primarily via airborne droplet nuclei (inhalation), not large droplets."
       },
       {
         "id": "B",
         "text": "Mycobacterium tuberculosis",
         "answer": "T",
-        "explanation": "This statement is correct: Mycobacterium tuberculosis."
+        "explanation": "M. tuberculosis is an airborne pathogen causing pulmonary and extrapulmonary tuberculosis."
       },
       {
         "id": "C",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early clinical diagnosis and prompt anti-TB chemotherapy reduce transmission and prevent severe complications."
       },
       {
         "id": "D",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "Empiric anti-TB treatment may be started on clinical/radiological grounds in severe childhood TB when lab confirmation is difficult."
       },
       {
         "id": "E",
         "text": "Parental education is an essential component of management",
         "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "explanation": "Parental education regarding treatment adherence (DOTS) is vital to prevent drug resistance."
       }
     ]
   },
@@ -18360,31 +18360,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Abdominal calcifications are non-specific findings present in multiple pathological conditions."
       },
       {
         "id": "B",
         "text": "Abdominal tuberculosis",
         "answer": "T",
-        "explanation": "This statement is correct: Abdominal tuberculosis."
+        "explanation": "Abdominal tuberculosis characteristically causes calcified mesenteric lymph nodes on abdominal radiographs."
       },
       {
         "id": "C",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early diagnosis and appropriate anti-TB therapy prevent intestinal obstruction and chronic enteropathy."
       },
       {
         "id": "D",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "In severe abdominal TB, empiric anti-TB therapy is initiated on strong clinical/imaging suspicion."
       },
       {
         "id": "E",
         "text": "Parental education is an essential component of management",
         "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "explanation": "Educating parents regarding nutritional rehabilitation and compliance is essential."
       }
     ]
   },
@@ -18397,31 +18397,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Hemoptysis (blood-stained sputum) is supportive of pulmonary TB or bronchiectasis but is not pathognomonic."
       },
       {
         "id": "B",
         "text": "Blood-stained sputum = pulmonary TB",
         "answer": "T",
-        "explanation": "This statement is correct: Blood-stained sputum = pulmonary TB."
+        "explanation": "Blood-stained sputum (hemoptysis) in older children and adolescents is a classic presentation of pulmonary tuberculosis."
       },
       {
         "id": "C",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early diagnosis improves long-term lung function and prevents structural lung damage."
       },
       {
         "id": "D",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "Empiric treatment is initiated in life-threatening presentations without waiting for slow mycobacterial culture results."
       },
       {
         "id": "E",
         "text": "Parental education is an essential component of management",
         "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "explanation": "Parental and patient health education ensures complete 6-month treatment adherence."
       }
     ]
   },
@@ -18434,31 +18434,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Usually seen in younger children",
         "answer": "T",
-        "explanation": "This statement is correct: Usually seen in younger children."
+        "explanation": "Non-Hodgkin Lymphoma (NHL) accounts for ~60% of pediatric lymphomas and predominates in younger children (peak 5–10 years)."
       },
       {
         "id": "B",
         "text": "Associated with contiguous spread",
         "answer": "F",
-        "explanation": "This statement is incorrect: Associated with contiguous spread."
+        "explanation": "NHL spreads non-contiguously via hematogenous and lymphatic routes, whereas Hodgkin lymphoma spreads predictably via contiguous lymph node chains."
       },
       {
         "id": "C",
         "text": "Typically involves extranodal lymph nodes",
         "answer": "T",
-        "explanation": "This statement is correct: Typically involves extranodal lymph nodes."
+        "explanation": "Pediatric NHL characteristically presents with extranodal involvement (abdominal masses in endemic Burkitt, anterior mediastinal mass in T-lymphoblastic)."
       },
       {
         "id": "D",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Non-Hodgkin lymphoma diagnosis requires tissue biopsy and immunophenotyping rather than relying on pathognomonic physical signs."
       },
       {
         "id": "E",
         "text": "Association with fever indicates poor prognosis",
         "answer": "T",
-        "explanation": "This statement is correct: Association with fever indicates poor prognosis."
+        "explanation": "Systemic \"B symptoms\" (fever >38°C, night sweats, weight loss >10%) indicate high tumor burden and aggressive NHL subtypes."
       }
     ]
   },
@@ -18471,31 +18471,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Disseminated lymph node involvement is uncommon",
         "answer": "F",
-        "explanation": "This statement is incorrect: Disseminated lymph node involvement is uncommon."
+        "explanation": "Hodgkin lymphoma typically presents with localized, orderly, contiguous cervical/supraclavicular lymphadenopathy rather than widespread disseminated nodal involvement."
       },
       {
         "id": "B",
         "text": "Liver, spleen and bone marrow involvement is uncommon",
         "answer": "T",
-        "explanation": "This statement is correct: Liver, spleen and bone marrow involvement is uncommon."
+        "explanation": "Extranodal involvement of liver, spleen, and bone marrow is uncommon at presentation in Hodgkin lymphoma (indicates Stage IV disease)."
       },
       {
         "id": "C",
         "text": "Commoner in less than 5 years",
         "answer": "F",
-        "explanation": "This statement is incorrect: Commoner in less than 5 years."
+        "explanation": "Hodgkin lymphoma is EXTREMELY RARE in children under 5 years of age; it peaks in adolescents (15–19 years) and young adults."
       },
       {
         "id": "D",
         "text": "Treatment regimen is COM",
         "answer": "F",
-        "explanation": "This statement is incorrect: Treatment regimen is COM."
+        "explanation": "Standard chemotherapy for pediatric Hodgkin lymphoma consists of multi-agent regimens like ABVD or OEPA/COPP, not COM."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Diagnosis of Hodgkin lymphoma is established by demonstrating characteristic Reed-Sternberg cells on lymph node biopsy."
       }
     ]
   },
@@ -18508,31 +18508,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Clinical presentation of TB requires histological and microbiological confirmation."
       },
       {
         "id": "B",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early diagnosis and prompt anti-TB treatment significantly improve pediatric survival."
       },
       {
         "id": "C",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "Empiric anti-TB therapy is initiated in pediatric TB meningitis or severe miliary TB while diagnostic tests are pending."
       },
       {
         "id": "D",
         "text": "Parental education is an essential component of management",
         "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "explanation": "Parental education ensures strict treatment adherence and prevents default."
       },
       {
         "id": "E",
         "text": "Hodgkin's lymphoma is a close differential diagnosis in children",
         "answer": "T",
-        "explanation": "This statement is correct: Hodgkin's lymphoma is a close differential diagnosis in children."
+        "explanation": "Hodgkin lymphoma (presenting with fever, night sweats, and mediastinal/cervical adenopathy) is a major differential diagnosis for TB."
       }
     ]
   },
@@ -18551,7 +18551,7 @@ window.QUESTIONS_DATA = [
         "id": "B",
         "text": "Burkitt lymphoma and thickening of lamina dura",
         "answer": "F",
-        "explanation": "This is incorrect. it's loss, not thickening."
+        "explanation": "Endemic Burkitt lymphoma causes radiologic LOSS (osteolytic destruction) of the lamina dura surrounding teeth in the jaw, not thickening."
       },
       {
         "id": "C",
@@ -18582,31 +18582,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Burkitt lymphoma",
         "answer": "T",
-        "explanation": "This statement is correct: Burkitt lymphoma."
+        "explanation": "Burkitt lymphoma can infiltrate paraspinal tissues and extend into the spinal canal, causing acute spinal cord compression."
       },
       {
         "id": "B",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Spinal cord compression requires urgent neurosurgical or oncologic intervention based on MRI findings."
       },
       {
         "id": "C",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early diagnosis and urgent decompression or chemotherapy prevent permanent paraplegia."
       },
       {
         "id": "D",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "Emergency decompression/steroids are initiated immediately in acute spinal cord compression before waiting for biopsy results."
       },
       {
         "id": "E",
         "text": "Parental education is an essential component of management",
         "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "explanation": "Educating parents regarding neurological red flags allows rapid presentation for emergency care."
       }
     ]
   },
@@ -18619,31 +18619,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Age <1yr",
         "answer": "F",
-        "explanation": "This statement is incorrect: Age <1yr."
+        "explanation": "Age < 1 year (infant ALL) carries a very POOR prognosis due to high frequency of KMT2A (MLL) gene rearrangements."
       },
       {
         "id": "B",
         "text": "WBC count >100,000",
         "answer": "F",
-        "explanation": "This statement is incorrect: WBC count >100,000."
+        "explanation": "Initial leukocyte count >= 100,000/mm3 (or >= 50,000/mm3) is a major POOR prognostic factor in childhood ALL."
       },
       {
         "id": "C",
         "text": "Translocation t(9,22)",
         "answer": "F",
-        "explanation": "This statement is incorrect: Translocation t(9,22)."
+        "explanation": "Translocation t(9;22) [Philadelphia chromosome / BCR-ABL1] confers a POOR prognosis in ALL."
       },
       {
         "id": "D",
         "text": "High lactate dehydrogenase",
         "answer": "F",
-        "explanation": "This statement is incorrect: High lactate dehydrogenase."
+        "explanation": "Markedly elevated serum lactate dehydrogenase (LDH) reflects high tumor burden and rapid cell turnover, indicating adverse prognosis."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "ALL risk stratification relies on age, initial WBC count, cytogenetics, and early treatment response (MRD)."
       }
     ]
   },
@@ -18656,31 +18656,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "WBC ≥50,000/mm3",
         "answer": "T",
-        "explanation": "This statement is correct: WBC ≥50,000/mm3."
+        "explanation": "Initial leukocyte count >= 50,000/mm3 is a high-risk POOR prognostic indicator in childhood ALL."
       },
       {
         "id": "B",
         "text": "Age >10",
         "answer": "T",
-        "explanation": "This statement is correct: Age >10."
+        "explanation": "Age >= 10 years at diagnosis is classified as high-risk with worse event-free survival compared to age 1–9 years."
       },
       {
         "id": "C",
         "text": "WBC <50,000/mm3",
         "answer": "F",
-        "explanation": "This statement is incorrect: WBC <50,000/mm3."
+        "explanation": "Initial leukocyte count < 50,000/mm3 is a favorable standard-risk prognostic feature in ALL (claiming it is poor prognosis is false)."
       },
       {
         "id": "D",
         "text": "Hypodiploidy ≤45 chromosomes",
         "answer": "T",
-        "explanation": "This statement is correct: Hypodiploidy ≤45 chromosomes."
+        "explanation": "Hypodiploidy (<45 chromosomes) is a strong adverse cytogenetic prognostic factor in childhood ALL."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Prognostic classification in ALL requires integrating cytogenetic, molecular, and Minimal Residual Disease (MRD) parameters."
       }
     ]
   },
@@ -18692,32 +18692,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "WBC >50,000/ml",
-        "answer": "F",
-        "explanation": "This statement is incorrect: WBC >50,000/ml."
+        "answer": "T",
+        "explanation": "The gastrointestinal tract is the primary site of origin for endemic Burkitt lymphoma in tropical Africa (abdominal mass involving ileocecal region)."
       },
       {
         "id": "B",
         "text": "Age >10 years",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Age >10 years."
+        "answer": "T",
+        "explanation": "Bone marrow infiltration occurs in advanced Burkitt lymphoma (Stage IV / leukemic phase)."
       },
       {
         "id": "C",
         "text": "Hypodiploidy",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hypodiploidy."
+        "explanation": "Burkitt lymphoma is characteristically composed of small non-cleaved B lymphocytes with a \"starry-sky\" histologic appearance, NOT T-cell origin."
       },
       {
         "id": "D",
         "text": "WBC <50,000/ml",
         "answer": "T",
-        "explanation": "This statement is correct: WBC <50,000/ml."
+        "explanation": "Burkitt lymphoma is strongly associated with Epstein-Barr Virus (EBV) infection (>95% in endemic cases) and c-MYC translocation t(8;14)."
       },
       {
         "id": "E",
         "text": "Trisomies 4, 10 and 17",
         "answer": "T",
-        "explanation": "This statement is correct: Trisomies 4, 10 and 17."
+        "explanation": "Rapid tumor lysis syndrome is a high-risk metabolic complication following initiation of induction chemotherapy in Burkitt lymphoma."
       }
     ]
   },
@@ -18730,31 +18730,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Gingival hypertrophy",
         "answer": "F",
-        "explanation": "This statement is incorrect: Gingival hypertrophy."
+        "explanation": "In endemic African Burkitt lymphoma, jaw involvement predominates in younger children (<5–7 years), whereas abdominal involvement predominates in older children."
       },
       {
         "id": "B",
         "text": "Gingival hypotrophy",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Gingival hypotrophy."
+        "answer": "T",
+        "explanation": "Jaw mass involvement is a classic presenting feature of endemic Burkitt lymphoma."
       },
       {
         "id": "C",
         "text": "Granulocytic sarcomas",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Granulocytic sarcomas."
+        "answer": "T",
+        "explanation": "Abdominal distension due to ileocecal or mesenteric mass is the most common presentation in sporadic Burkitt lymphoma and older children in endemic areas."
       },
       {
         "id": "D",
         "text": "DIC",
-        "answer": "F",
-        "explanation": "This statement is incorrect: DIC."
+        "answer": "T",
+        "explanation": "Translocation t(8;14)(q24;q32) juxtaposition of c-MYC oncogene to the immunoglobulin heavy chain locus is present in >80% of Burkitt lymphoma cases."
       },
       {
         "id": "E",
         "text": "Blueberry muffins",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Blueberry muffins."
+        "answer": "T",
+        "explanation": "Endemic Burkitt lymphoma is highly curable (>80-90% survival) with short-course intensive combination chemotherapy."
       }
     ]
   },
@@ -18766,32 +18766,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Leukaemia cutis",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Leukaemia cutis."
+        "answer": "T",
+        "explanation": "Abdominal tumor mass is a recognized clinical feature of non-Hodgkin lymphoma (especially Burkitt lymphoma)."
       },
       {
         "id": "B",
         "text": "Proptosis",
         "answer": "T",
-        "explanation": "This statement is correct: Proptosis."
+        "explanation": "Rapidly enlarging cervical or supraclavicular lymphadenopathy is a classic presentation of lymphoma."
       },
       {
         "id": "C",
         "text": "Gingival hypertrophy",
         "answer": "T",
-        "explanation": "This statement is correct: Gingival hypertrophy."
+        "explanation": "Unexplained fever >38°C (B symptom) is a recognized clinical feature of pediatric lymphoma."
       },
       {
         "id": "D",
         "text": "Massive splenomegaly",
         "answer": "T",
-        "explanation": "This statement is correct: Massive splenomegaly."
+        "explanation": "Significant weight loss >10% over 6 months (B symptom) is a recognized feature of lymphoma."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Isolated localized bone fractures without a primary bone lesion are not a primary presentation of non-Hodgkin lymphoma."
       }
     ]
   },
@@ -18804,31 +18804,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Is the commonest malignancy in Nigeria",
         "answer": "F",
-        "explanation": "This statement is incorrect: Is the commonest malignancy in Nigeria."
+        "explanation": "Burkitt lymphoma is a high-grade, extremely rapidly growing B-cell neoplasm, NOT a low-grade tumor."
       },
       {
         "id": "B",
         "text": "Peak incidence of ALL is 2-6 years",
         "answer": "T",
-        "explanation": "This statement is correct: Peak incidence of ALL is 2-6 years."
+        "explanation": "Abdominal distension due to intestinal or organ mass is a cardinal feature of pediatric Burkitt lymphoma."
       },
       {
         "id": "C",
         "text": "Incidence is the same in boys and girls",
         "answer": "T",
-        "explanation": "This statement is correct: Incidence is the same in boys and girls."
+        "explanation": "Endemic Burkitt lymphoma is strongly associated with Epstein-Barr Virus (EBV) co-infection and Plasmodium falciparum malaria exposure."
       },
       {
         "id": "D",
         "text": "Girls have a better prognosis",
         "answer": "T",
-        "explanation": "This statement is correct: Girls have a better prognosis."
+        "explanation": "Loss of lamina dura around teeth and tooth loosening are early radiologic jaw manifestations of endemic Burkitt lymphoma."
       },
       {
         "id": "E",
         "text": "Outcome/prognosis is the same irrespective of whether treatment is instituted early or not",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Outcome/prognosis is the same irrespective of whether treatment is instituted early or not."
+        "answer": "T",
+        "explanation": "Burkitt lymphoma is extremely chemosensitive, responding dramatically to combination chemotherapy."
       }
     ]
   },
@@ -18840,32 +18840,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Cyclophosphamide therapy",
-        "answer": "T",
-        "explanation": "This statement is correct: Cyclophosphamide therapy."
+        "answer": "F",
+        "explanation": "Hodgkin lymphoma is characteristically diagnosed by demonstrating Reed-Sternberg cells on lymph node biopsy."
       },
       {
         "id": "B",
         "text": "Diphtheria",
         "answer": "T",
-        "explanation": "This statement is correct: Diphtheria."
+        "explanation": "Cervical lymphadenopathy (painless, firm, non-tender lymph nodes) is the commonest presenting feature of Hodgkin lymphoma."
       },
       {
         "id": "C",
         "text": "Herpes simplex virus II",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Herpes simplex virus II."
+        "answer": "T",
+        "explanation": "Mediastinal mass involvement is present in ~60% of older children and adolescents with Hodgkin lymphoma."
       },
       {
         "id": "D",
         "text": "Cancrum oris",
         "answer": "T",
-        "explanation": "This statement is correct: Cancrum oris."
+        "explanation": "B symptoms (fever, night sweats, weight loss) carry prognostic significance and dictate treatment staging in Hodgkin lymphoma."
       },
       {
         "id": "E",
         "text": "Oral candidiasis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Oral candidiasis."
+        "explanation": "Hodgkin lymphoma is highly curable with radiation and multi-agent chemotherapy (>90% 5-year survival in localized disease)."
       }
     ]
   },
@@ -18878,31 +18878,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Acute Lymphoblastic Leukemia (ALL) accounts for 75–80% of pediatric leukemias (AML accounts for ~15–20%)."
       },
       {
         "id": "B",
         "text": "Diphtheria",
         "answer": "T",
-        "explanation": "This statement is correct: Diphtheria."
+        "explanation": "Peak incidence of childhood ALL occurs between 2 and 5 years of age."
       },
       {
         "id": "C",
         "text": "Cytotoxics like vincristine",
         "answer": "T",
-        "explanation": "This statement is correct: Cytotoxics like vincristine."
+        "explanation": "Bone marrow failure in ALL presents with anemia (pallor), thrombocytopenia (petechiae/bleeding), and neutropenia (fever/infections)."
       },
       {
         "id": "D",
         "text": "Steven-Johnson syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Steven-Johnson syndrome."
+        "explanation": "Hepatosplenomegaly and lymphadenopathy result from leukemic blast infiltration of reticuloendothelial organs."
       },
       {
         "id": "E",
         "text": "Noma (cancrum oris)",
         "answer": "T",
-        "explanation": "This statement is correct: Noma (cancrum oris)."
+        "explanation": "Central Nervous System (CNS) leukemia is evaluated by CSF cytospin for blast cells."
       }
     ]
   },
@@ -18914,32 +18914,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "The primary goal is to cure",
-        "answer": "T",
-        "explanation": "This statement is correct: The primary goal is to cure."
+        "answer": "F",
+        "explanation": "High initial WBC count (>=50,000/mm3) is a POOR prognostic factor in childhood ALL."
       },
       {
         "id": "B",
         "text": "The second goal includes preservation of vision and the eye itself",
-        "answer": "T",
-        "explanation": "This statement is correct: The second goal includes preservation of vision and the eye itself."
+        "answer": "F",
+        "explanation": "Age < 1 year (infant ALL) or age >= 10 years is associated with adverse prognosis."
       },
       {
         "id": "C",
         "text": "Enucleation is indicated if useful vision can be salvaged",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Enucleation is indicated if useful vision can be salvaged."
+        "answer": "T",
+        "explanation": "Hyperdiploidy (>50 chromosomes / DNA index > 1.16) is a favorable cytogenetic prognostic factor in childhood ALL."
       },
       {
         "id": "D",
         "text": "For large tumours, external beam irradiation precedes chemotherapy",
-        "answer": "F",
-        "explanation": "This statement is incorrect: For large tumours, external beam irradiation precedes chemotherapy."
+        "answer": "T",
+        "explanation": "Presence of the t(12;21) ETV6-RUNX1 (TEL-AML1) fusion gene confers a favorable prognosis in ALL."
       },
       {
         "id": "E",
         "text": "Episcleral plaque radiotherapy is also a modality of treatment with less morbidity",
-        "answer": "T",
-        "explanation": "This statement is correct: Episcleral plaque radiotherapy is also a modality of treatment with less morbidity."
+        "answer": "F",
+        "explanation": "Slow early response to induction chemotherapy / persistent Minimal Residual Disease (MRD) indicates poor prognosis."
       }
     ]
   },
@@ -18951,32 +18951,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Greater than 50% of severe disease present with overt bleeding",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Greater than 50% of severe disease present with overt bleeding."
+        "answer": "T",
+        "explanation": "Age 1 to 9 years at diagnosis is a standard-risk favorable prognostic factor in childhood ALL."
       },
       {
         "id": "B",
         "text": "Sensorineural deafness that is associated in early disease is permanent",
         "answer": "T",
-        "explanation": "This statement is correct: Sensorineural deafness that is associated in early disease is permanent."
+        "explanation": "Initial WBC count < 50,000/mm3 is a standard-risk favorable prognostic feature."
       },
       {
         "id": "C",
         "text": "Hib conjugate vaccine has dramatically reduced invasive Haemophilus disease",
         "answer": "T",
-        "explanation": "TRUE: Routine Hib immunisation has made Hib meningitis and epiglottitis rare in vaccinated populations."
+        "explanation": "Rapid early clearance of peripheral blasts by day 8 of induction therapy indicates favorable prognosis."
       },
       {
         "id": "D",
         "text": "Lumbar puncture should be deferred if there are signs of raised intracranial pressure",
-        "answer": "T",
-        "explanation": "TRUE: Papilloedema, focal neurology or rapidly declining consciousness are contraindications to immediate LP."
+        "answer": "F",
+        "explanation": "Hypodiploidy (<45 chromosomes) is a strong adverse prognostic factor."
       },
       {
         "id": "E",
         "text": "Third-generation cephalosporins are first-line empiric therapy for suspected bacterial meningitis",
-        "answer": "T",
-        "explanation": "TRUE: Cefotaxime or ceftriaxone provide good CSF penetration against the common pathogens."
+        "answer": "F",
+        "explanation": "Presence of t(9;22) Philadelphia chromosome confers a high-risk adverse prognosis."
       }
     ]
   },
@@ -19025,32 +19025,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "It is always associated with bleeding from body orifices",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It is always associated with bleeding from body orifices."
+        "answer": "T",
+        "explanation": "Painless progressive abdominal mass is the most common presenting sign of Nephroblastoma (Wilms tumor)."
       },
       {
         "id": "B",
         "text": "Ribavirin is the antiviral agent of choice",
         "answer": "T",
-        "explanation": "This statement is correct: Ribavirin is the antiviral agent of choice."
+        "explanation": "Hematuria (microscopic or macroscopic) occurs in 20–30% of children with Wilms tumor due to collecting system invasion."
       },
       {
         "id": "C",
         "text": "Health care workers are at greater risk of contracting the infection",
         "answer": "T",
-        "explanation": "This statement is correct: Health care workers are at greater risk of contracting the infection."
+        "explanation": "Hypertension occurs in ~25% of Wilms tumor cases due to renin secretion by tumor cells or renal ischemia."
       },
       {
         "id": "D",
         "text": "It may present with Acute Kidney Injury in children",
         "answer": "T",
-        "explanation": "This statement is correct: It may present with Acute Kidney Injury in children."
+        "explanation": "Aniridia (absence of iris) is associated with WAGR syndrome (Wilms tumor, Aniridia, Genitourinary anomalies, Range of developmental delay)."
       },
       {
         "id": "E",
         "text": "Rodent control is key in epidemic response",
-        "answer": "T",
-        "explanation": "This statement is correct: Rodent control is key in epidemic response."
+        "answer": "F",
+        "explanation": "Wilms tumor peaks between 2 and 5 years of age and carries an excellent prognosis (>90% survival in localized disease)."
       }
     ]
   },
@@ -19063,31 +19063,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is an autosomal recessive disorder",
         "answer": "T",
-        "explanation": "This statement is correct: It is an autosomal recessive disorder."
+        "explanation": "Neuroblastoma is the most common extracranial solid tumor of infancy and childhood."
       },
       {
         "id": "B",
         "text": "It is as a result of insertion of glutamic acid in place of valine",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It is as a result of insertion of glutamic acid in place of valine."
+        "answer": "T",
+        "explanation": "Neuroblastoma arises from neural crest cells of the sympathetic nervous system (adrenal medulla or paraspinal ganglia)."
       },
       {
         "id": "C",
         "text": "Hydroxyurea reduces frequency of vaso-occlusive crises",
         "answer": "T",
-        "explanation": "TRUE: Hydroxyurea increases HbF and is disease-modifying therapy in sickle cell disease."
+        "explanation": "Abdominal mass (retroperitoneal, cross-midline) is the most common presentation."
       },
       {
         "id": "D",
         "text": "Pneumococcal vaccination is essential in sickle cell disease",
         "answer": "T",
-        "explanation": "TRUE: Functional asplenia greatly increases risk of invasive pneumococcal disease; vaccination and penicillin prophylaxis are mandatory."
+        "explanation": "Elevated urinary catecholamine metabolites (vanillylmandelic acid VMA and homovanillic acid HVA) are diagnostic in >90% of cases."
       },
       {
         "id": "E",
         "text": "Aplastic crisis is commonly triggered by parvovirus B19",
         "answer": "T",
-        "explanation": "TRUE: Parvovirus B19 causes transient red-cell aplasia that is particularly severe in patients with shortened red-cell survival."
+        "explanation": "Opsoclonus-myoclonus syndrome (\"dancing eyes, dancing feet\") is a classic paraneoplastic manifestation of neuroblastoma."
       }
     ]
   },
@@ -19100,31 +19100,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Haemoglobin S is a result of single base pair change, Thymine for Adenine",
         "answer": "T",
-        "explanation": "This statement is correct: Haemoglobin S is a result of single base pair change, Thymine for Adenine."
+        "explanation": "Periorbital ecchymosis (\"raccoon eyes\") results from metastatic neuroblastoma infiltration to the orbital bones."
       },
       {
         "id": "B",
         "text": "HbS is more than 50% of all haemoglobin",
         "answer": "T",
-        "explanation": "This statement is correct: HbS is more than 50% of all haemoglobin."
+        "explanation": "Bone marrow involvement with anemia and thrombocytopenia is common in Stage 4 neuroblastoma."
       },
       {
         "id": "C",
         "text": "Intravascular sickling occurs in the precapillary venules",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Intravascular sickling occurs in the precapillary venules."
+        "answer": "T",
+        "explanation": "Hepatomegaly due to diffuse liver metastases (Pepper syndrome) is characteristic of Stage 4S neuroblastoma in infants."
       },
       {
         "id": "D",
         "text": "Sickle cell disease is also an inflammatory condition",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Sickle cell disease is also an inflammatory condition."
+        "answer": "T",
+        "explanation": "Hypertension occurs in neuroblastoma due to tumor catecholamine secretion or renal artery compression."
       },
       {
         "id": "E",
         "text": "Extraerythrocytic changes lead to shortened RBC life span and haemolysis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Extraerythrocytic changes lead to shortened RBC life span and haemolysis."
+        "explanation": "Spontaneous regression can occur in Stage 4S neuroblastoma in infants <12 months of age."
       }
     ]
   },
@@ -19137,31 +19137,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is autosomal recessive",
         "answer": "T",
-        "explanation": "This statement is correct: It is autosomal recessive."
+        "explanation": "Retinoblastoma is the commonest primary intraocular malignancy of childhood."
       },
       {
         "id": "B",
         "text": "It occurs due to replacement of glutamine by valine at position 6 of beta chain",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It occurs due to replacement of glutamine by valine at position 6 of beta chain."
+        "answer": "T",
+        "explanation": "Leukocoria (white pupillary reflex / \"cat's eye reflex\") is the most common presenting sign."
       },
       {
         "id": "C",
         "text": "Senegal haplotype presents with more severe disease",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Senegal haplotype presents with more severe disease."
+        "answer": "T",
+        "explanation": "Strabismus is the second most common presenting sign of retinoblastoma."
       },
       {
         "id": "D",
         "text": "Bantu haplotype presents with less severe disease",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Bantu haplotype presents with less severe disease."
+        "answer": "T",
+        "explanation": "Hereditary retinoblastoma is caused by germline mutations in the RB1 tumor suppressor gene on chromosome 13q14."
       },
       {
         "id": "E",
         "text": "It can be diagnosed with isoelectric focusing in neonates",
-        "answer": "T",
-        "explanation": "This statement is correct: It can be diagnosed with isoelectric focusing in neonates."
+        "answer": "F",
+        "explanation": "Bilateral retinoblastoma is characteristically HEREDITARY and presents at an earlier age than unilateral non-hereditary cases."
       }
     ]
   },
@@ -19173,32 +19173,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Hand and foot rash/swelling",
-        "answer": "F",
-        "explanation": "This is incorrect. dactylitis is swelling, not rash."
+        "answer": "T",
+        "explanation": "Leukocoria is the classic presenting sign of retinoblastoma requiring urgent ophthalmologic evaluation."
       },
       {
         "id": "B",
         "text": "Acute cerebral syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Acute cerebral syndrome."
+        "explanation": "Strabismus indicates macular involvement or decreased visual acuity secondary to intraocular tumor."
       },
       {
         "id": "C",
         "text": "Avascular necrosis of head of femur",
         "answer": "T",
-        "explanation": "This statement is correct: Avascular necrosis of head of femur."
+        "explanation": "Red painful eye with secondary glaucoma occurs in advanced intraocular retinoblastoma."
       },
       {
         "id": "D",
         "text": "Priapism",
         "answer": "T",
-        "explanation": "This statement is correct: Priapism."
+        "explanation": "Proptosis and orbital mass occur in extraocular advanced retinoblastoma."
       },
       {
         "id": "E",
         "text": "Nephrotic syndrome",
         "answer": "F",
-        "explanation": "This statement is incorrect: Nephrotic syndrome."
+        "explanation": "Preservation of vision and the eye are secondary goals; curing the malignancy and saving life is the primary goal."
       }
     ]
   },
@@ -19210,32 +19210,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Jaundice",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Jaundice."
+        "answer": "T",
+        "explanation": "Osteosarcoma is the commonest primary malignant bone tumor in children and adolescents."
       },
       {
         "id": "B",
         "text": "Progressive pallor",
         "answer": "T",
-        "explanation": "This statement is correct: Progressive pallor."
+        "explanation": "Osteosarcoma predominantly affects the metaphyses of long tubular bones (distal femur, proximal tibia, proximal humerus)."
       },
       {
         "id": "C",
         "text": "Hypertension",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Hypertension."
+        "answer": "T",
+        "explanation": "Radiographs characteristically show a \"sunburst\" periosteal reaction and Codman triangle."
       },
       {
         "id": "D",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Serum alkaline phosphatase (ALP) and lactate dehydrogenase (LDH) are elevated and correlate with disease burden."
       },
       {
         "id": "E",
         "text": "Early diagnosis and intervention improve long-term outcome",
-        "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "answer": "F",
+        "explanation": "Lungs are the most common site of distant metastasis in osteosarcoma."
       }
     ]
   },
@@ -19285,31 +19285,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Sickle cell anaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Sickle cell anaemia."
+        "explanation": "Ewing sarcoma is a high-grade malignant small round blue cell tumor of bone and soft tissue."
       },
       {
         "id": "B",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Ewing sarcoma characteristically affects the diaphysis and metadiaphysis of long bones and flat pelvic bones."
       },
       {
         "id": "C",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Radiographs characteristically show an \"onion-skin\" (multilamellar) periosteal reaction."
       },
       {
         "id": "D",
         "text": "Laboratory confirmation is always required before starting treatment",
-        "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "answer": "T",
+        "explanation": "Translocation t(11;22)(q24;q12) fusing EWSR1 to FLI1 is present in >85–90% of Ewing sarcoma cases."
       },
       {
         "id": "E",
         "text": "Parental education is an essential component of management",
-        "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "answer": "F",
+        "explanation": "Ewing sarcoma peaks in adolescents aged 10 to 20 years and is extremely rare in infants under 1 year."
       }
     ]
   },
@@ -19321,32 +19321,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Pathological fracture through a lytic bone lesion can be the presenting feature of osteosarcoma or Ewing sarcoma."
       },
       {
         "id": "B",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Persistent localized bone pain worse at night is a cardinal presenting symptom of malignant bone tumors."
       },
       {
         "id": "C",
         "text": "Laboratory confirmation is always required before starting treatment",
-        "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "answer": "T",
+        "explanation": "Palpable firm, tender soft tissue mass overlying bone occurs as the tumor breaches the cortex."
       },
       {
         "id": "D",
         "text": "Sickle cell anaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Sickle cell anaemia."
+        "explanation": "Systemic symptoms (fever, weight loss, elevated ESR) are more frequent in Ewing sarcoma than osteosarcoma."
       },
       {
         "id": "E",
         "text": "Parental education is an essential component of management",
-        "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "answer": "F",
+        "explanation": "Neoadjuvant chemotherapy followed by limb-sparing surgical resection is standard modern therapy."
       }
     ]
   },
@@ -19396,31 +19396,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "PT is normal",
         "answer": "T",
-        "explanation": "This statement is correct: PT is normal."
+        "explanation": "Rhabdomyosarcoma is the commonest soft tissue sarcoma in pediatric patients."
       },
       {
         "id": "B",
         "text": "APTT is prolonged",
         "answer": "T",
-        "explanation": "This statement is correct: APTT is prolonged."
+        "explanation": "Embryonal and alveolar are the two major histological subtypes of pediatric rhabdomyosarcoma."
       },
       {
         "id": "C",
         "text": "Prolonged bleeding time",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Prolonged bleeding time."
+        "answer": "T",
+        "explanation": "Head and neck (orbit, parameningeal) and genitourinary tract (bladder, prostate, vagina) are the commonest primary sites."
       },
       {
         "id": "D",
         "text": "Thrombin time is prolonged",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Thrombin time is prolonged."
+        "answer": "T",
+        "explanation": "Sarcoma botryoides is a grape-like embryonal rhabdomyosarcoma variant arising in mucosal cavities (vagina, bladder)."
       },
       {
         "id": "E",
         "text": "Platelet count decreased",
         "answer": "F",
-        "explanation": "This statement is incorrect: Platelet count decreased."
+        "explanation": "Multimodality therapy (chemotherapy, surgery, radiation) achieves high cure rates in localized rhabdomyosarcoma."
       }
     ]
   },
@@ -19433,31 +19433,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "They may bleed at infancy",
         "answer": "T",
-        "explanation": "This statement is correct: They may bleed at infancy."
+        "explanation": "Hepatoblastoma is the most common primary liver tumor in infants and young children (<3 years)."
       },
       {
         "id": "B",
         "text": "It is the most common cause of acquired bleeding disorder",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It is the most common cause of acquired bleeding disorder."
+        "answer": "T",
+        "explanation": "Serum alpha-fetoprotein (AFP) is markedly elevated in >90% of hepatoblastoma cases."
       },
       {
         "id": "C",
         "text": "Bleeding occurs without trauma",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Bleeding occurs without trauma."
+        "answer": "T",
+        "explanation": "Prematurity and low birth weight are established risk factors for hepatoblastoma."
       },
       {
         "id": "D",
         "text": "Excess factor VIII",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Excess factor VIII."
+        "answer": "T",
+        "explanation": "Beckwith-Wiedemann syndrome and Familial Adenomatous Polyposis (FAP) are associated genetic syndromes."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Surgical resection combined with neoadjuvant chemotherapy offers potential cure."
       }
     ]
   },
@@ -19470,31 +19470,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It is a quantitative haemoglobinopathy rather than a qualitative one",
         "answer": "T",
-        "explanation": "This statement is correct: It is a quantitative haemoglobinopathy rather than a qualitative one."
+        "explanation": "Astrocytoma (pilocytic astrocytoma) and Medulloblastoma are the commonest pediatric brain tumors."
       },
       {
         "id": "B",
         "text": "Bone marrow transplantation is a cure",
         "answer": "T",
-        "explanation": "This statement is correct: Bone marrow transplantation is a cure."
+        "explanation": "Posterior fossa is the commonest anatomical site for brain tumors in children aged 1–10 years."
       },
       {
         "id": "C",
         "text": "It is an example of ineffective erythropoiesis",
         "answer": "T",
-        "explanation": "This statement is correct: It is an example of ineffective erythropoiesis."
+        "explanation": "Signs of raised ICP (morning headache, vomiting, papilledema) are classic presenting features."
       },
       {
         "id": "D",
         "text": "Iron overload and high serum ferritin may result if left untreated",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Iron overload and high serum ferritin may result if left untreated."
+        "answer": "T",
+        "explanation": "Ataxia and dysmetria occur in posterior fossa cerebellar tumors."
       },
       {
         "id": "E",
         "text": "It usually presents after 12 months of age",
         "answer": "F",
-        "explanation": "This statement is incorrect: It usually presents after 12 months of age."
+        "explanation": "Contrast-enhanced Brain MRI is the gold standard neuroimaging modality."
       }
     ]
   },
@@ -19507,31 +19507,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Laboratory findings may reveal fragmented RBCs in peripheral blood",
         "answer": "T",
-        "explanation": "This statement is correct: Laboratory findings may reveal fragmented RBCs in peripheral blood."
+        "explanation": "Medulloblastoma is a highly malignant primitive neuroectodermal tumor (PNET) of the cerebellum."
       },
       {
         "id": "B",
         "text": "Chronic renal failure is a recognized complication",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Chronic renal failure is a recognized complication."
+        "answer": "T",
+        "explanation": "Medulloblastoma has a propensity to seed the spinal canal via CSF (\"drop metastases\")."
       },
       {
         "id": "C",
         "text": "Thrombocytopenia is a component",
         "answer": "T",
-        "explanation": "This statement is correct: Thrombocytopenia is a component."
+        "explanation": "Craniospinal radiation plus chemotherapy is standard post-operative management in children >3 years."
       },
       {
         "id": "D",
         "text": "Associated diarrhoea is typically bloody",
         "answer": "T",
-        "explanation": "This statement is correct: Associated diarrhoea is typically bloody."
+        "explanation": "Truncal ataxia and gait disturbance reflect cerebellar vermis involvement."
       },
       {
         "id": "E",
         "text": "Renal damage is a result of parenchymal infection caused by E. coli O157:H7",
-        "answer": "T",
-        "explanation": "This statement is correct: Renal damage is a result of parenchymal infection caused by E. coli O157:H7."
+        "answer": "F",
+        "explanation": "5-year survival in average-risk medulloblastoma approaches 70–80% with modern multimodality therapy."
       }
     ]
   },
@@ -19543,32 +19543,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Child's ABO blood group",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Child's ABO blood group."
+        "answer": "T",
+        "explanation": "Langerhans Cell Histiocytosis (LCH) presents with solitary or multifocal osteolytic bone lesions (\"punched-out\" skull lesions)."
       },
       {
         "id": "B",
         "text": "Child's rhesus group",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Child's rhesus group."
+        "answer": "T",
+        "explanation": "Birbeck granules (tennis-racket shaped intracytoplasmic organelles) on electron microscopy are diagnostic of LCH."
       },
       {
         "id": "C",
         "text": "Mother's ABO blood group",
         "answer": "T",
-        "explanation": "Mother's ABO blood group — not relevant."
+        "explanation": "Positive CD1a and Langerin (CD207) immunostaining confirms Langerhans cells."
       },
       {
         "id": "D",
         "text": "Father's ABO blood group",
         "answer": "T",
-        "explanation": "Father's ABO blood group — not relevant."
+        "explanation": "Diabetes insipidus occurs in LCH due to hypothalamic-pituitary axis involvement."
       },
       {
         "id": "E",
         "text": "Father's rhesus group",
-        "answer": "T",
-        "explanation": "Father's rhesus group — not relevant."
+        "answer": "F",
+        "explanation": "Seborrheic-like skin rash on the scalp and diaper area is a classic cutaneous feature of systemic LCH."
       }
     ]
   },
@@ -19580,32 +19580,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "There is female preponderance",
-        "answer": "F",
-        "explanation": "This statement is incorrect: There is female preponderance."
+        "answer": "T",
+        "explanation": "Infantile hypertrophic pyloric stenosis presents with non-bilious projectile vomiting in infants aged 2–8 weeks."
       },
       {
         "id": "B",
         "text": "It is commoner during dry hot weather",
         "answer": "T",
-        "explanation": "This statement is correct: It is commoner during dry hot weather."
+        "explanation": "An olive-shaped epigastric mass is palpable in the right upper quadrant after vomiting."
       },
       {
         "id": "C",
         "text": "Staphylococcus aureus is implicated in most cases seen in Zaria",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Staphylococcus aureus is implicated in most cases seen in Zaria."
+        "answer": "T",
+        "explanation": "Hypokalemic hypochloremic metabolic alkalosis is the classic metabolic derangement."
       },
       {
         "id": "D",
         "text": "P. falciparum is a known cause",
-        "answer": "F",
-        "explanation": "This statement is incorrect: P. falciparum is a known cause."
+        "answer": "T",
+        "explanation": "Abdominal ultrasound showing pyloric muscle thickness >=4 mm and length >=14 mm is diagnostic."
       },
       {
         "id": "E",
         "text": "Salmonella organism is caused via the same mechanism",
         "answer": "F",
-        "explanation": "This statement is incorrect: Salmonella organism is caused via the same mechanism."
+        "explanation": "Ramstedt pyloromyotomy is the definitive surgical treatment after fluid and electrolyte resuscitation."
       }
     ]
   },
@@ -19618,31 +19618,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Sodium 112mmol/l",
         "answer": "T",
-        "explanation": "This statement is correct: Sodium 112mmol/l."
+        "explanation": "Hyponatremia (Na < 130 mmol/L, e.g. 112 mmol/L) is a frequent electrolyte complication of acute gastroenteritis."
       },
       {
         "id": "B",
         "text": "Potassium 4mmol/l",
         "answer": "F",
-        "explanation": "This statement is incorrect: Potassium 4mmol/l."
+        "explanation": "Hypokalemia (potassium <3.5 mmol/L, e.g. 2.5–3.0 mmol/L) occurs due to stool potassium loss, not normal serum K (4.0 mmol/L)."
       },
       {
         "id": "C",
         "text": "Chloride 78mmol/l",
         "answer": "T",
-        "explanation": "This statement is correct: Chloride 78mmol/l."
+        "explanation": "Hypochloremia (Chloride < 95 mmol/L, e.g. 78 mmol/L) occurs with persistent vomiting and fluid loss."
       },
       {
         "id": "D",
         "text": "Bicarbonate 27mmol/l",
         "answer": "F",
-        "explanation": "This statement is incorrect: Bicarbonate 27mmol/l."
+        "explanation": "Metabolic acidosis with LOW serum bicarbonate (<15–18 mmol/L) is expected, NOT elevated bicarbonate (27 mmol/L)."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Electrolyte derangements require prompt laboratory assessment and intravenous or oral rehydration therapy."
       }
     ]
   },
@@ -19655,31 +19655,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Urea 9.5mmol/L, Na 168mmol/L, K 1.5mmol/L",
         "answer": "T",
-        "explanation": "This statement is correct: Urea 9.5mmol/L, Na 168mmol/L, K 1.5mmol/L."
+        "explanation": "In hypernatremic dehydration resulting from concentrated ORS administration, serum sodium is markedly elevated (>150–165 mmol/L), accompanied by prerenal azotemia (elevated urea) and hypokalemia."
       },
       {
         "id": "B",
         "text": "Urea 10mmol/L, Na 145mmol/L, K 2.0mmol/L",
         "answer": "T",
-        "explanation": "This statement is correct: Urea 10mmol/L, Na 145mmol/L, K 2.0mmol/L."
+        "explanation": "Serum sodium of 145 mmol/L with elevated urea represents mild hypernatremic/isotonic dehydration."
       },
       {
         "id": "C",
         "text": "Na 144mmol/L, K 4.2mmol/L",
         "answer": "F",
-        "explanation": "This statement is incorrect: Na 144mmol/L, K 4.2mmol/L."
+        "explanation": "A normal sodium (144 mmol/L) and potassium (4.2 mmol/L) profile does not reflect hypernatremic dehydration with hypokalemia."
       },
       {
         "id": "D",
         "text": "Na 172mmol/L, K 6.8mmol/L",
         "answer": "F",
-        "explanation": "This statement is incorrect: Na 172mmol/L, K 6.8mmol/L."
+        "explanation": "Hyperkalemia (K 6.8 mmol/L) is atypical for diarrhea with concentrated ORS ingestion, which characteristically causes hypokalemia due to renal and stool potassium wasting."
       },
       {
         "id": "E",
         "text": "Na 165mmol/L, K 7.0mmol/L",
         "answer": "F",
-        "explanation": "This statement is incorrect: Na 165mmol/L, K 7.0mmol/L."
+        "explanation": "Severe hyperkalemia (K 7.0 mmol/L) is not expected in infant hypernatremic dehydration from concentrated ORS, which depletes total body potassium."
       }
     ]
   },
@@ -19692,31 +19692,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Presents with bloody diarrhoea",
         "answer": "T",
-        "explanation": "This statement is correct: Presents with bloody diarrhoea."
+        "explanation": "Classic diarrhea-associated HUS (D+ HUS) is preceded by a prodrome of abdominal cramps and bloody diarrhea caused by Shiga toxin-producing E. coli."
       },
       {
         "id": "B",
         "text": "May be autosomal recessive",
         "answer": "T",
-        "explanation": "This statement is correct: May be autosomal recessive."
+        "explanation": "Atypical HUS (D- HUS) can be inherited in an autosomal recessive or dominant pattern due to genetic mutations in complement regulatory proteins."
       },
       {
         "id": "C",
         "text": "O157:H7 is associated with more than 80% of cases",
         "answer": "T",
-        "explanation": "This statement is correct: O157:H7 is associated with more than 80% of cases."
+        "explanation": "Enterohemorrhagic E. coli serotype O157:H7 is responsible for >80% of classic HUS cases in children."
       },
       {
         "id": "D",
         "text": "Commoner in children above four years",
         "answer": "F",
-        "explanation": "This statement is incorrect: Commoner in children above four years."
+        "explanation": "Classic HUS predominantly affects young infants and toddlers under 4–5 years of age (peak age 1–4 years)."
       },
       {
         "id": "E",
         "text": "Prothrombin time is prolonged",
         "answer": "F",
-        "explanation": "This statement is incorrect: Prothrombin time is prolonged."
+        "explanation": "Prothrombin time (PT) and activated partial thromboplastin time (aPTT) are characteristically NORMAL in classic HUS, distinguishing it from DIC."
       }
     ]
   },
@@ -19729,31 +19729,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Ascariasis",
         "answer": "F",
-        "explanation": "FALSE: Ascariasis (roundworm) does not cause gross rectal bleeding. It causes abdominal colic, intestinal obstruction, and malabsorption but not haematochezia."
+        "explanation": "Ascariasis (Ascaris lumbricoides) causes abdominal pain, malnutrition, and intestinal obstruction, but does NOT cause gross rectal bleeding (hematochezia)."
       },
       {
         "id": "B",
         "text": "Intussusception",
         "answer": "T",
-        "explanation": "TRUE: Intussusception produces the classic 'currant jelly' stool — bloody mucous discharge caused by venous congestion and mucosal ischaemia of the intussuscepted segment."
+        "explanation": "Intussusception causes mucosal ischemia and venous engorgement, extruding classic \"currant jelly\" mucus and blood in stool."
       },
       {
         "id": "C",
         "text": "Necrotizing enterocolitis (NEC)",
         "answer": "T",
-        "explanation": "TRUE: Necrotizing enterocolitis causes bloody, bilious, or mucoid stools due to intestinal ischaemia and bacterial overgrowth, predominantly in premature infants."
+        "explanation": "Necrotizing Enterocolitis (NEC) causes ischemic intestinal necrosis, presenting with gross or occult bloody stools in neonates."
       },
       {
         "id": "D",
         "text": "Anal fissure",
         "answer": "T",
-        "explanation": "TRUE: Anal fissures cause bright red blood streaked on the outside of stool or on toilet paper — the most common cause of lower GI bleeding in toddlers."
+        "explanation": "Anal fissures are the single most common cause of painful lower GI bleeding (bright red blood on stool exterior) in toddlers."
       },
       {
         "id": "E",
         "text": "Encopresis",
         "answer": "F",
-        "explanation": "FALSE: Encopresis is faecal soiling associated with chronic constipation. It does not cause bloody stools."
+        "explanation": "Encopresis is involuntary fecal soiling associated with chronic constipation and megacolon; it does not cause primary gastrointestinal bleeding."
       }
     ]
   },
@@ -19766,31 +19766,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Occurs in 10-20% of population worldwide",
         "answer": "T",
-        "explanation": "This statement is correct: Occurs in 10-20% of population worldwide."
+        "explanation": "Recurrent Abdominal Pain (RAP) affects approximately 10–20% of school-aged children globally."
       },
       {
         "id": "B",
         "text": "Commoner in girls",
         "answer": "T",
-        "explanation": "This statement is correct: Commoner in girls."
+        "explanation": "Functional recurrent abdominal pain shows a slight female predominance, particularly in early adolescence."
       },
       {
         "id": "C",
         "text": "Mostly occurs between 5 and 14 years",
         "answer": "T",
-        "explanation": "This statement is correct: Mostly occurs between 5 and 14 years."
+        "explanation": "The peak age of onset for pediatric recurrent abdominal pain is between 5 and 14 years."
       },
       {
         "id": "D",
         "text": "Obesity is a risk factor",
         "answer": "T",
-        "explanation": "This statement is correct: Obesity is a risk factor."
+        "explanation": "Childhood obesity is a recognized somatic and metabolic risk factor associated with increased prevalence of functional abdominal pain."
       },
       {
         "id": "E",
         "text": "Domestic violence is a risk factor",
         "answer": "T",
-        "explanation": "This statement is correct: Domestic violence is a risk factor."
+        "explanation": "Psychosocial stressors, family dysfunction, domestic violence, and school anxiety are major triggers for functional recurrent abdominal pain."
       }
     ]
   },
@@ -19803,31 +19803,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Calcification is associated with blockage of pancreatic duct by plugs containing desquamated epithelium",
         "answer": "T",
-        "explanation": "This statement is correct: Calcification is associated with blockage of pancreatic duct by plugs containing desquamated epithelium."
+        "explanation": "Tropical juvenile pancreatitis involves intraductal protein plug formation and pancreatic ductal calcifications."
       },
       {
         "id": "B",
         "text": "Abdominal pain may be colicky or constant in nature",
         "answer": "T",
-        "explanation": "This statement is correct: Abdominal pain may be colicky or constant in nature."
+        "explanation": "Abdominal pain in chronic tropical pancreatitis can manifest as recurrent colicky or continuous epigastric pain."
       },
       {
         "id": "C",
         "text": "Diabetes mellitus is always present",
         "answer": "F",
-        "explanation": "This statement is incorrect: Diabetes mellitus is always present."
+        "explanation": "Fibrocalculous pancreatic diabetes develops in advanced cases, but diabetes mellitus is NOT present in all early cases."
       },
       {
         "id": "D",
         "text": "It can be caused by multiple bacterial infections coexisting with intestinal parasitic infestations",
         "answer": "T",
-        "explanation": "This statement is correct: It can be caused by multiple bacterial infections coexisting with intestinal parasitic infestations."
+        "explanation": "Malnutrition, dietary toxins (cassava cyanogens), and recurrent infections are implicated in tropical pancreatitis pathogenesis."
       },
       {
         "id": "E",
         "text": "Crippling abdominal pain is always present",
         "answer": "F",
-        "explanation": "This statement is incorrect: Crippling abdominal pain is always present."
+        "explanation": "Pain intensity varies significantly; some patients present primarily with exocrine insufficiency or diabetes without crippling pain."
       }
     ]
   },
@@ -19840,31 +19840,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "It can be caused by direct administration of alkali",
         "answer": "T",
-        "explanation": "This statement is correct: It can be caused by direct administration of alkali."
+        "explanation": "Direct exogenously administered alkali (e.g. sodium bicarbonate therapy) causes iatrogenic metabolic alkalosis."
       },
       {
         "id": "B",
         "text": "Salicylate toxicity is a cause",
         "answer": "F",
-        "explanation": "This statement is incorrect: Salicylate toxicity is a cause."
+        "explanation": "Salicylate toxicity causes a complex mixed respiratory alkalosis and high anion-gap metabolic ACIDOSIS, not isolated metabolic alkalosis."
       },
       {
         "id": "C",
         "text": "An affected child should be placed on a respirator",
         "answer": "T",
-        "explanation": "This statement is correct: An affected child should be placed on a respirator."
+        "explanation": "Severe uncompensated metabolic alkalosis depresses the respiratory drive; mechanical ventilation may be required if severe hypoventilation occurs."
       },
       {
         "id": "D",
         "text": "Can be caused by hydrogen loss due to emesis from pyloric stenosis or nasogastric drainage",
         "answer": "T",
-        "explanation": "This statement is correct: Can be caused by hydrogen loss due to emesis from pyloric stenosis or nasogastric drainage."
+        "explanation": "Hypochloremic metabolic alkalosis is classically caused by persistent vomiting in congenital hypertrophic pyloric stenosis due to gastric HCl loss."
       },
       {
         "id": "E",
         "text": "Can be caused by acute diarrhoeal illness",
         "answer": "F",
-        "explanation": "This statement is incorrect: Can be caused by acute diarrhoeal illness."
+        "explanation": "Acute diarrheal illness causes excessive intestinal bicarbonate loss, resulting in hyperchloremic metabolic ACIDOSIS, not metabolic alkalosis."
       }
     ]
   },
@@ -19877,31 +19877,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Characterised by hyperglycaemia, ketonemia, and metabolic alkalosis",
         "answer": "F",
-        "explanation": "This is incorrect. metabolic acidosis."
+        "explanation": "Diabetic Ketoacidosis (DKA) is characterized by hyperglycemia, ketonemia, and high anion-gap metabolic ACIDOSIS (not alkalosis)."
       },
       {
         "id": "B",
         "text": "The initial fluid replacement involves giving a bolus of 40ml/kg",
         "answer": "F",
-        "explanation": "This statement is incorrect: The initial fluid replacement involves giving a bolus of 40ml/kg."
+        "explanation": "Initial fluid resuscitation in DKA involves a cautious bolus of 10–20 mL/kg of 0.9% Normal Saline over 1 hour; excessive fluid boluses (40 mL/kg) precipitate cerebral edema."
       },
       {
         "id": "C",
         "text": "Potassium replacement is needed even if the serum level is normal",
         "answer": "T",
-        "explanation": "This statement is correct: Potassium replacement is needed even if the serum level is normal."
+        "explanation": "Potassium supplementation (20–40 mmol/L) is added to rehydration fluids once renal function is confirmed, even if serum potassium is normal, because total body potassium is severely depleted."
       },
       {
         "id": "D",
         "text": "In DKA, bicarbonate is routinely given",
         "answer": "F",
-        "explanation": "This statement is incorrect: In DKA, bicarbonate is routinely given."
+        "explanation": "Routine sodium bicarbonate administration in DKA is CONTRAINDICATED due to risks of paradoxical CSF acidosis, hypokalemia, and cerebral edema."
       },
       {
         "id": "E",
         "text": "Risk of cerebral oedema is increased with rapid correction of hyperglycaemia",
         "answer": "T",
-        "explanation": "This statement is correct: Risk of cerebral oedema is increased with rapid correction of hyperglycaemia."
+        "explanation": "Rapid osmolality decline from overly aggressive fluid rehydration or rapid glucose reduction is the primary cause of fatal iatrogenic cerebral edema in DKA."
       }
     ]
   },
@@ -19914,31 +19914,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "DKA",
         "answer": "T",
-        "explanation": "This statement is correct: DKA."
+        "explanation": "A 9-year-old presenting with polyuria, polydipsia, polyphagia, severe abdominal pain, and acute consciousness loss has classic Diabetic Ketoacidosis (DKA)."
       },
       {
         "id": "B",
         "text": "Acute bacterial meningitis",
         "answer": "F",
-        "explanation": "This statement is incorrect: Acute bacterial meningitis."
+        "explanation": "Bacterial meningitis presents with fever, meningism, and altered sensorium, but does not present with classic osmotic polyuria and polydipsia."
       },
       {
         "id": "C",
         "text": "Cerebral malaria",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cerebral malaria."
+        "explanation": "Cerebral malaria presents with fever, seizures, and coma, without the classic history of osmotic polyuria and diabetic ketoacidosis."
       },
       {
         "id": "D",
         "text": "Severe malaria",
         "answer": "F",
-        "explanation": "This statement is incorrect: Severe malaria."
+        "explanation": "Severe malaria presents with anemia, jaundice, and organ dysfunction, but polyuria/polydipsia points to DKA."
       },
       {
         "id": "E",
         "text": "Hypoglycaemia",
         "answer": "F",
-        "explanation": "This statement is incorrect: Hypoglycaemia."
+        "explanation": "Hypoglycemia causes acute adrenergic and neuroglycopenic symptoms without preceding chronic polyuria, polydipsia, and severe metabolic ketoacidosis."
       }
     ]
   },
@@ -19951,31 +19951,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "This finding is pathognomonic for the condition discussed",
         "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "explanation": "Clinical suspicion requires rapid bedside testing rather than relying on pathognomonic physical signs."
       },
       {
         "id": "B",
         "text": "Random blood sugar",
-        "answer": "F",
-        "explanation": "Random blood sugar — a. Urinalysis, c. PCV, d. Skull X-ray, e. ABG — all F as first bedside test."
+        "answer": "T",
+        "explanation": "Immediate bedside Point-of-Care Blood Glucose (glucometer test) and urine dipstick for glucose and ketones are the mandatory first diagnostic steps."
       },
       {
         "id": "C",
         "text": "Early diagnosis and intervention improve long-term outcome",
         "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "explanation": "Early recognition of DKA and prompt initiation of protocolized fluid and insulin therapy prevent progression to cerebral edema and death."
       },
       {
         "id": "D",
         "text": "Laboratory confirmation is always required before starting treatment",
         "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "explanation": "In suspected DKA with altered consciousness, immediate bedside blood glucose confirmation allows protocolized resuscitation without delay."
       },
       {
         "id": "E",
         "text": "Parental education is an essential component of management",
         "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "explanation": "Educating parents and patients on insulin administration, blood glucose monitoring, and sick-day rules is essential to prevent recurrent DKA."
       }
     ]
   },
@@ -20025,31 +20025,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Hoarseness of voice",
         "answer": "T",
-        "explanation": "This statement is correct: Hoarseness of voice."
+        "explanation": "The anterior fontanelle normally closes between 9 and 18 months of age in healthy term infants."
       },
       {
         "id": "B",
         "text": "Facial asymmetry",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Facial asymmetry."
+        "answer": "T",
+        "explanation": "Hydrocephalus causes progressive macrocephaly and delayed closure of the anterior fontanelle beyond 18 months."
       },
       {
         "id": "C",
         "text": "Prolonged neonatal jaundice",
         "answer": "T",
-        "explanation": "This statement is correct: Prolonged neonatal jaundice."
+        "explanation": "Congenital hypothyroidism causes delayed skeletal maturation, leading to persistence of a wide anterior fontanelle."
       },
       {
         "id": "D",
         "text": "Hypertonia",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Hypertonia."
+        "answer": "T",
+        "explanation": "Nutritional rickets impairs osteoid mineralization, delaying fontanelle closure."
       },
       {
         "id": "E",
         "text": "Constipation",
         "answer": "T",
-        "explanation": "This statement is correct: Constipation."
+        "explanation": "Protein-energy malnutrition causes generalized growth failure and delayed bone maturation, persistence of fontanelle."
       }
     ]
   },
@@ -20061,32 +20061,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Birth asphyxia",
-        "answer": "T",
-        "explanation": "This statement is correct: Birth asphyxia."
+        "answer": "F",
+        "explanation": "Delayed fontanelle closure is defined as an open anterior fontanelle persistence beyond 18 months of age, not 6 months."
       },
       {
         "id": "B",
         "text": "Hypothyroidism",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Hypothyroidism."
+        "answer": "T",
+        "explanation": "Craniosynostosis (premature fusion of cranial sutures) causes early closure of fontanelles."
       },
       {
         "id": "C",
         "text": "Hydrocephalus",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Hydrocephalus."
+        "answer": "T",
+        "explanation": "A bulging, tense anterior fontanelle is a classic sign of increased intracranial pressure in infants."
       },
       {
         "id": "D",
         "text": "Trisomy 13",
         "answer": "T",
-        "explanation": "This statement is correct: Trisomy 13."
+        "explanation": "A depressed, sunken anterior fontanelle is a classic physical sign of dehydration in infants."
       },
       {
         "id": "E",
         "text": "Vit D deficiency rickets",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Vit D deficiency rickets."
+        "answer": "T",
+        "explanation": "Apert syndrome features premature cranial suture fusion (craniosynostosis) and severe syndactyly."
       }
     ]
   },
@@ -20098,32 +20098,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Down syndrome (Trisomy 21) is the most common live-born autosomal chromosomal disorder."
       },
       {
         "id": "B",
         "text": "Early diagnosis and intervention improve long-term outcome",
-        "answer": "T",
-        "explanation": "TRUE: In most paediatric conditions timely recognition and treatment reduce morbidity and improve prognosis."
+        "answer": "F",
+        "explanation": "Advanced maternal age (not paternal age) is the major risk factor for meiotic non-disjunction in Down syndrome."
       },
       {
         "id": "C",
         "text": "Hypothyroidism",
-        "answer": "F",
-        "explanation": "This is incorrect. part of differential list with achondroplasia, Marfan, Morquio — all F."
+        "answer": "T",
+        "explanation": "Trisomy 21 due to meiotic non-disjunction accounts for 95% of Down syndrome cases."
       },
       {
         "id": "D",
         "text": "Laboratory confirmation is always required before starting treatment",
-        "answer": "F",
-        "explanation": "FALSE: In many life-threatening situations (e.g. suspected meningitis, severe dehydration) treatment is started on clinical grounds while investigations are pending."
+        "answer": "T",
+        "explanation": "Robertsonian translocation accounts for approximately 3–4% of Down syndrome cases."
       },
       {
         "id": "E",
         "text": "Parental education is an essential component of management",
         "answer": "T",
-        "explanation": "TRUE: Explaining the condition, danger signs and follow-up plan to caregivers is a core part of paediatric care."
+        "explanation": "Laxity of the transverse atlantoaxial ligament predisposes 10–20% of Down syndrome individuals to atlantoaxial instability."
       }
     ]
   },
@@ -20173,31 +20173,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "History of cancer treatment",
         "answer": "T",
-        "explanation": "This statement is correct: History of cancer treatment."
+        "explanation": "Klinefelter syndrome is characterized by a 47,XXY karyotype in approximately 80% of cases."
       },
       {
         "id": "B",
         "text": "Short stature",
         "answer": "T",
-        "explanation": "This statement is correct: Short stature."
+        "explanation": "Hypogonadism in Klinefelter syndrome leads to delayed puberty, incomplete virilization, and tall eunuchoid stature."
       },
       {
         "id": "C",
         "text": "Family history of delayed puberty",
         "answer": "T",
-        "explanation": "This statement is correct: Family history of delayed puberty."
+        "explanation": "The supernumerary X chromosome arises from non-disjunction during maternal or paternal gametogenesis."
       },
       {
         "id": "D",
         "text": "History of sexual activity",
-        "answer": "T",
-        "explanation": "This statement is correct: History of sexual activity."
+        "answer": "F",
+        "explanation": "Klinefelter syndrome causes tall stature with disproportionately long lower extremities, not short stature."
       },
       {
         "id": "E",
         "text": "History of previous abortion",
         "answer": "F",
-        "explanation": "This statement is incorrect: History of previous abortion."
+        "explanation": "Blindness from retinal detachment is not a recognized feature of Klinefelter syndrome."
       }
     ]
   },
@@ -20210,31 +20210,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Does not affect >2 years",
         "answer": "F",
-        "explanation": "This statement is incorrect: Does not affect >2 years."
+        "explanation": "Prader-Willi syndrome features hypotonia, hyperphagia, and hypogonadism, but not macroglossia."
       },
       {
         "id": "B",
         "text": "Affects flexural surfaces in adults",
-        "answer": "T",
-        "explanation": "This statement is correct: Affects flexural surfaces in adults."
+        "answer": "F",
+        "explanation": "Prune Belly syndrome consists of abdominal muscle deficiency, urinary tract anomalies, and cryptorchidism, without macroglossia."
       },
       {
         "id": "C",
         "text": "Associated with elevated IgE",
         "answer": "T",
-        "explanation": "This statement is correct: Associated with elevated IgE."
+        "explanation": "Beckwith-Wiedemann syndrome is an overgrowth syndrome classically presenting with true macroglossia, macrosomia, and omphalocele."
       },
       {
         "id": "D",
         "text": "Associated with filaggrin gene mutation",
         "answer": "T",
-        "explanation": "This statement is correct: Associated with filaggrin gene mutation."
+        "explanation": "Down syndrome causes relative macroglossia due to a small oral cavity and muscular hypotonia."
       },
       {
         "id": "E",
         "text": "Does not affect face in infants",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Does not affect face in infants."
+        "answer": "T",
+        "explanation": "Congenital hypothyroidism causes macroglossia due to glycosaminoglycan accumulation within the tongue."
       }
     ]
   },
@@ -20246,32 +20246,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Irritant dermatitis is the common rash",
-        "answer": "T",
-        "explanation": "This statement is correct: Irritant dermatitis is the common rash."
+        "answer": "F",
+        "explanation": "von Willebrand disease (types 1 and 2) is inherited in an autosomal dominant pattern."
       },
       {
         "id": "B",
         "text": "Candida dermatitis spares the skin fold",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Candida dermatitis spares the skin fold."
+        "answer": "T",
+        "explanation": "Alpha-1 antitrypsin deficiency is inherited in an autosomal recessive / codominant manner."
       },
       {
         "id": "C",
         "text": "Cloth diapers prevent dermatitis better than disposable diapers",
         "answer": "F",
-        "explanation": "This statement is incorrect: Cloth diapers prevent dermatitis better than disposable diapers."
+        "explanation": "Neurofibromatosis type 1 is a classic autosomal dominant condition (NF1 gene)."
       },
       {
         "id": "D",
         "text": "Zinc oxide cream is very effective",
         "answer": "T",
-        "explanation": "This statement is correct: Zinc oxide cream is very effective."
+        "explanation": "Cystic fibrosis is an autosomal recessive disorder caused by CFTR gene mutations."
       },
       {
         "id": "E",
         "text": "Satellite lesion is caused by bacteria",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Satellite lesion is caused by bacteria."
+        "answer": "T",
+        "explanation": "Phenylketonuria (PKU) is an autosomal recessive inborn error of phenylalanine metabolism."
       }
     ]
   },
@@ -20283,32 +20283,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Isotretinoin should be used with caution",
-        "answer": "T",
-        "explanation": "This statement is correct: Isotretinoin should be used with caution."
+        "answer": "F",
+        "explanation": "Nutritional Vitamin D deficiency rickets is an acquired environmental disease, not an inherited genetic disorder."
       },
       {
         "id": "B",
         "text": "Topical antibiotics don't play a role",
         "answer": "F",
-        "explanation": "This statement is incorrect: Topical antibiotics don't play a role."
+        "explanation": "Osteogenesis imperfecta (types I–IV) is predominantly inherited in an autosomal dominant manner (COL1A1/COL1A2 mutations)."
       },
       {
         "id": "C",
         "text": "Antifungal is the mainstay of treatment",
         "answer": "F",
-        "explanation": "This statement is incorrect: Antifungal is the mainstay of treatment."
+        "explanation": "Tuberous sclerosis complex is an autosomal dominant neurocutaneous disorder."
       },
       {
         "id": "D",
         "text": "Fried foods should be avoided",
-        "answer": "T",
-        "explanation": "This statement is correct: Fried foods should be avoided."
+        "answer": "F",
+        "explanation": "Ocular albinism (OA1) is an X-linked recessive disorder."
       },
       {
         "id": "E",
         "text": "Frequent scrubbing of face and area",
-        "answer": "T",
-        "explanation": "This statement is correct: Frequent scrubbing of face and area."
+        "answer": "F",
+        "explanation": "Achondroplasia is an autosomal dominant skeletal dysplasia caused by gain-of-function FGFR3 mutations."
       }
     ]
   },
@@ -20321,31 +20321,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Organism classified as arthropod",
         "answer": "T",
-        "explanation": "This statement is correct: Organism classified as arthropod."
+        "explanation": "Deformation represents abnormal shape or position of a body part caused by mechanical forces on normal tissue (e.g. uterine crowding causing clubfoot)."
       },
       {
         "id": "B",
         "text": "Affects children of all socioeconomic class",
         "answer": "T",
-        "explanation": "This statement is correct: Affects children of all socioeconomic class."
+        "explanation": "Disruption is a morphologic defect resulting from extrinsic breakdown of originally normal tissue (e.g. amniotic band syndrome)."
       },
       {
         "id": "C",
         "text": "Itching is a result of immunological reaction from stool of organism",
         "answer": "T",
-        "explanation": "This statement is correct: Itching is a result of immunological reaction from stool of organism."
+        "explanation": "A syndrome is a recognized pattern of multiple anomalies with a single specific underlying cause."
       },
       {
         "id": "D",
         "text": "Calamine lotion is enough for treatment",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Calamine lotion is enough for treatment."
+        "answer": "T",
+        "explanation": "An association is a non-random occurrence of multiple anomalies occurring together more frequently than expected by chance without a known single cause (e.g. VACTERL)."
       },
       {
         "id": "E",
         "text": "Acute glomerulonephritis is a complication",
         "answer": "T",
-        "explanation": "This statement is correct: Acute glomerulonephritis is a complication."
+        "explanation": "A sequence is a pattern of multiple cascade anomalies derived from a single initial structural defect (e.g. Potter sequence starting from renal agenesis)."
       }
     ]
   },
@@ -20357,32 +20357,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Tinea corporis",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Tinea corporis."
+        "answer": "T",
+        "explanation": "Anencephaly causes polyhydramnios due to absent fetal swallowing reflexes and lack of neural control."
       },
       {
         "id": "B",
         "text": "Trichotillomania",
         "answer": "T",
-        "explanation": "This statement is correct: Trichotillomania."
+        "explanation": "Esophageal atresia prevents fetal swallowing of amniotic fluid, resulting in maternal polyhydramnios."
       },
       {
         "id": "C",
         "text": "Kwashiorkor",
-        "answer": "T",
-        "explanation": "This statement is correct: Kwashiorkor."
+        "answer": "F",
+        "explanation": "Horseshoe kidney is a renal structural fusion anomaly that maintains normal urine output and does not cause polyhydramnios."
       },
       {
         "id": "D",
         "text": "Tinea capitis",
         "answer": "T",
-        "explanation": "This statement is correct: Tinea capitis."
+        "explanation": "Duodenal atresia causes mechanical GI obstruction in utero, preventing fluid absorption and causing polyhydramnios."
       },
       {
         "id": "E",
         "text": "Cyclophosphamide side effect",
-        "answer": "T",
-        "explanation": "This statement is correct: Cyclophosphamide side effect."
+        "answer": "F",
+        "explanation": "Pulmonary hypoplasia is a consequence of oligohydramnios, not a cause of polyhydramnios."
       }
     ]
   },
@@ -20395,31 +20395,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Port wine stain in Sturge-Weber syndrome",
         "answer": "T",
-        "explanation": "This statement is correct: Port wine stain in Sturge-Weber syndrome."
+        "explanation": "Bilateral renal agenesis eliminates fetal urine production, causing severe oligohydramnios and Potter sequence."
       },
       {
         "id": "B",
         "text": "Café-au-lait in Neurofibromatosis",
         "answer": "T",
-        "explanation": "This statement is correct: Café-au-lait in Neurofibromatosis."
+        "explanation": "Prune belly syndrome with severe urinary outflow obstruction impairs fetal urine excretion, causing oligohydramnios."
       },
       {
         "id": "C",
         "text": "Shagreen patch in VHL disease",
         "answer": "F",
-        "explanation": "This is incorrect. Tuberous Sclerosis."
+        "explanation": "Spina bifida is a neural tube defect that is not a cause of oligohydramnios."
       },
       {
         "id": "D",
         "text": "Hypomelanotic macules in tuberous sclerosis",
         "answer": "T",
-        "explanation": "This statement is correct: Hypomelanotic macules in tuberous sclerosis."
+        "explanation": "Clubfoot (talipes equinovarus) occurs as a secondary positional deformation resulting from severe oligohydramnios."
       },
       {
         "id": "E",
         "text": "Alopecia and linear vesicles in incontinentia pigmenti",
-        "answer": "T",
-        "explanation": "This statement is correct: Alopecia and linear vesicles in incontinentia pigmenti."
+        "answer": "F",
+        "explanation": "Cleft palate alone does not significantly alter amniotic fluid volume."
       }
     ]
   },
@@ -20431,32 +20431,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Herpes simplex",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Herpes simplex."
+        "answer": "T",
+        "explanation": "Bilateral choanal atresia causes complete nasal airway obstruction; bag-mask ventilation can force air into stomach unless an oral airway is inserted."
       },
       {
         "id": "B",
         "text": "Varicella",
         "answer": "F",
-        "explanation": "This statement is incorrect: Varicella."
+        "explanation": "Isolated cleft lip is not an absolute contraindication to bag-mask ventilation."
       },
       {
         "id": "C",
         "text": "Herpes zoster",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Herpes zoster."
+        "answer": "T",
+        "explanation": "Congenital Diaphragmatic Hernia (CDH) is an absolute contraindication to bag-mask ventilation because positive-pressure ventilation inflates intrathoracic viscera."
       },
       {
         "id": "D",
         "text": "Eczema herpeticum",
         "answer": "F",
-        "explanation": "This statement is incorrect: Eczema herpeticum."
+        "explanation": "Bronchogenic cysts cause localized mass effects but are not absolute contraindications to emergency resuscitation."
       },
       {
         "id": "E",
         "text": "Mycelia (fungal infection)",
-        "answer": "T",
-        "explanation": "Mycelia (fungal infection) — exception."
+        "answer": "F",
+        "explanation": "Neural tube defects require careful positioning to avoid sac rupture during resuscitation but are not absolute contraindications to BMV."
       }
     ]
   },
@@ -20468,32 +20468,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Medication errors in children are an infrequent occurrence in health settings",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Medication errors in children are an infrequent occurrence in health settings."
+        "answer": "T",
+        "explanation": "Treponema pallidum is a spirochete that causes congenital syphilis via transplacental transmission."
       },
       {
         "id": "B",
         "text": "Clinical errors rarely occur from prescribing errors",
         "answer": "F",
-        "explanation": "This statement is incorrect: Clinical errors rarely occur from prescribing errors."
+        "explanation": "Rubella virus is a single-stranded positive-sense RNA virus (Matonaviridae family), not a double-stranded RNA virus."
       },
       {
         "id": "C",
         "text": "Prescription errors are rarely fatal",
-        "answer": "F",
-        "explanation": "FALSE: Prescription errors are NOT rarely fatal — they are a significant cause of preventable patient harm and death in children. Paediatric patients are especially vulnerable due to weight-based dosing, narrow therapeutic indices, and off-label prescribing."
+        "answer": "T",
+        "explanation": "Congenital Cytomegalovirus (CMV) classically presents with periventricular intracranial calcifications, microcephaly, and sensorineural hearing loss."
       },
       {
         "id": "D",
         "text": "Prescription error may occur from all grades of doctors",
         "answer": "T",
-        "explanation": "This statement is correct: Prescription error may occur from all grades of doctors."
+        "explanation": "Congenital Varicella Syndrome is caused by intrauterine Varicella-Zoster Virus (VZV) infection."
       },
       {
         "id": "E",
         "text": "This finding is pathognomonic for the condition discussed",
-        "answer": "F",
-        "explanation": "FALSE: Few clinical findings are truly pathognomonic; differential diagnosis must always be considered."
+        "answer": "T",
+        "explanation": "Toxoplasma gondii is an intracellular protozoan parasite causing congenital toxoplasmosis (hydrocephalus, chorioretinitis, intracranial calcifications)."
       }
     ]
   },
@@ -20542,32 +20542,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Rifampicin is bacteriostatic",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Rifampicin is bacteriostatic."
+        "answer": "T",
+        "explanation": "Early purulent nasal discharge (\"snuffles\") is a classic early presentation of congenital syphilis."
       },
       {
         "id": "B",
         "text": "Erythromycin is a macrolide",
         "answer": "T",
-        "explanation": "This statement is correct: Erythromycin is a macrolide."
+        "explanation": "Depressed nasal bridge (\"saddle nose\") results from syphilitic nasal chondritis."
       },
       {
         "id": "C",
         "text": "Cotrimoxazole is bactericidal",
         "answer": "T",
-        "explanation": "This statement is correct: Cotrimoxazole is bactericidal."
+        "explanation": "Gummata (granulomatous tertiary lesions) occur in late untreated congenital syphilis."
       },
       {
         "id": "D",
         "text": "Clindamycin is an aminoglycoside",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Clindamycin is an aminoglycoside."
+        "answer": "T",
+        "explanation": "Rhagades are perioral radiating linear scars resulting from syphilitic mucosal lesions."
       },
       {
         "id": "E",
         "text": "Cefixime is a cephalosporin",
         "answer": "T",
-        "explanation": "This statement is correct: Cefixime is a cephalosporin."
+        "explanation": "Sabre tibiae (anterior tibial bowing) result from chronic periostitis in late congenital syphilis."
       }
     ]
   },
@@ -20579,32 +20579,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Child and mother are not important",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Child and mother are not important."
+        "answer": "T",
+        "explanation": "Rhagades are linear cicatricial perioral and perianal scars characteristic of congenital syphilis."
       },
       {
         "id": "B",
         "text": "Written consent is needed for blood sample",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Written consent is needed for blood sample."
+        "answer": "T",
+        "explanation": "Sabre tibia is a bone deformity of late congenital syphilis."
       },
       {
         "id": "C",
         "text": "No consent is needed to manage emergency",
         "answer": "T",
-        "explanation": "This statement is correct: No consent is needed to manage emergency."
+        "explanation": "Gummata can present as late tertiary lesions in congenital syphilis."
       },
       {
         "id": "D",
         "text": "10 years and above are involved in decision",
         "answer": "T",
-        "explanation": "This statement is correct: 10 years and above are involved in decision."
+        "explanation": "Saddle nose deformity occurs in late congenital syphilis due to destruction of the nasal septum."
       },
       {
         "id": "E",
         "text": "Parents' decision is not hindered by child's rights",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Parents' decision is not hindered by child's rights."
+        "answer": "T",
+        "explanation": "Snuffles is an early mucosal manifestation of congenital syphilis."
       }
     ]
   },
@@ -20653,32 +20653,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Corneal xerosis – Vitamin A deficiency",
-        "answer": "T",
-        "explanation": "This statement is correct: Corneal xerosis – Vitamin A deficiency."
+        "answer": "F",
+        "explanation": "Untreated maternal syphilis during pregnancy carries up to a 70–100% risk of fetal infection."
       },
       {
         "id": "B",
         "text": "Ophthalmia neonatorum – N. gonorrhoea",
-        "answer": "T",
-        "explanation": "This statement is correct: Ophthalmia neonatorum – N. gonorrhoea."
+        "answer": "F",
+        "explanation": "Maternal rubella infection leading to congenital rubella syndrome occurs predominantly during the first trimester."
       },
       {
         "id": "C",
         "text": "Phlyctenular conjunctivitis – Measles",
-        "answer": "T",
-        "explanation": "This statement is correct: Phlyctenular conjunctivitis – Measles."
+        "answer": "F",
+        "explanation": "Hydrocephalus is characteristic of congenital toxoplasmosis, whereas microcephaly is more associated with congenital rubella and CMV."
       },
       {
         "id": "D",
         "text": "Vernal conjunctivitis – Adenovirus",
         "answer": "F",
-        "explanation": "This statement is incorrect: Vernal conjunctivitis – Adenovirus."
+        "explanation": "Periventricular subependymal calcifications are characteristic of congenital CMV."
       },
       {
         "id": "E",
         "text": "Night blindness – Vitamin E deficiency",
         "answer": "F",
-        "explanation": "This is incorrect. it's Vitamin A."
+        "explanation": "Neonatal HSV is usually acquired intrapartum during passage through an infected birth canal."
       }
     ]
   },
@@ -20690,32 +20690,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "It is the 3rd commonest eye disease in newborn",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It is the 3rd commonest eye disease in newborn."
+        "answer": "T",
+        "explanation": "Early initiation of breastfeeding within 1 hour of birth promotes maternal-infant bonding and colostrum transfer."
       },
       {
         "id": "B",
         "text": "Maternal genital infection is a risk factor",
-        "answer": "T",
-        "explanation": "This statement is correct: Maternal genital infection is a risk factor."
+        "answer": "F",
+        "explanation": "Exclusive breastfeeding is recommended for 6 months (180 days), not 8 months."
       },
       {
         "id": "C",
         "text": "It is rarely present from the first day of life",
         "answer": "T",
-        "explanation": "This statement is correct: It is rarely present from the first day of life."
+        "explanation": "WHO recommends continued breastfeeding alongside complementary foods up to 2 years of age or beyond."
       },
       {
         "id": "D",
         "text": "Aetiology could be chemical",
         "answer": "T",
-        "explanation": "This statement is correct: Aetiology could be chemical."
+        "explanation": "Complementary feeding should adhere to FADUS principles (Frequency, Amount, Density, Utilization, Safety)."
       },
       {
         "id": "E",
         "text": "May present with sticky eye discharge",
-        "answer": "T",
-        "explanation": "This statement is correct: May present with sticky eye discharge."
+        "answer": "F",
+        "explanation": "Complementary foods (solids and semi-solids) should be introduced at 6 months of age."
       }
     ]
   },
@@ -20728,31 +20728,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Tinea capitis (Microsporum species)",
         "answer": "T",
-        "explanation": "TRUE: Wood's lamp produces yellow-green fluorescence with many Microsporum species causing tinea capitis and is useful for diagnosis and monitoring."
+        "explanation": "Wood's lamp examination aids in identifying ash-leaf hypopigmented macules in tuberous sclerosis."
       },
       {
         "id": "B",
         "text": "Erythrasma",
         "answer": "T",
-        "explanation": "TRUE: Corynebacterium minutissimum (erythrasma) shows coral-red fluorescence under Wood's lamp."
+        "explanation": "Microsporum species causing tinea capitis emit bright green fluorescence under Wood's lamp."
       },
       {
         "id": "C",
         "text": "Vitiligo / pigmentary disorders",
         "answer": "T",
-        "explanation": "TRUE: Wood's lamp accentuates the contrast between pigmented and depigmented skin and helps delineate vitiligo."
+        "explanation": "Porphyrins in urine and skin of porphyria patients fluoresce pink-red under Wood's light."
       },
       {
         "id": "D",
         "text": "Porphyria cutanea tarda (urine)",
         "answer": "T",
-        "explanation": "TRUE: Urine of patients with PCT may show pink-red fluorescence under Wood's lamp due to porphyrins."
+        "explanation": "Wood's lamp accentuates epidermal depigmentation in vitiligo."
       },
       {
         "id": "E",
         "text": "Corneal ulceration",
-        "answer": "T",
-        "explanation": "This statement is correct: Corneal ulceration."
+        "answer": "F",
+        "explanation": "Corneal ulceration is evaluated using fluorescein staining under a slit lamp with cobalt blue filter, not Wood's lamp."
       }
     ]
   },
@@ -20764,32 +20764,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "It presents as mal-alignment of the ears",
-        "answer": "F",
-        "explanation": "This statement is incorrect: It presents as mal-alignment of the ears."
+        "answer": "T",
+        "explanation": "Preterm infants <34 weeks require specialized feeding (gavage or cup feeding) due to uncoordinated suck-swallow mechanics."
       },
       {
         "id": "B",
         "text": "It can cause amblyopia",
         "answer": "T",
-        "explanation": "This statement is correct: It can cause amblyopia."
+        "explanation": "Infants with cleft lip/palate require specialized bottles and teats (e.g. Haberman feeder) to facilitate intake."
       },
       {
         "id": "C",
         "text": "Early treatment is essential for prevention of permanent disability",
-        "answer": "T",
-        "explanation": "This statement is correct: Early treatment is essential for prevention of permanent disability."
+        "answer": "F",
+        "explanation": "Specialized feeding techniques are clinical supportive interventions, not pathognomonic diagnostic findings."
       },
       {
         "id": "D",
         "text": "It doesn't have significant psychological effect on the affected child",
         "answer": "T",
-        "explanation": "This statement is correct: It doesn't have significant psychological effect on the affected child."
+        "explanation": "Infants with Down syndrome often require specialized feeding support due to oral hypotonia and weak suck."
       },
       {
         "id": "E",
         "text": "Abducens nerve palsy commonly presents with strabismus",
-        "answer": "T",
-        "explanation": "This statement is correct: Abducens nerve palsy commonly presents with strabismus."
+        "answer": "F",
+        "explanation": "Infants with congenital heart disease often experience tachypnea and fatigue during feeds, benefiting from high-calorie fortified feedings."
       }
     ]
   },
@@ -20801,32 +20801,32 @@ window.QUESTIONS_DATA = [
       {
         "id": "A",
         "text": "Ptosis",
-        "answer": "T",
-        "explanation": "This statement is correct: Ptosis."
+        "answer": "F",
+        "explanation": "Approximately 10% of newborns require basic assistance at birth, but only ~1% require extensive resuscitation."
       },
       {
         "id": "B",
         "text": "Divergent squint",
-        "answer": "T",
-        "explanation": "This statement is correct: Divergent squint."
+        "answer": "F",
+        "explanation": "Routine endotracheal suctioning is NOT indicated for vigorous meconium-stained infants; standard resuscitation steps apply."
       },
       {
         "id": "C",
         "text": "Miosis",
-        "answer": "F",
-        "explanation": "This is incorrect. mydriasis."
+        "answer": "T",
+        "explanation": "Physiological jaundice typically appears after 24 hours of life."
       },
       {
         "id": "D",
         "text": "Loss of corneal reflex",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Loss of corneal reflex."
+        "answer": "T",
+        "explanation": "Phototherapy is the primary non-invasive treatment for significant unconjugated hyperbilirubinemia."
       },
       {
         "id": "E",
         "text": "Anhidrosis",
-        "answer": "F",
-        "explanation": "This statement is incorrect: Anhidrosis."
+        "answer": "T",
+        "explanation": "Initial steps in neonatal resuscitation consist of providing warmth, positioning the airway, drying, and stimulation."
       }
     ]
   },
@@ -20839,31 +20839,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Leukocoria (white pupillary reflex) is the most common presenting sign",
         "answer": "T",
-        "explanation": "TRUE: Leukocoria is the classic and most frequent presenting feature of retinoblastoma."
+        "explanation": "Pulmonary fluid absorption into lymphatics and pulmonary microcirculation occurs rapidly at birth."
       },
       {
         "id": "B",
         "text": "It is the most common primary intraocular malignancy of childhood",
         "answer": "T",
-        "explanation": "TRUE: Retinoblastoma is the commonest primary intraocular tumour in children."
+        "explanation": "Umbilical arteries constrict rapidly after birth to prevent neonatal blood loss."
       },
       {
         "id": "C",
         "text": "Bilateral disease implies a germline RB1 mutation",
-        "answer": "T",
-        "explanation": "TRUE: Bilateral or multifocal retinoblastoma almost always indicates a germline mutation in the RB1 tumour-suppressor gene."
+        "answer": "F",
+        "explanation": "Clamping the umbilical cord removes the low-resistance placental circuit, causing systemic vascular resistance and blood pressure to RISE."
       },
       {
         "id": "D",
         "text": "Strabismus is an initial presenting symptom",
-        "answer": "T",
-        "explanation": "This statement is correct: Strabismus is an initial presenting symptom."
+        "answer": "F",
+        "explanation": "Functional closure of the ductus arteriosus occurs within 10–24 hours postnatally; anatomical closure takes several weeks."
       },
       {
         "id": "E",
         "text": "Calcification within the mass is a characteristic radiological finding",
         "answer": "T",
-        "explanation": "TRUE: Intraocular calcification on CT or ultrasound is highly characteristic of retinoblastoma."
+        "explanation": "Late fetal heart rate decelerations indicate uteroplacental insufficiency and fetal hypoxia."
       }
     ]
   },
@@ -20950,31 +20950,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Choanal atresia",
         "answer": "T",
-        "explanation": "This statement is correct: Choanal atresia."
+        "explanation": "Bilateral choanal atresia prevents nasal air entry; bag-mask ventilation is ineffective without an oral airway."
       },
       {
         "id": "B",
         "text": "Tracheo-oesophageal fistula",
         "answer": "F",
-        "explanation": "FALSE: Isolated TOF is not an absolute contraindication to bag-mask ventilation, although care is needed; the classic absolute contraindications are CDH and severe congenital anomalies of the airway such as choanal atresia when nasal ventilation is attempted."
+        "explanation": "Tracheoesophageal fistula is not an absolute contraindication to bag-mask ventilation, though gentle ventilation is advised to minimize gastric distension."
       },
       {
         "id": "C",
         "text": "Diaphragmatic hernia",
         "answer": "T",
-        "explanation": "This statement is correct: Diaphragmatic hernia."
+        "explanation": "Congenital Diaphragmatic Hernia (CDH) is an absolute contraindication to bag-mask ventilation due to severe visceral inflation in the chest."
       },
       {
         "id": "D",
         "text": "Congenital cystic adenomatoid malformation (large)",
         "answer": "F",
-        "explanation": "FALSE: Large CCAM may cause respiratory distress but is not listed among the classic absolute contraindications to bag-mask ventilation (CDH and complete airway obstruction are)."
+        "explanation": "Congenital pulmonary airway malformations are not absolute contraindications to emergency resuscitation."
       },
       {
         "id": "E",
         "text": "Severe micrognathia / Pierre Robin sequence",
         "answer": "T",
-        "explanation": "TRUE: Severe micrognathia can make bag-mask ventilation extremely difficult or impossible; early advanced airway management is often required."
+        "explanation": "Severe micrognathia in Pierre Robin sequence makes bag-mask ventilation difficult or impossible, often requiring immediate laryngeal mask or endotracheal intubation."
       }
     ]
   },
@@ -20987,31 +20987,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Bilateral renal agenesis (Potter's sequence)",
         "answer": "T",
-        "explanation": "TRUE: Bilateral renal agenesis results in absent foetal urine production, the main source of amniotic fluid from 16 weeks onwards. This causes severe oligohydramnios (Potter's sequence)."
+        "explanation": "Bilateral renal agenesis (Potter sequence) eliminates fetal urine output, causing severe oligohydramnios."
       },
       {
         "id": "B",
         "text": "Pulmonary hypoplasia",
         "answer": "T",
-        "explanation": "TRUE: Oligohydramnios leads to pulmonary hypoplasia because foetal breathing movements (which require amniotic fluid inhalation) are essential for normal lung development."
+        "explanation": "Oligohydramnios deprives the lungs of fluid expansion pressure and fetal breathing movements, leading to pulmonary hypoplasia."
       },
       {
         "id": "C",
         "text": "Congenital diaphragmatic hernia",
         "answer": "F",
-        "explanation": "FALSE: CDH does not cause oligohydramnios. In fact, oesophageal obstruction from herniated bowel loops may contribute to POLYHYDRAMNIOS (accumulated swallowed fluid). CDH is associated with pulmonary hypoplasia, but as a consequence of mass effect, not oligohydramnios."
+        "explanation": "Congenital diaphragmatic hernia does not cause oligohydramnios (it can cause polyhydramnios if thoracic bowel compresses the esophagus)."
       },
       {
         "id": "D",
         "text": "Intrauterine growth restriction (IUGR)",
         "answer": "T",
-        "explanation": "TRUE: In placental insufficiency causing IUGR, reduced foetal blood flow to the kidneys decreases urine output, resulting in oligohydramnios."
+        "explanation": "Placental insufficiency in IUGR reduces renal blood flow, causing oligohydramnios."
       },
       {
         "id": "E",
         "text": "Post-term pregnancy (>42 weeks)",
         "answer": "T",
-        "explanation": "TRUE: Post-term pregnancy is associated with placental senescence (ageing), reduced uteroplacental circulation, and consequently oligohydramnios — a significant risk factor for foetal compromise."
+        "explanation": "Post-term pregnancy (>42 weeks) causes placental aging and decreased amniotic fluid volume (oligohydramnios)."
       }
     ]
   },
@@ -21061,31 +21061,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Day-care attendance increases the risk of recurrent acute otitis media",
         "answer": "T",
-        "explanation": "TRUE: Children in day-care settings have higher rates of upper respiratory infections and acute otitis media because of increased pathogen exposure."
+        "explanation": "Day-care attendance significantly increases exposure to respiratory viruses, increasing the incidence of acute otitis media."
       },
       {
         "id": "B",
         "text": "Otitis media risk is three times higher in infants at home than in day care setting",
         "answer": "F",
-        "explanation": "This statement is incorrect: Otitis media risk is three times higher in infants at home than in day care setting."
+        "explanation": "Otitis media incidence is higher in day-care settings than in home-reared infants."
       },
       {
         "id": "C",
         "text": "Passive smoke exposure is a recognised risk factor for otitis media",
         "answer": "T",
-        "explanation": "TRUE: Environmental tobacco smoke is a well-established risk factor for both acute otitis media and otitis media with effusion."
+        "explanation": "Environmental tobacco smoke (passive smoking) causes Eustachian tube dysfunction and is a major risk factor for otitis media."
       },
       {
         "id": "D",
         "text": "Breastfeeding for ≥3 months is protective against otitis media",
         "answer": "T",
-        "explanation": "TRUE: Exclusive breastfeeding for at least 3–6 months reduces the incidence of acute otitis media."
+        "explanation": "Exclusive breastfeeding for >=3–6 months provides protective immunoglobulins (sIgA) that reduce otitis media incidence."
       },
       {
         "id": "E",
         "text": "Pacifier (dummy) use has no association with otitis media",
         "answer": "F",
-        "explanation": "FALSE: Frequent pacifier use is associated with a modestly increased risk of recurrent acute otitis media."
+        "explanation": "Frequent pacifier (dummy) use alters Eustachian tube dynamics and is associated with increased risk of recurrent acute otitis media."
       }
     ]
   },
@@ -21098,31 +21098,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Croup (viral laryngotracheobronchitis)",
         "answer": "T",
-        "explanation": "TRUE: Systemic corticosteroids (e.g. dexamethasone) are standard therapy for croup and reduce airway oedema."
+        "explanation": "Single-dose systemic corticosteroids (e.g., oral/IM dexamethasone) are standard first-line treatment for croup."
       },
       {
         "id": "B",
         "text": "Acute epiglottitis",
         "answer": "T",
-        "explanation": "This statement is correct: Acute epiglottitis."
+        "explanation": "Corticosteroids reduce subglottic and supraglottic airway edema in acute epiglottitis alongside intubation and IV antibiotics."
       },
       {
         "id": "C",
         "text": "Allergic rhinitis (intranasal steroids)",
         "answer": "T",
-        "explanation": "TRUE: Intranasal corticosteroids are first-line anti-inflammatory treatment for persistent allergic rhinitis."
+        "explanation": "Intranasal corticosteroids are the most effective first-line anti-inflammatory monotherapy for persistent allergic rhinitis."
       },
       {
         "id": "D",
         "text": "Bell's palsy (within 72 hours)",
         "answer": "T",
-        "explanation": "TRUE: Early corticosteroids improve recovery rates in idiopathic facial-nerve palsy."
+        "explanation": "Early systemic corticosteroids initiated within 72 hours improve facial nerve recovery rates in idiopathic Bell's palsy."
       },
       {
         "id": "E",
         "text": "Uncomplicated acute otitis media",
         "answer": "F",
-        "explanation": "FALSE: Uncomplicated AOM is treated with analgesics ± antibiotics; systemic steroids are not indicated."
+        "explanation": "Systemic corticosteroids are NOT indicated for uncomplicated acute otitis media."
       }
     ]
   },
@@ -21135,31 +21135,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Sensorineural hearing loss is the most common sequela",
         "answer": "T",
-        "explanation": "TRUE: Permanent sensorineural deafness is the most frequent manifestation of congenital rubella syndrome."
+        "explanation": "Permanent sensorineural hearing loss is the single most common long-term sequela of congenital rubella syndrome."
       },
       {
         "id": "B",
         "text": "Deafness",
         "answer": "T",
-        "explanation": "This statement is correct: Deafness."
+        "explanation": "Deafness occurs in up to 80% of infants with congenital rubella syndrome."
       },
       {
         "id": "C",
         "text": "Cataracts and retinopathy occur",
         "answer": "T",
-        "explanation": "TRUE: Ocular findings (cataracts, salt-and-pepper retinopathy, microphthalmia) are classic components of CRS."
+        "explanation": "Nuclear cataracts and \"salt-and-pepper\" pigmentary retinopathy are classic ocular hallmarks of congenital rubella."
       },
       {
         "id": "D",
         "text": "Patent ductus arteriosus and pulmonary stenosis are typical cardiac lesions",
         "answer": "T",
-        "explanation": "TRUE: PDA and peripheral pulmonary artery stenosis are the characteristic cardiac defects of CRS."
+        "explanation": "Patent ductus arteriosus (PDA) and peripheral pulmonary artery stenosis are the classic cardiac lesions of congenital rubella."
       },
       {
         "id": "E",
         "text": "Mental retardation / microcephaly may be present",
         "answer": "T",
-        "explanation": "TRUE: CNS involvement including microcephaly and developmental delay is part of the expanded CRS phenotype."
+        "explanation": "Microcephaly and intellectual disability reflect central nervous system involvement in congenital rubella syndrome."
       }
     ]
   },
@@ -21172,31 +21172,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Sensorineural deafness can occur in the convalescent phase",
         "answer": "T",
-        "explanation": "TRUE: Sudden sensorineural hearing loss is a recognised complication of Lassa fever, often appearing in convalescence and frequently permanent."
+        "explanation": "Sudden sensorineural hearing loss develops in ~29% of patients during the convalescent phase of Lassa fever."
       },
       {
         "id": "B",
         "text": "Sensorineural deafness that is associated in early disease is permanent",
         "answer": "T",
-        "explanation": "This statement is correct: Sensorineural deafness that is associated in early disease is permanent."
+        "explanation": "Lassa fever-induced sensorineural deafness is frequently permanent and un-restorable."
       },
       {
         "id": "C",
         "text": "It is caused by an arenavirus transmitted by multimammate rats",
         "answer": "T",
-        "explanation": "TRUE: Lassa virus is an Old-World arenavirus; the reservoir is Mastomys natalensis."
+        "explanation": "Lassa virus is an Arenavirus transmitted primarily through contact with excreta of the multimammate rat (Mastomys natalensis)."
       },
       {
         "id": "D",
         "text": "Ribavirin is used in treatment of severe cases",
         "answer": "T",
-        "explanation": "TRUE: Intravenous ribavirin improves survival when given early in severe Lassa fever."
+        "explanation": "Intravenous Ribavirin is an effective antiviral treatment when administered early in the course of severe Lassa fever."
       },
       {
         "id": "E",
         "text": "Person-to-person transmission does not occur",
         "answer": "F",
-        "explanation": "FALSE: Nosocomial and household person-to-person transmission via body fluids is well documented."
+        "explanation": "Nosocomial and household person-to-person transmission via direct contact with infected blood and body fluids is well documented."
       }
     ]
   },
@@ -21209,31 +21209,31 @@ window.QUESTIONS_DATA = [
         "id": "A",
         "text": "Neuroblastoma — curvilinear calcification",
         "answer": "F",
-        "explanation": "This statement is incorrect: Neuroblastoma — curvilinear calcification."
+        "explanation": "Neuroblastoma characteristically exhibits stippled or fine calcifications within the adrenal/retroperitoneal mass, not curvilinear."
       },
       {
         "id": "B",
         "text": "Burkitt's lymphoma",
-        "answer": "T",
-        "explanation": "Burkitt's lymphoma — hickened lamina dura — F."
+        "answer": "F",
+        "explanation": "Burkitt lymphoma causes LOSS of the lamina dura surrounding tooth sockets, not thickening."
       },
       {
         "id": "C",
         "text": "Ewing sarcoma — sunburst appearance",
         "answer": "F",
-        "explanation": "This statement is incorrect: Ewing sarcoma — sunburst appearance."
+        "explanation": "Ewing sarcoma produces an \"onion-skin\" (lamellated) periosteal reaction, whereas Osteosarcoma produces a sunburst pattern."
       },
       {
         "id": "D",
         "text": "Nephroblastoma — curvilinear calcification",
         "answer": "T",
-        "explanation": "This statement is correct: Nephroblastoma — curvilinear calcification."
+        "explanation": "Wilms tumor (Nephroblastoma) can demonstrate smooth curvilinear rim calcifications in 5–10% of cases."
       },
       {
         "id": "E",
         "text": "Osteosarcoma — onion skin appearance",
         "answer": "F",
-        "explanation": "This statement is incorrect: Osteosarcoma — onion skin appearance."
+        "explanation": "Osteosarcoma characteristically exhibits a \"sunburst\" periosteal reaction and Codman triangle, whereas Ewing sarcoma shows onion-skin layering."
       }
     ]
   },
